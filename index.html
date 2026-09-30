@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>데일리 브리프</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📑</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F1F3F6; --surface:#FFFFFF; --ink:#1C2733; --muted:#667283; --line:#D3DAE3; --soft:#ECEFF4;
+  --accent:#8150BF; --mark:#F2CF3D;
+  --c-dup:#8150BF; --c-back:#C8741F; --c-ipo:#2F5BD3; --c-rule:#1B8F6C;
+  --c-policy:#1B8F6C; --c-capital:#2F5BD3; --c-tech:#C93D62; --c-global:#C8741F;
+  --c-mat:#C8741F; --c-board:#2E8CAA; --c-next:#8150BF;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#11161E; --surface:#18202B; --ink:#E3E8EF; --muted:#8C97A7; --line:#2A3544; --soft:#1F2733;
+    --accent:#B08BEA; --mark:#E0BE32; --c-dup:#B08BEA; --c-back:#E9A25A; --c-ipo:#7D9CF2; --c-rule:#4CC39C;
+    --c-policy:#4CC39C; --c-capital:#7D9CF2; --c-tech:#EE7995; --c-global:#E9A25A;
+    --c-mat:#E9A25A; --c-board:#62BEDA; --c-next:#B08BEA;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#11161E; --surface:#18202B; --ink:#E3E8EF; --muted:#8C97A7; --line:#2A3544; --soft:#1F2733;
+  --accent:#B08BEA; --mark:#E0BE32; --c-dup:#B08BEA; --c-back:#E9A25A; --c-ipo:#7D9CF2; --c-rule:#4CC39C;
+    --c-policy:#4CC39C; --c-capital:#7D9CF2; --c-tech:#EE7995; --c-global:#E9A25A;
+    --c-mat:#E9A25A; --c-board:#62BEDA; --c-next:#B08BEA;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0; background:var(--bg); color:var(--ink); font-family:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif; font-size:16px; line-height:1.75; word-break:keep-all}
+button{font:inherit; color:inherit}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.wrap{max-width:980px; margin:0 auto; padding:36px 20px 80px}
+header.site{display:flex; justify-content:space-between; align-items:baseline; gap:16px; margin-bottom:40px; flex-wrap:wrap}
+.logo{font-weight:700; color:var(--ink); text-decoration:none}
+nav.site a{color:var(--muted); text-decoration:none; margin-left:18px; font-size:.95rem}
+nav.site a[aria-current="page"]{color:var(--ink); font-weight:500}
+h1{font-size:clamp(1.9rem,5.5vw,2.8rem); line-height:1.2; letter-spacing:-.02em; margin:0 0 10px}
+.lead{color:var(--muted); max-width:38em; margin:0 0 28px}
+
+.tools{display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:14px}
+.search{flex:1 1 260px; font:inherit; color:var(--ink); background:var(--surface); border:1px solid var(--line); border-radius:4px; padding:9px 12px}
+.chips{display:flex; gap:6px; flex-wrap:wrap}
+.chip{border:1px solid var(--line); background:transparent; border-radius:999px; padding:3px 12px; font-size:.86rem; cursor:pointer; display:inline-flex; align-items:center; gap:6px}
+.chip i{width:8px; height:8px; border-radius:50%; background:var(--c)}
+.chip[aria-pressed="true"]{border-color:var(--ink); box-shadow:inset 0 0 0 1px var(--ink)}
+.topics{display:flex; gap:0; border-bottom:1px solid var(--line); margin-bottom:18px; overflow-x:auto}
+.topic{background:none; border:none; border-bottom:3px solid transparent; padding:8px 16px; cursor:pointer; font-weight:500; color:var(--muted); white-space:nowrap}
+.topic[aria-pressed="true"]{color:var(--ink); border-bottom-color:var(--accent)}
+.rtopic{font-size:.8rem; color:var(--muted); display:block}
+.count{font-size:.88rem; color:var(--muted); margin:6px 0 10px}
+
+.board{list-style:none; margin:0; padding:0; background:var(--surface); border:1px solid var(--line); border-radius:6px; overflow:hidden}
+.row{display:grid; grid-template-columns:7.5em 1fr; gap:4px 18px; padding:16px 18px; border-bottom:1px solid var(--line); text-decoration:none; color:inherit}
+.board li:last-child .row{border-bottom:none}
+.row:hover{background:var(--soft)}
+.rdate{color:var(--muted); font-size:.88rem; font-variant-numeric:tabular-nums; padding-top:2px}
+.rtitle{font-weight:700; font-size:1.05rem; line-height:1.45}
+.rtags{display:flex; gap:6px; flex-wrap:wrap; margin:4px 0}
+.tag{font-size:.76rem; font-weight:500; color:var(--c); border:1px solid color-mix(in srgb,var(--c) 45%,transparent); border-radius:3px; padding:0 6px}
+.rsum{color:var(--muted); font-size:.94rem; margin:0}
+.empty{padding:28px 18px; color:var(--muted)}
+
+/* sort + views */
+.sortbar{display:flex; gap:6px; align-items:center; margin-left:auto}
+.sortbar button{border:1px solid var(--line); background:transparent; border-radius:4px; padding:3px 10px; font-size:.84rem; cursor:pointer}
+.sortbar button[aria-pressed="true"]{background:var(--ink); color:var(--bg); border-color:var(--ink)}
+.countrow{display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:6px 0 10px}
+.countrow .count{margin:0}
+.rviews{font-size:.8rem; color:var(--muted); margin-top:4px; display:block}
+
+/* weekly news */
+.news{margin-top:48px}
+.news h2{font-size:1.2rem; margin:0 0 4px}
+.news .sub{color:var(--muted); font-size:.9rem; margin:0 0 14px}
+.nday{margin-bottom:16px}
+.nday-h{font-size:.85rem; color:var(--muted); font-variant-numeric:tabular-nums; margin-bottom:6px}
+.nlist{list-style:none; margin:0; padding:0; background:var(--surface); border:1px solid var(--line); border-radius:6px}
+.nlist li{display:grid; grid-template-columns:auto 1fr; gap:2px 12px; padding:10px 14px; border-bottom:1px solid var(--line); align-items:baseline}
+.nlist li:last-child{border-bottom:none}
+.nlist .nt{font-size:.94rem}
+.nlist .nt a{color:var(--ink); text-decoration:none}
+.nlist .nt a:hover{text-decoration:underline}
+.nlist .ns{font-size:.8rem; color:var(--muted); display:block}
+
+/* flow diagram */
+.flow{background:var(--surface); border:1px solid var(--line); border-radius:6px; padding:20px 18px; margin:18px 0 8px}
+.flow h2{font-size:1rem; margin:0 0 4px}
+.flow .fsub{color:var(--muted); font-size:.85rem; margin:0 0 16px}
+.frow{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,.8fr); gap:14px; align-items:center}
+.fnode{border:1px solid var(--line); background:var(--soft); border-radius:6px; padding:10px 14px; text-align:center}
+.fnode b{display:block; font-size:.98rem}
+.fnode span{display:block; font-size:.84rem; color:var(--muted); margin-top:2px}
+.fnode.hl{border-color:var(--accent); box-shadow:inset 0 0 0 1px var(--accent)}
+.fside{font-size:.86rem; color:var(--c,var(--muted)); border-left:3px solid var(--c,var(--line)); padding:2px 0 2px 10px}
+.farrow{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,.8fr); gap:14px}
+.farrow i{display:block; width:2px; height:18px; background:var(--muted); margin:2px auto 0; position:relative}
+.farrow i::after{content:""; position:absolute; left:-4px; bottom:-2px; border:5px solid transparent; border-top:6px solid var(--muted); border-bottom:0}
+.fcall{margin-top:16px; border:1px solid var(--c-back); background:color-mix(in srgb,var(--c-back) 12%,transparent); border-radius:6px; padding:10px 14px; font-weight:500; text-align:center}
+@media (max-width:620px){ .frow,.farrow{grid-template-columns:1fr} .fside{margin-top:-4px} }
+
+/* detail */
+.back{display:inline-block; margin-bottom:22px; color:var(--muted); text-decoration:none; font-size:.95rem}
+.dmeta{color:var(--muted); font-size:.9rem; margin-bottom:6px; display:flex; gap:10px; flex-wrap:wrap; align-items:center}
+.detail h1{font-size:clamp(1.7rem,5vw,2.4rem)}
+.oneline{background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:4px; padding:14px 18px; margin:18px 0 8px; font-size:1.05rem}
+.oneline b{display:block; font-size:.82rem; color:var(--muted); font-weight:500}
+.detail h2{font-size:1.2rem; margin:44px 0 14px}
+.issue{background:var(--surface); border:1px solid var(--line); border-top:3px solid var(--c); border-radius:4px; padding:16px 18px; margin-bottom:14px}
+.issue h3{font-size:1.06rem; margin:4px 0 8px; line-height:1.45}
+.issue p{margin:0 0 10px; max-width:44em}
+.check{background:var(--soft); border-radius:4px; padding:10px 14px; font-size:.94rem; margin:10px 0}
+.check b{display:block; font-size:.82rem; color:var(--muted); font-weight:500; margin-bottom:2px}
+.check ul{margin:0; padding-left:1.1em}
+.src{font-size:.85rem; color:var(--muted)}
+.src a{color:var(--muted)}
+.terms{display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px}
+.term{background:var(--surface); border:1px solid var(--line); border-radius:4px; padding:14px 16px}
+.term b{display:block; margin-bottom:4px}
+.term span{color:var(--muted); font-size:.93rem}
+.watch{list-style:none; margin:0; padding:0; border-left:2px solid var(--line)}
+.watch li{padding:0 0 12px 16px; position:relative}
+.watch li::before{content:""; position:absolute; left:-6px; top:10px; width:10px; height:10px; border-radius:50%; background:var(--mark)}
+
+/* guide */
+.guide section{margin-bottom:40px}
+.steps{counter-reset:s; list-style:none; margin:0; padding:0}
+.steps li{counter-increment:s; position:relative; padding:0 0 14px 40px}
+.steps li::before{content:counter(s); position:absolute; left:0; top:1px; width:26px; height:26px; border-radius:50%; background:var(--ink); color:var(--bg); font-size:.82rem; font-weight:700; display:flex; align-items:center; justify-content:center}
+.tbl{overflow-x:auto; background:var(--surface); border:1px solid var(--line); border-radius:4px}
+.tbl table{border-collapse:collapse; width:100%; min-width:560px; font-size:.93rem}
+.tbl th,.tbl td{text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top}
+.tbl th{font-weight:500; color:var(--muted); background:var(--soft)}
+.tbl tr:last-child td{border-bottom:none}
+.stage{font-size:.78rem; font-weight:500; border-radius:3px; padding:1px 7px; white-space:nowrap; color:var(--c); border:1px solid color-mix(in srgb,var(--c) 45%,transparent)}
+.tbl td.num{white-space:nowrap; font-variant-numeric:tabular-nums}
+.tbl tr.done td{color:var(--muted)}
+.brief-box{background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:4px; padding:16px 18px; margin:0 0 28px}
+.brief-box h2{font-size:1.05rem; margin:0 0 8px}
+.brief-box ol{margin:0; padding-left:1.2em}
+.brief-box li{margin-bottom:6px}
+
+footer{margin-top:80px; border-top:1px solid var(--line); padding-top:16px; font-size:.84rem; color:var(--muted)}
+footer p{margin:0 0 8px; max-width:52em}
+@media (max-width:620px){
+  .row{grid-template-columns:1fr; gap:2px}
+  nav.site a{margin-left:12px}
+}
+
+.tabs2{display:flex; gap:6px; margin:4px 0 12px; flex-wrap:wrap}
+.wbadge{font-size:.76rem; color:var(--muted); white-space:nowrap}
+.nsum{display:block; font-size:.88rem; color:var(--ink); opacity:.85; margin-top:2px}
+.more2 summary{cursor:pointer; color:var(--muted); font-size:.88rem; padding:8px 14px}
+.upd{font-size:.8rem; color:var(--muted)}
+.dlist .nt b{font-weight:500}
+.loading{color:var(--muted); padding:30px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <a class="logo" href="#/" id="brand">데일리 브리프</a>
+    <nav class="site"><a href="#/" id="nav-board">브리프</a><a href="#/feed" id="nav-feed">뉴스·공시</a><a href="#/ipo" id="nav-ipo">상장 일정</a><a href="#/guide" id="nav-guide">상장 체크리스트</a></nav>
+  </header>
+  <main id="app"><p class="loading">불러오는 중입니다.</p></main>
+  <footer>
+    <p>이 페이지는 공개된 보도, 공시, 제도를 정리한 정보 제공용 자료이며 특정 종목의 매수나 매도를 권유하지 않습니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다.</p>
+    <p>뉴스와 공시 목록은 로봇이 매일 자동으로 모으고, 브리프는 AI의 도움을 받아 정리한 뒤 사람이 확인해 올립니다. 틀리거나 바뀐 내용이 있을 수 있으니 중요한 판단 전에는 DART 공시와 기사 원문을 확인하세요. 기사의 저작권은 각 언론사에 있습니다.</p>
+  </footer>
+</div>
+<script>
+const app = document.getElementById("app");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+const WD = ["일","월","화","수","목","금","토"];
+const fmtDate = d => { const t = new Date(d + "T12:00:00+09:00"); return `${d.replace(/-/g, ".")} (${WD[t.getUTCDay()]})`; };
+const fmtTime = iso => new Date(iso).toLocaleString("ko-KR", { timeZone: "Asia/Seoul", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+const COLORS = { dup:1, back:1, ipo:1, rule:1, policy:1, capital:1, tech:1, global:1, mat:1, board:1, next:1 };
+const cvar = c => COLORS[c] ? `--c:var(--c-${c})` : "--c:var(--muted)";
+let D = { cfg: null, briefs: [], news: { items: [] }, disc: { items: [] }, ipo: null };
+let TOPICS = {}, CATS = {};
+const state = { q: "", cat: null, topic: null, feedTopic: null, feedSort: "latest" };
+const tagHTML = c => CATS[c] ? `<span class="tag" style="${cvar(c)}">${esc(CATS[c])}</span>` : "";
+const topicName = t => TOPICS[t]?.name || t;
+
+async function load() {
+  const get = (f, d) => fetch(f, { cache: "no-store" }).then(r => r.ok ? r.json() : d).catch(() => d);
+  const [cfg, briefs, news, disc, ipo] = await Promise.all([get("config.json", null), get("briefs.json", []), get("news.json", { items: [] }), get("disclosures.json", { items: [] }), get("ipo.json", null)]);
+  if (!cfg) { app.innerHTML = `<p class="loading">설정 파일(config.json)을 읽지 못했습니다. 페이지를 웹 서버(GitHub Pages)에서 열었는지 확인하세요.</p>`; return false; }
+  D = { cfg, briefs, news, disc, ipo };
+  cfg.topics.forEach(t => { TOPICS[t.id] = t; Object.assign(CATS, t.cats); });
+  document.getElementById("brand").textContent = cfg.title || "데일리 브리프";
+  document.title = cfg.title || "데일리 브리프";
+  return true;
+}
+function setNav(which) {
+  for (const k of ["board", "feed", "ipo", "guide"]) {
+    const el = document.getElementById("nav-" + k);
+    if (k === which) el.setAttribute("aria-current", "page"); else el.removeAttribute("aria-current");
+  }
+}
+function topicTabs(key) {
+  return `<div class="topics" role="group" aria-label="주제"><button class="topic" data-${key}="" aria-pressed="${!state[key === "topic" ? "topic" : "feedTopic"]}">전체</button>${D.cfg.topics.map(t => `<button class="topic" data-${key}="${t.id}" aria-pressed="${(key === "topic" ? state.topic : state.feedTopic) === t.id}">${esc(t.name)}</button>`).join("")}</div>`;
+}
+
+/* ---------- 브리프 ---------- */
+function matches(b) {
+  if (state.topic && b.topic !== state.topic) return false;
+  if (state.cat && !b.cats.includes(state.cat)) return false;
+  const ws = state.q.split(/[\s,]+/).filter(Boolean).map(w => w.toLowerCase());
+  if (!ws.length) return true;
+  const hay = [b.title, b.summary, b.oneline, ...(b.issues || []).flatMap(i => [i.title, ...i.body]), ...(b.terms || []).map(t => t.t)].join(" ").toLowerCase();
+  return ws.every(w => hay.includes(w));
+}
+function listHTML() {
+  const list = D.briefs.filter(matches).sort((a, b) => b.date.localeCompare(a.date));
+  return `<p class="count">브리프 ${list.length}건${state.cat || state.q || state.topic ? ` (전체 ${D.briefs.length}건 중)` : ""}</p>
+    <ul class="board">${list.map(b => `<li><a class="row" href="#/b/${encodeURIComponent(b.id)}">
+      <span class="rdate">${fmtDate(b.date)}</span>
+      <span><span class="rtopic">${esc(topicName(b.topic))}</span><span class="rtitle">${esc(b.title)}</span><span class="rtags">${b.cats.map(tagHTML).join("")}</span><p class="rsum">${esc(b.summary)}</p></span>
+    </a></li>`).join("") || `<li class="empty">조건에 맞는 브리프가 없습니다. 검색어를 지우거나 분류를 전체로 바꿔 보세요.</li>`}</ul>`;
+}
+function board() {
+  setNav("board");
+  const cats = state.topic ? Object.entries(TOPICS[state.topic].cats) : [];
+  app.innerHTML = `
+    <h1>투자자를 위한<br>데일리 브리프</h1>
+    <p class="lead">${esc(D.cfg.description || "")} 무슨 일이 있었는지, 그래서 공시와 자료에서 무엇을 확인하면 되는지까지 적습니다.</p>
+    ${topicTabs("topic")}
+    <div class="tools">
+      <input class="search" id="q" type="search" placeholder="검색 (예: 3%룰, CCL, 휴머노이드)" aria-label="브리프 검색" value="${esc(state.q)}">
+      <div class="chips" role="group" aria-label="분류">${cats.length ? `<button class="chip" data-cat="" aria-pressed="${!state.cat}">전체</button>` : ""}${cats.map(([k, v]) => `<button class="chip" data-cat="${k}" aria-pressed="${state.cat === k}" style="${cvar(k)}"><i></i>${esc(v)}</button>`).join("")}</div>
+    </div>
+    <div id="list">${listHTML()}</div>
+    <section class="news"><h2>오늘의 흐름</h2><p class="sub">매일 자동으로 모이는 뉴스와 공시는 <a href="#/feed">뉴스·공시</a>에서 전부 볼 수 있습니다. 최근 업데이트 ${D.news.updated ? fmtTime(D.news.updated) : "전"}.</p>
+      ${miniFeed()}</section>`;
+  const q = document.getElementById("q");
+  q.addEventListener("input", () => { state.q = q.value; document.getElementById("list").innerHTML = listHTML(); });
+  app.querySelectorAll("[data-topic]").forEach(b => b.addEventListener("click", () => { state.topic = b.dataset.topic || null; state.cat = null; board(); }));
+  app.querySelectorAll("[data-cat]").forEach(b => b.addEventListener("click", () => { state.cat = b.dataset.cat || null; board(); }));
+}
+function miniFeed() {
+  const items = D.news.items.filter(n => !state.topic || n.topic === state.topic).sort((a, b) => (b.weight || 1) - (a.weight || 1) || b.published.localeCompare(a.published)).slice(0, 6);
+  if (!items.length) return `<p class="sub">아직 모인 뉴스가 없습니다. 로봇의 첫 실행이 끝나면 채워집니다.</p>`;
+  return `<ul class="nlist">${items.map(newsLi).join("")}</ul>`;
+}
+function newsLi(n) {
+  return `<li><span class="wbadge">${(n.weight || 1) > 1 ? `${n.weight}곳 보도` : esc(topicName(n.topic))}</span><span class="nt"><a href="${esc(safeUrl(n.url))}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>${n.summary ? `<span class="nsum">${esc(n.summary)}</span>` : ""}<span class="ns">${esc(n.source)}, ${fmtTime(n.published)}${n.related?.length ? `, 같은 소식: ${n.related.map(r => `<a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer">${esc(r.source)}</a>`).join(", ")}` : ""}</span></span></li>`;
+}
+function flowHTML(d) {
+  const rows = d.nodes.map((n, i) => `${i ? `<div class="farrow" aria-hidden="true"><i></i><span></span></div>` : ""}
+    <div class="frow"><div class="fnode${n.hl ? " hl" : ""}"><b>${esc(n.t)}</b>${n.s ? `<span>${esc(n.s)}</span>` : ""}</div>
+    <div>${n.side ? `<div class="fside" style="${n.c ? cvar(n.c) : ""}">${esc(n.side)}</div>` : ""}</div></div>`).join("");
+  return `<figure class="flow" role="group" aria-label="${esc(d.title)}"><h2>${esc(d.title)}</h2>${d.sub ? `<p class="fsub">${esc(d.sub)}</p>` : ""}${rows}${d.call ? `<div class="fcall">${esc(d.call)}</div>` : ""}</figure>`;
+}
+function detail(id) {
+  setNav("board");
+  const b = D.briefs.find(x => x.id === id);
+  if (!b) { app.innerHTML = `<a class="back" href="#/">목록으로</a><h1>브리프를 찾을 수 없습니다</h1><p class="lead">주소가 바뀌었거나 삭제된 브리프입니다. 목록에서 다시 찾아보세요.</p>`; return; }
+  app.innerHTML = `<article class="detail">
+    <a class="back" href="#/">목록으로</a>
+    <div class="dmeta"><span>${esc(topicName(b.topic))}</span><span>${fmtDate(b.date)}</span>${b.cats.map(tagHTML).join("")}</div>
+    <h1>${esc(b.title)}</h1>
+    ${b.diagram ? flowHTML(b.diagram) : ""}
+    <div class="oneline"><b>한 줄로</b>${esc(b.oneline)}</div>
+    <h2>이슈</h2>
+    ${(b.issues || []).map(i => `<section class="issue" style="${cvar(i.cat)}">${tagHTML(i.cat)}<h3>${esc(i.title)}</h3>
+      ${i.body.map(p => `<p>${esc(p)}</p>`).join("")}
+      ${i.check?.length ? `<div class="check"><b>공시에서 확인할 것</b><ul>${i.check.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>` : ""}
+      ${i.sources?.length ? `<div class="src">출처: ${i.sources.map(s => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.name)}</a>`).join(", ")}</div>` : ""}</section>`).join("")}
+    ${b.terms?.length ? `<h2>용어 풀이</h2><div class="terms">${b.terms.map(t => `<div class="term"><b>${esc(t.t)}</b><span>${esc(t.d)}</span></div>`).join("")}</div>` : ""}
+    ${b.watch?.length ? `<h2>다음에 지켜볼 것</h2><ul class="watch">${b.watch.map(w => `<li>${esc(w)}</li>`).join("")}</ul>` : ""}
+  </article>`;
+}
+
+/* ---------- 뉴스·공시 ---------- */
+function feed() {
+  setNav("feed");
+  const t = state.feedTopic;
+  const news = D.news.items.filter(n => !t || n.topic === t).sort((a, b) => state.feedSort === "weight"
+    ? (b.weight || 1) - (a.weight || 1) || b.published.localeCompare(a.published) : b.published.localeCompare(a.published));
+  const disc = D.disc.items.filter(d => !t || d.topic === t);
+  const byDay = arr => { const m = {}; arr.forEach(x => (m[x.date] ||= []).push(x)); return Object.entries(m).sort((a, b) => b[0].localeCompare(a[0])); };
+  const days = D.cfg.days || 7;
+  app.innerHTML = `
+    <h1>뉴스·공시</h1>
+    <p class="lead">최근 ${days}일 동안 로봇이 자동으로 모은 뉴스와 DART 공시를 걸러내지 않고 모두 보여줍니다. 브리프에 없는 소식도 여기에는 남아 있습니다.</p>
+    ${topicTabs("feed")}
+    <section><h2>공시 <span class="upd">${disc.length}건, 업데이트 ${D.disc.updated ? fmtTime(D.disc.updated) : "전"}</span></h2>
+      ${disc.length ? byDay(disc).map(([d, arr]) => `<div class="nday"><div class="nday-h">${fmtDate(d)}</div><ul class="nlist dlist">${arr.map(x => `<li><span class="wbadge">${esc(topicName(x.topic))}</span><span class="nt"><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer"><b>${esc(x.corp)}</b> ${esc(x.report)}</a><span class="ns">${esc(x.market)}${x.market ? ", " : ""}걸린 이유: ${esc(x.reason)}</span></span></li>`).join("")}</ul></div>`).join("")
+        : `<p class="sub">최근 공시가 없거나 DART 키가 아직 등록되지 않았습니다.</p>`}
+    </section>
+    <section style="margin-top:40px"><div class="countrow"><h2 style="margin:0">뉴스 <span class="upd">${news.length}건</span></h2>
+      <div class="sortbar" role="group" aria-label="정렬"><button data-fs="latest" aria-pressed="${state.feedSort === "latest"}">최신순</button><button data-fs="weight" aria-pressed="${state.feedSort === "weight"}">많이 보도된 순</button></div></div>
+      ${news.length ? (state.feedSort === "weight"
+        ? `<ul class="nlist">${news.map(newsLi).join("")}</ul>`
+        : byDay(news).map(([d, arr]) => `<div class="nday"><div class="nday-h">${fmtDate(d)}, ${arr.length}건</div><ul class="nlist">${arr.slice(0, 12).map(newsLi).join("")}</ul>${arr.length > 12 ? `<details class="more2"><summary>나머지 ${arr.length - 12}건 보기</summary><ul class="nlist">${arr.slice(12).map(newsLi).join("")}</ul></details>` : ""}</div>`).join(""))
+        : `<p class="sub">아직 모인 뉴스가 없습니다.</p>`}
+    </section>`;
+  app.querySelectorAll("[data-feed]").forEach(b => b.addEventListener("click", () => { state.feedTopic = b.dataset.feed || null; feed(); }));
+  app.querySelectorAll("[data-fs]").forEach(b => b.addEventListener("click", () => { state.feedSort = b.dataset.fs; feed(); }));
+}
+
+/* ---------- 상장 일정 ---------- */
+const STAGES = { forecast: { n: "수요예측", c: "ipo" }, sub: { n: "일반청약", c: "back" }, list: { n: "신규상장", c: "rule" } };
+function ipoPage() {
+  setNav("ipo");
+  const I = D.ipo;
+  if (!I) { app.innerHTML = `<h1>상장 일정</h1><p class="lead">ipo.json 파일이 없습니다.</p>`; return; }
+  const tk = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+  const md = d => `${+d.slice(5, 7)}/${+d.slice(8)}`;
+  const rows = I.rows.slice().sort((a, b) => a.start.localeCompare(b.start) || a.end.localeCompare(b.end));
+  app.innerHTML = `<article class="guide">
+    <h1>상장 일정</h1>
+    <p class="lead">다가오는 수요예측, 일반청약, 신규상장을 한 표에 모았습니다. ${fmtDate(I.asof)} 기준이며, 청약 전에는 DART의 증권신고서를 확인하세요.</p>
+    ${I.brief ? `<section class="brief-box"><h2>${esc(I.brief.title)}</h2><ol>${I.brief.points.map(p => `<li>${esc(p)}</li>`).join("")}</ol></section>` : ""}
+    <div class="tbl"><table><thead><tr><th>날짜</th><th>기업</th><th>단계</th><th>공모가</th><th>공모 규모</th><th>주관사</th><th>메모</th></tr></thead>
+    <tbody>${rows.map(r => `<tr class="${r.end < tk ? "done" : ""}"><td class="num">${r.start === r.end ? md(r.start) : `${md(r.start)}~${md(r.end)}`}</td>
+      <td><a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer">${esc(r.co)}</a></td>
+      <td><span class="stage" style="${cvar(STAGES[r.st]?.c)}">${STAGES[r.st]?.n || ""}</span></td>
+      <td class="num">${esc(r.price)}</td><td class="num">${esc(r.size || "-")}</td><td>${esc(r.lead || "-")}</td><td>${esc(r.note)}</td></tr>`).join("")}</tbody></table></div>
+    <p class="count" style="margin-top:10px">회색 줄은 이미 끝난 일정입니다. 기업 이름을 누르면 출처 기사로 이동합니다.</p>
+  </article>`;
+}
+function guide() {
+  setNav("guide");
+  app.innerHTML = `<article class="guide">
+    <h1>상장 이슈 체크리스트</h1>
+    <p class="lead">보유 종목이나 관심 종목에 상장 관련 소식이 나왔을 때, 공시에서 순서대로 확인할 것들을 모았습니다. 2026년 8월 3일 시행된 규정을 기준으로 합니다.</p>
+    <section>
+      <h2>모회사 주주라면: 자회사 중복상장 흐름</h2>
+      <p>상장사의 자회사가 상장하려면 모회사 이사회가 아래 순서를 밟고 공시해야 합니다. 원칙적으로 1~3단계를 마친 뒤에 예비심사를 청구합니다.</p>
+      <ol class="steps">
+        <li><b>주주영향 평가와 보호방안 공시</b>: 독립이사 중심 특별위원회 심의와 이사회 결의를 거쳐 공시합니다.</li>
+        <li><b>주주 소통 또는 주주총회 동의</b>: 물적분할 자회사는 주총 동의가 필수이고, 최대주주 의결권은 3%까지만 인정됩니다.</li>
+        <li><b>이사회 최종 찬반 결의와 결과 공시</b>: 동의 결과와 최종 보호방안을 한꺼번에 공시합니다.</li>
+        <li><b>자회사의 상장예비심사 청구</b>: 일반 상장 기준에 더해 영업·경영 독립성과 모회사 투자자 보호 기준을 함께 심사받습니다.</li>
+      </ol>
+    </section>
+    <section>
+      <h2>주주동의가 필요한 경우 한눈에 보기</h2>
+      <div class="tbl"><table>
+        <thead><tr><th>자회사 유형</th><th>주주총회 동의</th><th>메모</th></tr></thead>
+        <tbody>
+          <tr><td>상장사가 물적분할로 만든 자회사</td><td>필수</td><td>가장 엄격한 유형. 분할 후 시간이 지나도 적용</td></tr>
+          <tr><td>그 밖의 자회사 (인수, 현물출자 등)</td><td>권고</td><td>동의를 받지 않으면 거래소가 보호 노력을 더 엄격하게 개별 심사</td></tr>
+          <tr><td>매출·이익·자산 모두 모회사의 10% 미만</td><td>면제 가능</td><td>예상 기업가치가 커서 중요 자회사로 보면 면제 제외</td></tr>
+          <tr><td>자회사의 해외 증시 상장</td><td>모회사 이사회 의무 동일 적용</td><td>위반 시 위약금과 매매거래 정지 가능</td></tr>
+        </tbody>
+      </table></div>
+    </section>
+    <section>
+      <h2>우회상장 의심 신호</h2>
+      <ol class="steps">
+        <li><b>최대주주 변경</b>과 <b>비상장사 인수·합병</b>이 짧은 기간에 잇따르는지 봅니다.</li>
+        <li>자산양수나 합병 공시의 <b>'우회상장 해당 여부'</b> 항목을 확인합니다. '아니오'여도 이후 거래소가 다시 확인할 수 있습니다.</li>
+        <li>제3자배정 유상증자나 전환사채 발행 계획이 함께 있는지 봅니다. 비상장사 자산양수 후 6개월 이내 이런 발행이 있으면 우회상장 심사 대상이 될 수 있습니다.</li>
+        <li>거래정지 공시에 <b>우회상장 해당 여부 확인</b>이 사유로 적혀 있으면, 해당 시 신규상장에 준하는 심사를 받게 됩니다.</li>
+        <li>중복상장 규제를 피하려는 합병이나 포괄적 주식교환은 경영권 변동이 없어도 우회상장으로 심사받을 수 있습니다.</li>
+      </ol>
+    </section>
+    <section>
+      <h2>원문 확인하는 곳</h2>
+      <p>공시 원문은 금융감독원 전자공시시스템(DART)에서, 거래정지와 상장심사 관련 공시는 한국거래소 KIND에서 볼 수 있습니다. 회사 이름으로 검색한 뒤 최근 공시를 날짜순으로 보면 위 순서가 그대로 나타납니다.</p>
+    </section>
+  </article>`;
+}
+function route() {
+  const h = location.hash.replace(/^#/, "") || "/";
+  if (h.startsWith("/b/")) detail(decodeURIComponent(h.slice(3)));
+  else if (h === "/feed") feed();
+  else if (h === "/ipo") ipoPage();
+  else if (h === "/guide") guide();
+  else board();
+  window.scrollTo(0, 0);
+}
+window.addEventListener("hashchange", route);
+load().then(ok => { if (ok) route(); });
+</script>
+</body>
+</html>
