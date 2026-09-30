@@ -1,4 +1,1735 @@
 {
-  "updated": null,
-  "items": []
+  "updated": "2026-09-30T00:08:27.727Z",
+  "items": [
+    {
+      "topic": "pcb",
+      "date": "2026-09-30",
+      "title": "[리포트] 태성, PCB 장비 넘어 유리기판·복합동박 신사업 확대···5000억 생산체제 구축",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50bnoyb0xXT3RnWW0wSWR1cFc5OHVNMnpMcmsxc0Z6NF92M0kteU9RSGdzYWFuYnhlS0R2S2pxVERnemlab3k4WFFLUEFRcTJoRjhXWEVoM1N2VXNaM0dreHEyTkFjb3c?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-09-30T00:06:34.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "중국은 더 공격적으로 나올겁니다 무섭게 추격하는 휴머노이드의 실체",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5icGwyTVBVV1BHbDNsWlRuUFF3QmlTWkhDYWoyc3daaVN3My1kZTZreDhXVlZMVm9tYVV2NVBtQUpCRlNmUFpIMnhrRW5vbE5WV01QeDJ6dEtDMFRFSGNuZXlVZ21QWjd3NzlFZDNLb27SAXRBVV95cUxQaExPcjN2R1RFSzlfVjdtZmZpUjJhdV83WVFXZVlxWTRNaXBJUXkwRkhyS29OV0lOMmtCb3pjRDJQSEVnajZWbVJDLS1lUGlTV09sWHE2UjA0SVg4N1AyNWZrUUFYdm04NkRXdDZkc0kwR3lfYw?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-09-30T00:00:41.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "전영현 삼성전자 부회장 \"에이전틱 AI, 일하는 방식·문화 바꿀 것\"",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSWgzcUI2eWpOUVpabHB3c01FUThPLUYzWDd5VUw4QnNVZmQtVjgwOWk2SjNQWkZpYnRVTmplZHpjcXBQdzJxazBLMHJrM1lFN1dlWXFR?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-09-30T00:00:01.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "삼성전자, ‘에이전틱 시프트’ 주제로 삼성 AI 포럼 2026 개최",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQOUp4aTBqMGxlSmljdVJxQV9ranBRRmZQQkw2eVdudWk4bHlXUmtPcWFSS2FHeGFTRVdKemF5ZGl3R3pQTEg5RFRkVEI2eW5GTUlpUktfYjhoSFdOdDZzczA3NGpXcnRVQ1k5bTZIVlhuckpfdzdaemtMal85WG9KSkRhRS1fUUhybW5sR1VfdGhtUWdMd1lRZnpfSnVzUDlzZEFBdTc3aDdNbmZXamtjUW1sT2NwMnVXV013dklVcUhuUDdHNWp0OW5paVBRYWQwbFVvTFpfY284LWY2RWpFVXN5cTFYazExbE5oM1psR1NfMS1OLXB2UlA3ckd3V0N2Z3VPOE8tQnlkTmtGQTVzN095U1JuREFnX0RyMnh6blVuRXhiWkltTzY2OC1iRkdUUDBJX2FfM3JWaG9NbWNaVTItRzk?oc=5",
+      "source": "Samsung Global Newsroom",
+      "published": "2026-09-30T00:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "삼성전자, 에이전틱 AI 업무·제조에 심는다…AI 포럼 2026 개최",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kcHZPOTdKaEtNMW9odEdlRHhZRmkzLU9NYlNoTVpZOHZ6RlhLeWtKNXNyNE1mWlJOdTFNUEhvT0tRdU1za0hvT1hIVUNyTl94U1hmZTZBVmZoZ9IBWEFVX3lxTE8zQ2h4X3A2YUZJQ2k3OHQ3TVhhTVNWUGRMYy1vOEJKZ21NTERBdVltdUoxUUxVbzVlYXFIenBrWS12ODd3RTNNSEZKOGZjTmlhNDBoT0ktQVU?oc=5",
+          "source": "ajunews.com"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "삼성전자, AI 넘어 ‘에이전틱·피지컬 AI’로…전 사업 AX 속도",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SZjhadXVtQU1Rb29URUpVT1J0MmNUN0RNNUwzcHRlaW1KN0RrYUpoQW5ST1l1b1lNVjh5Ukp5ZXl2dkF0ZmU1cnlCbWM3Zw?oc=5",
+      "source": "dt.co.kr",
+      "published": "2026-09-30T00:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "삼성전자, ‘에이전틱·피지컬 AI’ 사업 적용 속도…AI 포럼 개최",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44eDdsNDRKRF9hMV9sWmNnMXgxekhOWTl1RmNvSjc3Sm9qNWI1eGhMX2w4UUJfUTdMQmt5ak1SWFFvVG5HdXdVMjdROXJaYzhTOEpSQU1xaXVsUEZHb0JhVTdFNHdLUQ?oc=5",
+          "source": "마이데일리"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "엔비디아, 11월 서울서 'AI 데이'…피지컬 AI·에이전틱 AI 총집결",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85eW1ObUI5WW1pLWxfQVdVTk55dmpXa3N4SklJU2NhVkJjeFAzZzhtZXZJdGFyV040XzR4SWtQQ1B6UnhCMF9ISGE2NjNkZ2MydW1GT0NJNTlHWHRzLWtrOQ?oc=5",
+      "source": "아시아경제",
+      "published": "2026-09-29T23:53:16.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "엔비디아, 11월 서울서 'AI 데이'…피지컬·에이전틱 AI 총집결",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RN1cwaldUUWhnMmphbkd5T3ZGMnVYdk5FTGdSS05QVGt0dU1LbU1DNmdmTm1KRklWaDVFMzBJS1NtbkMzQ1dZNjRReUs5ekE?oc=5",
+          "source": "v.daum.net"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "[피지컬 AI 현장을 가다⑥] 폭우가 와도, 사람이 막아도⋯ 배달로봇 ‘딜리’는 달렸다",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ERk9BZG1GR2lDZGVkVlo4TTFNYm1aQ200UWJkRmxoTjFrZDZGWTFtdl9SdUNuTTdDTDdBMlZkZ2JHWlctaEVwblRZQ3g4cUJ6Um5HSHNkck5yZw?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-09-29T23:37:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "전북도, 현대차 새만금 투자 연계 피지컬 AI·수소·AIDC 육성",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rbXVwUmFhVUZHbDVzdmh6ZXRObnBoN01mQkNQb2lnRU9YckZaSTZyVkpYZEpSUkxrdlZET1NjU1hMTzhHYWxpNkpaQ09wZmFzalV6N2FuZXA4dmtKSWRpOVBjenVPVTFi?oc=5",
+      "source": "테크월드",
+      "published": "2026-09-29T23:30:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "국가 피지컬 AI 본사업 맡은 전북대, 2652억 핵심과제 추진",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52NE05b2dGRC1ZR01MUFAxYVJ1UnlFUVlrblRDeWczNmN0MkZxOU8tT3dUZFZmblVYV1pkdDFIWnNIdDh4emo0RXRNRzYzRlJpUGtLUHRSazB3aGtGU1VRYklDYnhocFVuTFd6ODRnQTFHN1pj?oc=5",
+      "source": "이투데이",
+      "published": "2026-09-29T23:17:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "전북대, 피지컬AI 국가사업 핵심 연구·실증기관 선정",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqTXVqYk83RHo5M01oUFdoaVVUTGc5eUdneEFMNmJ5SkstdHNsaGVHTENha2ZoWlptRG1EQ3NvLWFQZzd6aXZqc050SnNCc1VNdm1MUEZwcnY5dW5RZnJLaWVzd3I?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-09-29T23:02:17.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "[클릭 e종목]\"알체라, LG전자 컨소시엄 참여로 로봇 모멘텀 확보\"",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81XzZ2eGdDUVlWNUtpdm8zOUJ1YVhIYWtOSVJSSW1wbzlPd1dpemp6Y2hGVFlFcEhDcTJRM0dURWZsT1BpWXJOTXl3c2JkaG56QTFBUkZQZ2lKTjE1Vk5mYzd3?oc=5",
+      "source": "아시아경제",
+      "published": "2026-09-29T23:01:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "IPO시장 온기 확산...가격 낮추니 상장 후 웃었다",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16LW1yaVJoYXRCZDg3MVdQVmZKYmZMVzl1UURYaU1GcFBRVV9nTWw0WjVSelZ2dkhNUzNYS01uRWFTX2NvNV8xa24zVEFBdjNvWC1BVUxfdFRIUE5jbTdYb2RlN1FzSU5YY0E?oc=5",
+      "source": "더스탁(The Stock)",
+      "published": "2026-09-29T23:00:00.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "박영사, 안종배 신간 ‘AI 인류혁명 시대 피지컬 AI 로봇’ 출간",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fTUF1MUNqNUkzRkoxY2NPXy00eXZPeWJxQVpWZFd3S0wwR2cwTm1jbE9iRWJPaHlzcVJzUmdKSUlxNndja3NxZ0wtU3lXd2VpOGpocS1JUDZiaWo4OEp6TURQQmxiMHZqNnJZ?oc=5",
+      "source": "내외경제TV",
+      "published": "2026-09-29T23:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-30",
+      "title": "[애프터마켓 리뷰] 필옵틱스, 차세대 TGV 장비 납품 수주 성공",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KMmJwbU14bFZnS3NtYlhMNTI2OHdvcmk1X1dqdG13THA4SzVsYnNVZ3JmLTBMby1CZk1xeExwTGdIbzJWUnJHY1NXemRObUpudHdqcnZwT3FLZGJl?oc=5",
+      "source": "supple.kr",
+      "published": "2026-09-29T22:54:06.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "필옵틱스, 차세대 TGV 장비 납품 수주 성공 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNjdyY0lBTDFSYWQ0V1JSclViVEJOVFdhQ0RhVDN4Z29IRHNNT0VDY293Uk56MHZDbFl4QXEzMDVwaUtHalBSX0pPRWNRNDhzWk9vTXE3bXNXS0lFN29Yd0ZXV1A2UjhZSjhBbVJB0gFuQVVfeXFMTTI2N3JjSUFMMVJhZDRXUlJyVWJUQk5UV2FDRGFUM3hnb0hEc01PRUNjb3dSTnowdkNsWXhBcTMwNXBpS0dqUFJfSk9FY1E0OHNaT29NcTdtc1dLSUU3b1h3RldXUDZSOFlKOEFtUkE?oc=5",
+          "source": "머니투데이"
+        },
+        {
+          "title": "필옵틱스, 2㎜ 유리기판용 TGV 장비 수주",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzdWFrQnNIYmRaSUFKS1pXMHN4NDNPWUNhdHg5YXRyN1dVbVVPdHo0cjFrQVlpU2FNei1VcV9GaVRPR2hsamxBTmFNdFF3dw?oc=5",
+          "source": "전자신문"
+        },
+        {
+          "title": "필옵틱스, 2mm 유리기판용 TGV 장비 수주",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNc1Fqcm9jZEpKdDZDVFYzT3ZseS1DXzdkc05MSk81VVVNRWhpaFRmZEExVU5WYWlnZDZKb1kxNmlXTGZOdW5Md1FwZTJSOEZlN29UeFhOeTZFNUh3MlJBLWxSN1dBUQ?oc=5",
+          "source": "디일렉"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "휴머노이드가 출근하면, 일자리는 사라질까 채워질까?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQzVweVJKMk1xOFlYMnpmOEhtY1k3eC1YQlhlcWIyQ2x1TXVGUjAtLVFtTlVZaHh5bDlYZC00Ti1MdDhFLTNFM05SN0xnQ190NXhXYlROOFpTQ2dSa1VmZWkwd3pEUHptVmI4TQ?oc=5",
+      "source": "디지털포용뉴스",
+      "published": "2026-09-29T22:43:21.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "[비즈리더]미켈로로보틱스 \"사람처럼 판단하는 로봇…제조 피지컬 AI 만든다\"",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tNDhPTHlEcnNVdmlndWVfZ2RKOExjbE41c215VjNBczBOZ1pMUDRCbXdKd25LYWQ3SmtvSkQyb3FqaXlSZmt3blN1WFNac2s?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-09-29T22:36:30.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "보스반도체, Arm 생태계 합류...피지컬 AI 칩 개발 속도",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tWUYxczFUb0pLUklhNEc5NWZLZEtWMzNIcWhXWm1BZnhUaEQyVktQcy04ajYxWG5nSjk1dmpNMWM0TDR0X2dpUnlZTVdHeUZEdzU1MVByTnlkMlBkTzl0RVBOWVZVUQ?oc=5",
+      "source": "디일렉",
+      "published": "2026-09-29T22:33:22.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "보스반도체, Arm 피지컬 AI 생태계 합류.. 고객 맞춤형 반도체 개발 박차",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xUjMzRVVYM2luSHNhNDZEWGw4dVZFUVJwb0VuQmIxS0pWRHNpWlBqVlhnNTNPcWo5ZGJ3ZVdJVmNMbVRpU0JQTUVoZw?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "보스반도체, Arm ‘피지컬 AI 통합설계’ 생태계 합류…SoC·ASIC 사업 확대 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlVXblBUdkdtMjRFNFB6U2ZWQ2VvcTRJM0V2dXBqcjd1TExmVTBUNVhDbGotUVBaTW1SeENYai1oV1VpWFYxVzBwV1N1alg1MmJNX3lXLXRxbmRlTUlBZW9sUmpBenlveGJQajRJNmRnbTJDMXZwOGFnbTNRNVlXRW5R0gGWAUFVX3lxTE9RYTMxT25iUDlwNEpubV9jVUVYc1lHa3ktel92YThqZ0ZZajhVX0FoMXQ0NUhkVUV5RlI2cFkxWUk2OU1JYUpXalFWNGZMdE1nNERrdDZScVJ1R3QyVllfektrMnlXa1ZuMHJaMHZ5VTAtZEVVcWdGQlFqQXZyVURnbGFFc2lzbi1ZS0dqQy1BdjcwMG8xdw?oc=5",
+          "source": "Chosunbiz"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "물건 나르던 배달로봇, 직접 집고 옮긴다… 피지컬 AI로 영역 확대",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1keld0cjVNNFFEX2lRZV9iRUx1QVZsQWRXUFFxQUdGU0JqcU56Rjh4enc3dFRDMVZrTWhpdVBCbmxrNHBhamROZVpDNkFPalRUREpVLXJ2NEVpN04wZldWbzh1bVV1QjhKQk16LVBld0vSAXRBVV95cUxOUVRJQkF3YmxpT2NwSGJNU2xnNHp0XzhjZS1QM2dUZkpBdzVySFBqRnR5YjlRdUJQcjVIVnlDZ29xUjMyNnk2c0lVdV9nZ25fT2ZnS0RUdEdHeHpqTDgyM2pNakZPQXE1UlZoNVRRZ1VBSnJpUA?oc=5",
+      "source": "it.chosun.com",
+      "published": "2026-09-29T22:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "도통 답 안나오는 스팩 시장, 도전장 내민 '이 기업'",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1aR2YtRXdrSERTdW1TUDZ1QURIcWFwYWpMbVRTaEJMXzZMVG4tdm9CMGl4cFc5U3RkMW9tVnUxNEJrNE9xTmRQRk5JNWhaUjZEcTFDTW01SzRGNjZvemJ5YWFvSWJrT2NVcDdlVUVnZWVXZDRVeklTWHQxUU1pSg?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-09-29T21:50:00.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "[기획｜휴머노이드가 바꾸는 제조업 ①] 휴머노이드 로봇, 공장으로 간다…K-제조업 ‘실전 무한 경쟁’",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYVhtRDRwX0F1U1BfaTViZ0pUYjhJTjFiWVVoU0FKTjRFeVdBUGJtZWFpcE5zMGZXaTF6RGx6LUlCbEJ3TEFCaFFLMW0yVEpkSDdudWJBTXFVelNQajJfUG50UGtqbXVXeFHSAW5BVV95cUxOOHRPdWpucUxTMFVVNDRyendtUVhhWFV3VTBwa3FzZlV1MWZ0a0pjTzN4dFhwWkM0MVl1ckdXMDZERG5tTXNBenNneHJKYWtlZ1lvZDVDWWlkY2VSd3lSM1djdXNOZmdxNW1UT2djUQ?oc=5",
+      "source": "뉴시안",
+      "published": "2026-09-29T21:44:13.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "‘피지컬AI부터 게임슬롭까지’ AI가 게임 업계에 미친 영향은",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Za2JYb0J1aFdncVNUYlJTYTJaSUJpMFY4UFg3WUxjdk5vbkJ3NWZYSWs5Yl8xYy02LTMzQ1BMXzJxUjNIZzFRNHdQeWx3Q00?oc=5",
+      "source": "바이라인네트워크",
+      "published": "2026-09-29T21:42:27.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "수술로봇 넘어 피지컬 AI로…비뇨의학과 ‘자율수술’ 가능?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZkdLd1MwenloOTF2YURTdWIybXJVeFJnZl9NYkRvWndqRHpRNmhQQVp6blRvZXBSbUpUYmJMT0pYaFcyRTVsQjVrc2NabEwydzIxU19GaEo0bHVrcllyaEx5MkV5elk3S0N1VUFBejPSAXNBVV95cUxPV2pmVlB1WkpnYVBYSGlWWGZQSlNIWXU2YWdnd0tqRzFDT1ZzWFhuWFNOVThlZHlkMktQOExOUkJpMFNISXNYR1hTN3hEQlQ0Ny0tZlZpTmVuUzUwVDFjYVZNbXZzUFE5Rm5PZThWd1lNXzZJ?oc=5",
+      "source": "청년의사",
+      "published": "2026-09-29T21:30:59.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "실리콘밸리 애퀴지션, 합병 상대 '아이젠Q'와 나스닥 상장 위한 S-4 등록신청서 제출",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84czZxMFJxeGxETFhnTUU0Y2JWalV3aGRCQW51LVZhRTgzU1JxZE02RVFTelp5ZWIzNmhJYjZna0E5ZEgzRDg4TkNveUNwZ3RLVWtMOU0wS1FPMWNDZXhack44REYzM09UZEQ5UlZDVXBFRnM?oc=5",
+      "source": "데이터투자",
+      "published": "2026-09-29T21:29:06.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-30",
+      "title": "[company analysis] [코리아써키트] 美 CPU주 훈풍에 급등한 ‘코리아써키트’ … AI 서버용 기판 수요 기대 부각",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3M1BXSWJNbzVyYXdnU1diUlJHLWhKZGxtUkdTUWNHeVNidmFBems3YXBXX01LYWF3QmNRUFpwVWhSMG9yUHNld3lQWWF4blVCLWZmYnZDMFhBTC1taFdJWm92Y204Wm1CX2hNRUxlNA?oc=5",
+      "source": "비즈니스리포트",
+      "published": "2026-09-29T21:15:00.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "채용 공고에서 찾아볼 블랙잭 에이스 업무 내용",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9mOGRSMktJVThzQlVGZzNLQUtaT3c0OTZDZ19IbFZDUFRFOHBtZi1JUVIyT2lxUXNhZUNObXlzY2Q3dmNaM2lJ?oc=5",
+      "source": "actt.org.tt",
+      "published": "2026-09-29T21:03:46.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "휴머노이드 '두뇌' 경쟁 치열...한국은 내년 피지컬 파운데이션 모델 개발 시작",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xYllMTUJkVXdlS0Zyb3l1VHZkQjVJaWh1cGJqTXpQOW9LazVKR0hmZjRTTE5XVkVvWk1ieWl2S25vSmg2ZUxBeFZYeVB6ZlU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-09-29T21:02:59.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "올 하반기 IPO 나서는 제약바이오기업들",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DR0dpaDNXYXE5OUppdVhRRGlyTzRLUUV1blZ5VGlFZkVQU0NQNjhTWVJKTXRJZXVEaG9yR3R0ekxNY1B2NjZfN1ZMRzc0Q0pPdF9hQUVuV2hTTFlkeFdja3U0VUVhSUZ0NVE?oc=5",
+      "source": "의학신문",
+      "published": "2026-09-29T21:00:00.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-30",
+      "title": "[심층] 삼성전기, 9조 규모 FC-BGA 증설...이익 상향 구간 재진입",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNdDdDUWhtZ3B5U2RWOS13ZVhFRWt0QXQtbnh2MkloVlQwa0xoRlB3d3pPREJEN3dkeFVMNW00Vm1Tbks3M19tb1ZOTDFQbUZqMS1LbWtWLThMVU1xM29OS2RwYUhWNC1QUGM5WE9R?oc=5",
+      "source": "알파경제",
+      "published": "2026-09-29T21:00:00.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "스팩 하버드애비뉴애퀴지션, 파이프라인 서비스 기업 'OAG 인터내셔널'과 합병 계약",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92aDZ3eE9mVExsaG1WdzlFZFB4SWFoQXhPZTVpV0NhRE9MSGl6QTBGenBaV1N6aXlJWVl4TUhITV9iczczdlZWUUg5LTBmcWFkTEl3MFRaYTZSUlRCNjNvYnhIQU9BeE5xVUxLTWgyUjNHQk0?oc=5",
+      "source": "데이터투자",
+      "published": "2026-09-29T20:36:47.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "시마AI, 1억5,000만 달러 시리즈C 투자 유치",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iV1BTNFF4WDc3TXAtVkE4aE1DbzZjb2ZpS282bHFBTklCcHNTeTk5alhOaDI4dDNfUFJiZVZZTDdKZXRjRll4RzJPaS1pWUlSUW51UDM3cEl3RXBGT0VfRnBERTdESkJZU2c3N0txajQ1QUl3?oc=5",
+      "source": "autoelectronics.co.kr",
+      "published": "2026-09-29T20:19:42.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "美 시마AI, 1억5000만달러 시리즈 C 투자 유치",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTRnl4QzlzVXRwcXpmWlY2SHhMai11cFF1Y1VUWkp0Nk5scGhFczFBU1E3ZVUta1Rrd3hVVFlhckdLLXA5ZWI2dFFPcDRPQjNsOFQwSlJPdmF3Ung5c05UOHdnWkRfbDZIVUh0dQ?oc=5",
+          "source": "로봇신문"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-30",
+      "title": "車 기업에서 피지컬 AI 기업으로 변신 중",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83czVYMGpTVTV0aDJRY1M1c0tNZ1NkYk4zc1BQdFdmRGRlZUFPaXIwOW1yZDVlWFFVUkJldXM4dVNhM0JMM2pJUW1xMVR6VVMzcGlNQjMtMDBlRkl2TVVoLThoTTFDZ9IBZkFVX3lxTE83czVYMGpTVTV0aDJRY1M1c0tNZ1NkYk4zc1BQdFdmRGRlZUFPaXIwOW1yZDVlWFFVUkJldXM4dVNhM0JMM2pJUW1xMVR6VVMzcGlNQjMtMDBlRkl2TVVoLThoTTFDZw?oc=5",
+      "source": "동아일보",
+      "published": "2026-09-29T19:30:00.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "현대차그룹, 글로벌 기술인재 380명 모았다... “피지컬 AI 기업으로 진화”",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBU2lSbTViS3kxYUpBXzlQSE44NTFTRXJYSWtIRkhzaklaLUh1VHVmSWx5RnV4NVV0OFpRVGdXVzhpMG1telZ1aThEZmlPMS1XQTNDUjNhaTFldnNEUm9LZkxJMA?oc=5",
+          "source": "mocar.kr"
+        },
+        {
+          "title": "“피지컬 AI 기업으로 진화”… 실리콘밸리 인재 모으는 현대차",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQRnctaGVFdFVJRVM5bmJjS0hkTV9TYjgwQjc0Y0NiRE5MaWJnTkRyMFM1dHBaQ3pLVzVhV2hRcFA2bEpyeXo1dU1jeTdmZnRsUzdQMGNpREI1c1FpN1dxOXVPS3NXNzdXM3JBRA?oc=5",
+          "source": "아시아투데이"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-30",
+      "title": "[오늘의 경제뉴스] AI칩 다음 병목은 기판…삼성전기 FC-BGA 투자 8조원까지 커지나",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTEtEdnUtLVdMU2JwWkI1ek1qUVFON19mVUZxRkpfYWp4anFHRUcyUDRHTHd3cmpBeVM1TjFmNG1oY0VOX2EwNEN3X3MwcTRYZm1PZ2ZWd0ttWlFEeEFobnZwUUwwT00yUmc?oc=5",
+      "source": "뉴스버스",
+      "published": "2026-09-29T17:48:34.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-30",
+      "title": "'덕산넵코어스 상장일' 수요예측 결과 흥행...따따상 기대 UP",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDZElWSVdHWWxHZmNuSGdkaVJ3cU1fTzdGZ0ZsRUo2ank5LTNwNmRoM1lMOHJQSVdKcEIzVlljMjc0czh4T3JrVWFJNWJObndDYVFPYjQ5NmhxSDdMZC01anpldWNRdjhvdUhfSHNB?oc=5",
+      "source": "gukjenews.com",
+      "published": "2026-09-29T15:04:00.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "엔젤로보틱스, 피지컬 AI 연구용 웨어러블 로봇 'phai-x1' 선보여",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xQktoSlVOUG5EN1dpTkZpeFdRVnlpLWdpdVZxQzQwekxZZ0Z5Z1dOWGNBOTUtUm81VGFUXzFLRjlwaHNOTFBDS1JaR0VqNHcyXzBRVVN0SC04dUxxWW5Lczk2OE5LdmFEazd6Qjl2VdIBc0FVX3lxTFBXUUUzVFFJYWhfZUhrVk5qZFV3eTBsN1lWRWlRdXVydzlwdWRyc05fZEdHaVprcjNNZVdVSG5TZjU4cTZWdldsOVdMWUZibGc5TThhYkV5RGo3d2hZdVVFelhYOHdNRHB2Y0I4LWdqVmRpMmM?oc=5",
+      "source": "데일리포스트",
+      "published": "2026-09-29T14:46:03.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "엔젤로보틱스, 피지컬AI 연구용 웨어러블 로봇 ‘phai-x1’ 공개",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZSFpXTFJXN012eDFYUHd2bzFyb0lLNWVyVlkyMU13elpkOHFxbzRGNEtRV2RLdVE2aThrNDZjSU5CVFdobmtyT1NSdTVrNDRJMnE0WVR5VHB6ci1MVzVkMHI2Q2s?oc=5",
+          "source": "sentv.co.kr"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "컬럼버스 애퀴지션, 재개한 임시주총 또 연기…WISeSat.Space 합병 표결 30일로 재차 미뤄져",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb2RwYURoSEc2TTRwZGRmbkI2M0F5OHQwRnE5VHNHbEo3Tm4wOWpoNERQb2ZzaFZkY1VzX3hfN2VqNUpNNENIWVdQUEl0R0JiOVlYQi1xeU05aDR3RDJTMlN0YnZkMEduQ1BQUWhIT2FGRU0?oc=5",
+      "source": "데이터투자",
+      "published": "2026-09-29T13:32:08.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "엔젤로보틱스, 피지컬 AI 연구개발용 웨어러블 로봇 ‘파이-엑스원’ 공개",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9icDI4WGJ4ZTlUUHk2VnNuSnU0cXY3c3h4Z0dMUWZiaHllaGk4ajRtN0JEU0pqb1lmZWVMU2w0dXJ4OTd0U3NUR0hPMzgya01pWWFfWnNDZmc4ZlRyVlBjRDNPaWxqV0JqeHRudg?oc=5",
+      "source": "데이터넷",
+      "published": "2026-09-29T12:58:39.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "엔젤로보틱스, 피지컬 AI 연구용 웨어러블 로봇 공개",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BMlhQLUt1OUFRbW5QQ2lyM2IyYkZpcjVoZjhWcUQ5cWNEZ3lyRUczOEozYzlxVnN2NnE1MUFDUFBYaWQyZXIyM0hQSzJGbG1ZaFhNejNlMWpzTWvSAVtBVV95cUxNQTJYUC1LdTlBUW1uUENpcjNiMmJGaXI1aGY4VnFEOXFjRGd5ckVHMzhKM2M5cVZzdjZxNTFBQ1BQWGlkMmVyMjNIUEsyRmxtWWhYTXozZTFqc01r?oc=5",
+          "source": "뉴스1"
+        },
+        {
+          "title": "엔젤로보틱스, 피지컬 AI 연구개발용 웨어러블 로봇 선봬",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53VFBUZmNCdi00V0lsVklEQVNKRDJGM1hkVnEyNGJhWVJrb3hjZzRhcjRjSGZMa1BNQjRZUHU2djhTOHpXbW9mT2ZSWFl1TEZoS1AxYjAyX2lLOXdhR05fbkMxdU9tNjRqSzk1V05PWWViZw?oc=5",
+          "source": "의협신문"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "브릴스, 코스닥 상장 앞두고 ‘피지컬 AI’ 공개 … 로보월드 최대 규모 참가",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DM3ZDQjE0TlgyNDJHendfdXdnZDhZdXZkUkVXdjBTcWE4cEdkUlBLbU5qYUxMdDRDbURkall2OHJWMmZlYWNfOHJNRExpRS16MmRoRElfODVTTlNxY0JYazlCQWdsbk10MDJSZg?oc=5",
+      "source": "워크투데이",
+      "published": "2026-09-29T12:54:42.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "브릴스, 피지컬 AI·SDR 차세대 기술 쏟아낸다…‘2026 로보월드' 최대 규모 참가",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WajRnRkd3SFktS2g3dWlMRjA5Nm5pVHUxclBneFZnbW94OEdic3NzWjZlSU5BN1J3Y0VTdktmVHZ2cGtidjNfcXdqdw?oc=5",
+          "source": "티스토리"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[여의도 클라쓰] 'LG전자, 필옵틱스, 한솔테크닉스' 클라쓰 올릴 종목은? - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYkpGdHRYT3ZtNnpObXpPMzhWd29CMXFHV1JoVU9GOGw3QVFYd3NOcUI2dUNNRndFQXYtZHBYQlluMzVCazRRNi1xeTB5dEFFUkI3N3hHZzN3bTF5SG9lTEg3WXo5My0wemk3TkZn0gFuQVVfeXFMT2RiSkZ0dFhPdm02ek5tek8zOFZ3b0IxcUdXUmhVT0Y4bDdBUVh3c05xQjZ1Q01Gd0VBdi1kcFhCWW4zNUJrNFE2LXF5MHl0QUVSQjc3eEdnM3dtMXlIb2VMSDdZejkzLTB6aTdORmc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-09-29T12:26:22.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[고래사냥] '원익IPS·태성·세미파이브·한화솔루션! 내일장 고래 종목은?! - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04ZTVkeXF5TXNXUHBCTWJRVUlGVXRTV2s0WWtIRkI3SHF1RDJxd2xsNC0yaUVNNFUxNDlNQkp5ZVUtUFc3TG45X3k2aFh2TWRCT3hWQ3FzR0Rma1UtS0FjWmRFbEt6aDZlTTlER1lR0gFuQVVfeXFMTThlNWR5cXlNc1dQcEJNYlFVSUZVdFNXazRZa0hGQjdIcXVEMnF3bGw0LTJpRU00VTE0OU1CSnllVS1QVzdMbjlfeTZoWHZNZEJPeFZDcXNHRGZrVS1LQWNaZEVsS3poNmVNOURHWVE?oc=5",
+      "source": "머니투데이",
+      "published": "2026-09-29T12:23:32.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "뉴빌리티, 바퀴달린 휴머노이드 ‘빌리’ 공개…물류ㆍ식품공장 실증",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNVg3TXNac1JYZXR5Y3pFMHZQZVI0aWJJZjloTk1zLVBqaWFDMVJhQXU4cklJU1FRRWdIQnlpNFU1SWg1a0lmQnY3UHpYVG5CNlFEdzhSZHR4UkUzRXoyNVpLVXJ5R1pPNU02NnRvcmUzWVk?oc=5",
+      "source": "대한경제",
+      "published": "2026-09-29T12:03:55.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "뉴빌리티, 하이브리드 휴머노이드 ‘빌리’ 최초 공개",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1QbDNPTTB0WkpuMldjQVhDZW9MSUVyWm5aSWRlSTBJc2VxVzN4UDVIZ2Vtc0htZkZGV21iUFY0WVEzaTFy?oc=5",
+          "source": "산업일보"
+        },
+        {
+          "title": "뉴빌리티, 산업용 휴머노이드 로봇 '빌리' 공개",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoWVR6RkY0ckl1eTl1TTllVEdxaTZ6aEhySVhsNjhwSzNFQi1FT3dua3JTdERuVGF0LXEyYXB3d0hXaEo5dHc?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "뉴빌리티, 하이브리드 휴머노이드 '빌리' 공개",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lLTFOcDhYQ0plRERyV2hTTXlTbGxZUFhuNms2NVdPdVNRV2syS3l0SnVVOHJZR2E4T09wZ0ZtWmV3OExDek8yRHNaM19IZWRhVlBHR2hsbk5LenhKcnN0eHcyWGxuZG9lWkdIZjVWNlZrOXdGQ3pZOEJqRjk?oc=5",
+          "source": "비욘드포스트"
+        },
+        {
+          "title": "뉴빌리티, 바퀴 달린 휴머노이드 ‘빌리’ 공개… 연내 제조 현장 실증",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNV09SSEhlMm9UbXN3Zmd3MHN3S0JvSXZHYlRDbmtJNnQ1bEFEcTVuTDlrU2ZZd2Z2czNkU0NENEV2a3VkZ1NTNzExRFpGYnM3UlJTOWxEYTQyTkVRc19ueUtHSmEtVWY2OV9fR2pTZzjSAXRBVV95cUxONTdlMkdFMWtnM1lSU0lNZDRXLU4tMlJ4a3N6ZGwtZ0c0ZVpidXBLaUhGcGk4ck92RmZVa3FrLUlsNlF2N2lDNFZmZmVfaTJoUUw2bHZ4UEd6MmVNWFVLWVNnZEFfSmN5LWFUVDhlVWp6Ylp4MA?oc=5",
+          "source": "it.chosun.com"
+        }
+      ],
+      "weight": 5
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "리튬포어스, 운영자금 11억원 규모 제3자배정 유상증자 결정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pQWxmQnMyQWltaFBCel85dmprM3NDZm5RZkZTOFZsanc0ZllMV3lBSUxTaVR4ZWFFbVFFeEMtZ0gtNXB4eFpZSUxsOUdTNHAzeUtDWDJBSXhPN1VrTlc3RmxXd0pvQTBnSnNkaHlmd3h6UF9iM2dBYXd2MA?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T09:53:02.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "“2㎜ 유리기판 무결점 가공…AI 반도체 장비 선점할 것”",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FVHpUSEFYbTY0WGYyQzY2Sk02X0pTWlRrX0diRmhGUnBxT0ltcUx4WGRZLXhSNTRueS14RF85UmdLejFDcndoUlo2TFhvMGc3S2fSAVNBVV95cUxOMGF1UzlQaU9iSnZaNHM5TzBHX3Zrb1VOUlAzMGtNeVRxdms5RUl0dlVRWk1JQzRuTVIzaTJPcV95U29pLXNOZEZFSk1uT3ZUTHhGSQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-09-29T09:50:31.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "엔에이치농우바이오, 농협경제지주 농협종묘센터 영업 367억원에 양수",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDUGg3ZXBWaUVxS0tYVTFXOVNwMmxXX1o2NzdaZEhBckxISGI3UG9kX3NQUkhCeGhvVTBVcUZRdkhNdkRtdWtrMHRKNE5JV2VRa2FzY3oyS1R0ZTJ6N2hteU9Vb3RmcS1IdFFDMmNpZlBsM2VmQ085RFp4UQ?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T09:50:01.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "한국전자통신연구원, 의료 휴머노이드 인터페이스로 IDEA 디자인상 수상",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85YmhCajRsMGV5TEpvX2VvTmVmNHpYOVhfN2FSUFRsLWhLdTBHclo4NDAtQ096WndTMUJxTXdSeFV6TzRDaXJDNDd4VmMyUkpMNjI4NHpJbF9tSXlyRlVTQkZBUjBWR3pyMWJyNzNxVDHSAXBBVV95cUxPOWJoQmo0bDBleUxKb19lb05lZjR6WDlYXzdhUlBUbC1oS3UwR3JaODQwLUNPelp3UzFCcU13UnhVek80Q2lyQzQ3eFZjMlJKTDYyODR6SWxfbUl5ckZVU0JGQVIwVkd6cjFicjczcVQx?oc=5",
+      "source": "뉴스체크",
+      "published": "2026-09-29T09:27:13.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "전자통신연구원, 의료 휴머노이드 인터페이스로‘IDEA 디자인상’수상",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CSTdyYUgwd2J3Skd1bFFLVHVvS0NCTW5vM250M1kyVXQ2cUFwQzRobGhHbkM3R1RkRmxKMG8tYnJSR21GOVRoeGltXzRRRnZFWG1oUFUxci1Pbkl0X0F2VFQ4SFR2T3UzR0JIT0NDVmpKQQ?oc=5",
+          "source": "굿모닝충청"
+        },
+        {
+          "title": "ETRI, 의료보조 휴머노이드 인터페이스로 美 IDEA 디자인상 수상 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUtWbGNlVElFd1FJUVptUXVsUUNSUFZISzU4WkE5c0ZoTnExTF9vX3ZadzJqdmF6c0RiczI0MXlXZ3pVZllaUHdZOXJaSFBaS3QtclpKU25Oa3lDOHl3ZzVfVFNlbFRGSXJGMjVEVElvSXNfQW5lWFU5dWtMWjVCd0lYTDN0UERXTGNoX2xhLWtZMjdjOG5icTVLc2dEdloz0gGgAUFVX3lxTE01S1ZsY2VUSUV3UUlRWm1RdWxRQ1JQVkhLNThaQTlzRmhOcTFMX29fdlp3Mmp2YXpzRGJzMjQxeVdnelVmWVpQd1k5clpIUFpLdC1yWkpTbk5reUM4eXdnNV9UU2VsVEZJckYyNURUSW9Jc19BbmVYVTl1a0xaNUJ3SVhMM3RQRFdMY2hfbGEta1kyN2M4bmJxNUtzZ0R2WjM?oc=5",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "ETRI, 의료 휴머노이드 인터페이스로 'IDEA 디자인상' 수상",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02MnBTODBoTHhFMjVtSG5VRXkyYVF3RF9ZM3RwTjNpbno0cGQ1ZTdRc0tnT3VSOEVfREItbjVIMU4yTWV1S0F1ak9OZlI2Zk5KM04wWA?oc=5",
+          "source": "v.daum.net"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "“LG이노텍 3분기 부진은 ‘환율 탓’…본업은 짱짱, FC-BGA는 쾌속 질주”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oanFVVmI1UzNXVF9HYnVDdjFPX3A2cS1GOG9XdmlqMkFCMmFSSlBzcHNGOC05X3pUR3Flc2NqeFNsNVJ4U1I1aXY5cmd3cmIyeVN2UURyOGY3X2pPdmtBdzdJUEJ3R2FVZ1hPcTFzSQ?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-09-29T09:26:15.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "코스닥 상폐 요건 강화 석달···코넥스가 대안?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yYzduaXlhTVBjenFQR0FldjdyS0RBZXlxQ0JvUmVIZ05CZzhtMjdtVm8xWGVOWUsxTHczaFdoM24xYzVLd2tnT0Q4N0hXZjdHOHpGRHNkMGk1eGhPVkVILUF1Y2M2TTdfQUxNWEtYYnDSAXRBVV95cUxPc203aV81S0J4ZTd2cmo5bUFyaWx0WmFsWkdQbDBoaHNvYV9RR050MV9Td3AzMGo2eWFFd09PRFNrZWcwZkU5aUtKb2pzRmZtUjJtQThMUmtCZlo0YWszdTNLRW1oNDRsRGJPOGZXTXBmOU9JTw?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-09-29T09:18:52.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "보스반도체, Arm 피지컬AI 생태계 합류…\"글로벌 시장 확대\"",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ERjRUUjB4N1ltOTdjR3ozbFozNzRNRU9PbEtjSGwzNU81RmZpUDlHbU1OZHVJbkcxYzdiNURmYXhKQk5qdHd3b2o5QkNpdVZ3OVlVVHhvRU0tWVVnTWlhRW1idUpneEhQMDU4Qg?oc=5",
+      "source": "유니콘팩토리",
+      "published": "2026-09-29T09:15:00.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "보스반도체, Arm 피지컬AI 생태계 합류…글로벌 ASIC 사업 속도",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByVUpMMUdWVlowRGJPWWhEdWt2SXFnNWRhRndyQkpXZHFuRDMxRlZlT2RudVZkbkg1S1l5QjV0SDdIb1RNaFVXRFlZS0tlYkJQT1d6RUZ3?oc=5",
+          "source": "지디넷코리아"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "사조대림, 완전자회사 삼아벤처 흡수합병 결정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fblZla3h3WGpMUkYwN2VaLTVvbS0xbGJfZndibnZaYUFFa011RE1EemFVdFE3SDRhRnZnTV8zU0J3VG1zQUVvdkxlQl9GTWFjR1RvMjFvb2cxNTQ2d09mVGNkdlRTdWFZc01WRGdONDVtN2MtR09TR0lzdw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T09:11:05.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "한국가스공사, 코가스 캐나다 에너지 주식 7670억4000만원 취득 결정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tSzE3THBPR3FpUndsMWhVUUJQLTlNdmRDNVVLX05lblc4S05BWkREbHdrbnl2TkQ3THI0MF8tb1Z4YkY5aFYwQ21uajNOMWxFcUh4NFZUS1dHd1RENExERVRrS0RtSVA3M2FKRlEtRTQyak5qeGtmNktiaw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T09:02:04.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "아센디오, 발라컴퍼니 지분 100% 75억원에 인수 결정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GRFIyeUsxd0k0T01uMGJDOFZUaVdmUkxucnRRZnZjQUVPcm5QbzJTQmRGME1wX0pERHNlTmxJQVFXQ1lBS1Y3MGNUVk1WSmtGd2FoNXlfWmxReURXVEowUVNRNHBJemdBTE8yVWFVaWhOTlBlVDFDaU02cw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T09:02:01.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "‘관리종목’ 국영지앤엠, 증시 퇴출 위기 어쩌나",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qRU5DQVVSOVhpaU51SURkZ3JqMFRqNm1FdWNpZm9oZnJwdERrclc4X0ZXZ2tQUkZWbFhJVFdkdk4zSDN3NHpoanpXOUMwdlRLSDlnNXlQVWxVaFhyb3NiRmhsaUlaN3EyazhN0gFvQVVfeXFMTzVmUF9JZURKRUxOZG95UV92Y3hsdnhGbWRZdUl4cXQ4QnJ5ckJuRmNDQ3pnS3ZvQXZGTXZOeTJPWTZVVnRjYnQwbjZ6Qmxwd0I5d0ozSmwyMTNmOUlPRVFYQjJ4N1Vzajk1RlRNbVN3?oc=5",
+      "source": "시사위크",
+      "published": "2026-09-29T08:46:11.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "“돈은 빅테크가 대고, 결실은 삼성전기가…지원금 50% 이상 끼고 6.8조 쏜다”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTUhaaGN0UFU1dFJhQkpPMFNpc3ZpQW5meVBTNGFLV3RGVjRYMFprbWN2QXBpUGIweFh0d2ZPbHVCVnNJc2tBUkRnRVpxeGdaX3p6d2dqVXZqSFIyTld5LVBWMVJDakZKZnk5a29PZw?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-09-29T08:26:19.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "이종필 솔리스 대표 \"코스닥 예비심사 통과…글로벌 기술력 입증\"",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14X1BPZkJaeEtPbkJ0N2ZRU3hJTnJPNXhEVWxMdzFFXzBZUk9Va1pzLUpsU0JTM1lhS0V6a0xud2VHbUNKUGpqYm1XMDQtbEpyZ2dFc2l0R2RMS0lMbWtFeU9LQWdUbnYyUmVjX3FZUUl1NGxn?oc=5",
+      "source": "financialpost.co.kr",
+      "published": "2026-09-29T08:23:26.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "TV 안 팔리는데 LCD 원가는 더 뛴다…삼성·LG 수익성 부담",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUM3cGhia01udVM4cDhWREl0QWJlNHFueS0yZzM3WXgxbVQtdGFVSmc2eWJvY2ZjWEsxb3I5ME1IN1VuWnFnbkhnTUpib0h4a2pqWWxad2FmY282YVBGVnpWbjRIR2RQTnJER3g2clVkZFJkMG5ENG5SN2FlNzFidQ?oc=5",
+      "source": "edaily.co.kr",
+      "published": "2026-09-29T08:15:51.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "필옵틱스 유리기판 (사진=필옵틱스)",
+      "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQOGozUmxfVjE1VFBGX3NsV21rQk9iX1piVlJOdzhEeWkzMktMNFhtVkg2QUhqUFJzMzE0ZGNYbTU0QUtnT2RrYjR5UUdoajEwT19INlRFNS1ZQmhqTUp6a2tBUU5WT04wUHJ0UkZocFZBcnVBeV9lR25QV3VVNGVPX1pKSnJWZ1BfeXhrTmp1STFKRXBEdGVRTkxBNkYwRTVka1hUWXhvQllGaFpVT2lYN2RuOUxvRXpwRjJiNll3WHc2X2R1N1Y0MF85STB0Vm0xWlJoZENsSmJFVTNLYWFodGp1ZTNaQ3QydnRhS0RoWWY2dHhfVmpjb1ZES3hsNkg5MndYWE1tdm9lMjBnOVkwcy1OYlFveWE2TUJwVkktZjFsVkMyYVMzMFdVcmd0Qm1fV0QxUjB2aWlkaEpzc2N0b3FPeXVOUFRjdkc5Q1RJUGtPNm9kVmpOY1pzbF9Cdkh2QjRVaDJzSkJ0VUs0ZUw5bHFaNmFBcXJfWlptbUFsc2Q3RjVETW13QldPSGpuOHoyWGRJY0hJSjhRQU50dFFiQVV6TFlGbGVVdkJyMG9VVHJlUE1zMG1fVzlidFhjb2VhTWtwdjhUOGtTOGNxSEl5SjllNm1DbU13WGlaaGhTTlN5TGkySndmNkJPaFFNQU05MENwUm1kQUJVS0dycllGVmVqS2Y4ZV92WnFzQUtVWjVBYVh0Z0xrVzlYdWlFVFpQTkJKdXhwNDEzWW9GZWFSU09wQUEyNDB6VVBmU2NkUlNxTVFWX1haLWxPT20teVluSWFtZ29waEZGWjJxRlBMR3NFZDdJMjVqZkkyVHdpTW1pbFBUMjhSczdBOGtoVWJPWDJuLXNnc3l6QmJRTFhveEptMUdOUQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-09-29T08:15:25.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "필옵틱스, 글로벌 고객사에 2㎜ 유리기판 TGV 장비 공급 [종목Pick]",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SblMwX1ZOblhsZHJpcFdIMlZEb25jMTZwc1pSV0xiR1V1V0hoeXJQX0lJLTNNUGJRdjlqaHBHNG1jVlJyT0VhMFc4ZGU0dU9LZ1drWA?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "필옵틱스 11.52% 뛰어 3만8250원…2㎜ TGV 유리기판 부각",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtUFZPSWg3UHY0b0JWdENVM3J1Um41LWxOM1U2WHdGcXYxSmJvSHFEWEI0emRBaXFRRm8wVTZnWDlDeXB5R1RiQlZpRHZaWG1rQ0ZVczZGRlZoYkNsM0hEME96emVra2xnNnA4NTB30gFyQVVfeXFMTTNtZGtkN0E3cENfa0taRTJ6a2RCYXg3X0doOFU2d281SFJVaDVQZVgtaWUwSEk3cG9TSU5maS1VVDh3V2dmZ2kyNVNvWXpkQU5FRXMzTWRBZ19TdnRxcjlZVEJYc2VLS1pkdFVyc0ItRmNn?oc=5",
+          "source": "잡포스트"
+        },
+        {
+          "title": "필옵틱스, 세계 최초 유리기판 '2.0㎜ TGV' 정식 공급…기술 초격차 '공인'",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nbU55VlZSeHl4U2tWaTQ2bFF2SFhlQ3B1bmhkd1pETW5mdjhpTF8wWjlWZjNyeTFFQXA1REY2ZzlxUFhNQTA1Vm44SzFwRlpfRjExaV9mYjk1NUVscGtJWXZpSmh3UUVi?oc=5",
+          "source": "녹색경제신문"
+        },
+        {
+          "title": "필옵틱스, 차세대 TGV 장비·검사장비 동시 수주…유리기판 고객군 넓혀",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QajJyWDlSY0FBS2M3WHhJaUFvbGdjbUZ2Y3lrVk1TdWtWRkVjQXZ6Zmd4NFZ2TXItYjVIYXRTNG4yeU1uc2NnSjRmdE1adzNwTk1yYm5Ma1lqSE1MQnZ2X0tJcndMQlNPdUVSY1Rsbw?oc=5",
+          "source": "market-ink.co.kr"
+        }
+      ],
+      "weight": 6
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "전북대, 2650억 규모 피지컬AI 사업 참여",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BN2hBSGNKZWZZRHlXZWZCR1Y4bE9lanR5WjBuMEJ5a1pLeXhxdlUtUXVxR1pFeVlwN2xaX0xRekRlRkR1a3dLNkZ0VzZydUxrWExxUFp6VklOTm0zbXRYOHlZSjRjQ0ZJNkkzOHZB0gFwQVVfeXFMT21MeG1RUnlSRjdWWFNSbWdoX25KMHM2dno2YURuYkhPUGd3eUNjU2RaMXFkLWNMTERvTEVHZk1iNkQycHVONEd5enloT3hmb3hNVjIybDVpZFNiV3haTE5UYkFqdmRCQTVGb3VXcTl4OA?oc=5",
+      "source": "전라일보",
+      "published": "2026-09-29T08:11:35.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "전북대, 2652억 규모 피지컬AI 사업 선정",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRFFwdkg2R3BJWE1HQVltVVdiaXluOUVLOGdHajB4Sm01ZzZoUW56REc3UldVZndxaWg1c2FwQVVZc1BsRlR3amdvTC00SzFpeGc?oc=5",
+          "source": "전라매일"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[분석] 삼성전기, '6.8조 투자 승부수'…MLCC 날개 달고 FC-BGA로 AI 영토 확장",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VY2ZKR2kzVzAtVy1qc3FXYS05NGRkUVNvWExHWTNycUVFRU0yVmg5dEVlNzBOeEg4azBqS01iSlhBOGg3VXdxcWV2YkJVZGRHVks0dWU5Y2dvSFE4NmNraUVOa29laWFDcUZ0VkNLZE5Qd9IBckFVX3lxTE1VY2ZKR2kzVzAtVy1qc3FXYS05NGRkUVNvWExHWTNycUVFRU0yVmg5dEVlNzBOeEg4azBqS01iSlhBOGg3VXdxcWV2YkJVZGRHVks0dWU5Y2dvSFE4NmNraUVOa29laWFDcUZ0VkNLZE5Qdw?oc=5",
+      "source": "팝콘뉴스",
+      "published": "2026-09-29T08:07:15.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "中 \"전자 아키텍처 완전 국산화한 피지컬 AI 로봇 공개\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKTTNzbFFZcjNobmhSYXlRRnV2R0xRdzNrbTZ4ZzVucTY2YWZ3TUZBeG5FU1RvZDY4ajJvZ0dLRWtycEtCMGoxdUpyRXFLcGNMbndKRlVROEM5N2M2Q215a3RYRWd4cDhub2VRX3dEWmxoeDjSAXNBVV95cUxQSk0zc2xRWXIzaG5oUmF5UUZ1dkdMUXcza202eGc1bnE2NmFmd01GQXhuRVNUb2Q2OGoyb2dHS0VrcnBLQjBqMXVKckVxS3BjTG53SkZVUThDOTdjNkNteWt0WEVneHA4bm9lUV93RFpsaHg4?oc=5",
+      "source": "hankookilbo.com",
+      "published": "2026-09-29T07:56:00.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "‘전자 아키텍처까지 국산화’…中, ‘피지컬 AI’ 로봇 공개",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOYy1ldHhSemVyRU9EYXNiX1g0ZkVodEY2SkMzTDdMSDBOOU9LeGM0NHVLdHJPUnczeHN6b3pOeld6VzZBVV9OaDdPajQ3cHM?oc=5",
+          "source": "v.daum.net"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "폭발적인 증설투자- 대규모 수주 이어가는 삼성전기...한국 반도체는 이제 '2강' 아닌 '3강체제'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50Y1FLR212enNic2QtUG1qYUpWNjkxY0hfUFhua1hOWGNQS0M0NkxwekR2aE9fN0FPMnZNYUhtX1NGUS0xTHVXVFBlRjB1ZFVwWVV0YnVMZWpUU1NtQWtNdVhCNlpYZDZEZmc?oc=5",
+      "source": "moneystorm.kr",
+      "published": "2026-09-29T07:53:47.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "‘꿈의 기판’ 언제 현실되나…수율 낮고 ‘큰손 주문’ 아직",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWRDRvbUxNTzJwSDNCcjJ6RWZmSldpWW95UTdTQ3ktN0ZYLVBvbXBPbC1HRmJRUWljVEo1aUpRNXdRNlV1NkdoRmhZRXNyNDA?oc=5",
+      "source": "딜사이트",
+      "published": "2026-09-29T07:48:20.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "AI가 낳은 PCB 대란…'5년치 물량' 선주문 경쟁",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xT2xObzBOMUFaVHhRZ1hCUFFmc2VYS2hJZlgxYXVZWXpTUkcyOG82MDJJSi1PVV9CdW11Sm9MNTFXWi1tSVppLVFKaXVfaHJ1WGlHVmlRa0FnN3YyaTFRd0IyNDM2QjloMnpzZtIBbEFVX3lxTE1xT2xObzBOMUFaVHhRZ1hCUFFmc2VYS2hJZlgxYXVZWXpTUkcyOG82MDJJSi1PVV9CdW11Sm9MNTFXWi1tSVppLVFKaXVfaHJ1WGlHVmlRa0FnN3YyaTFRd0IyNDM2QjloMnpzZg?oc=5",
+      "source": "엔지오프레스",
+      "published": "2026-09-29T07:46:16.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "\"이족보행 대신 휠 선택\"...뉴빌리티, 제조·물류 로봇 '빌리' 공개",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BWHVFVjllckFxOWxKUXZKZjFGY1YwNnZFaGlqS0V6WUFaQXloR0RVdjlhak1mZGFzX1Q1b0pyVGN4eklnMDQtdHMyNU9lcnVURFBkOHk1aEFXYlZiMVlzUExJbFk0SDdOTnc?oc=5",
+      "source": "AI타임스",
+      "published": "2026-09-29T07:44:58.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "뉴빌리티, ‘걷는 로봇’ 대신 ‘일하는 로봇’…휴머노이드 ‘빌리’ 공개",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBza3NYa2dpbmdtTWw5Q1pySmM3TEZ5LVp3dUZyVFZZUGROQkhabmxEYkkweERPY3l1Y0xxa0JlbXlaYkZlUEJTaThZaW5Bd25PSndINERJY2NBYjJTdEdURVhHTU9MSjF4Y2t0ZldPNA?oc=5",
+          "source": "이코노미사이언스"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "그치지 않는 美솔리다임 상장說···SK그룹 ‘중복상장史’ 반복될까",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KendsVXF0dDhzRjE5UC04Qmk5bGtlTVhOZk5hbm1fd3FYREkwRW1lN2VONVR4RXNtTHgyWkREREJQbXRQUFphNVY4b0ItdFFEU0J5Uk9pOC1La1VlQ3Y2X2xLVVhJckM2MkViN2hSVDFrUEZNMXfSAXZBVV95cUxOSnp3bFVxdHQ4c0YxOVAtOEJpOWxrZU1YTmZOYW5tX3dxWERJMEVtZTdlTjVUeEVzbUx4MlpERERCUG10UFBaYTVWOG9CLXRRRFNCeVJPaTgtS2tVZUN2Nl9sS1VYSXJDNjJFYjdoUlQxa1BGTTF3?oc=5",
+      "source": "시사저널e",
+      "published": "2026-09-29T07:44:17.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "현대차그룹, 실리콘밸리서 ‘HMG 테크 탤런트 포럼’…피지컬 AI·SDV 전략 공유",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zeGRZSDA0RHc4NzlDenpMRkRFbmN2d3I4WVFObW1pdGJ3YU5DUHc1RlZpUExlQzBQaUN1VmhZWThIWk9aY1kxN01LVndsaFdNblJ6anFwYTMyTGdxanlfbEVCNk5pWTRN?oc=5",
+      "source": "테크월드",
+      "published": "2026-09-29T07:35:18.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "현대차그룹, 실리콘밸리서 ‘테크 탤런트 포럼’ 개최… 피지컬 AI·SDV 생태계 확장",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwd1k2WGczaDBoNGR2dGswN1lWaDRSbnRneFRLSS12d2x3djZPR1NscU1KS3lVTEJ6WFVONUx4WE1peU1zNldUejY4bEhoVjVpYVNqNkZQZ2NNcnRqWU4tU01XUVrSAWdBVV95cUxQNDNRcElHb0pkSnZscGFybVJFUDN5dFM5RlZndS1RMWRoVWllOFJYckJCTEZJblJQZ1VBa0lVLW9PM1p6UlpkOWx2Z3dXY3pfaTA0N3BpU3prZERUSHVoaFlGeGE2VFFB?oc=5",
+          "source": "리버티코리아포스트"
+        },
+        {
+          "title": "현대차그룹, 실리콘밸리서 ‘피지컬 AI 인재’ 찾는다",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtQjlLdGpzV081MThtRVQ2Y2oxcTNReFFIcU5xRDlQcnVfbDY2bU4yTHM1LU9ieFAtb09naGxZSVZUYmJFUFZZek1QeHRTYm0yeHJtYTE4dTVvdHRhQTVhUDlDQ2s?oc=5",
+          "source": "매일일보"
+        },
+        {
+          "title": "\"피지컬 AI 기업으로 진화\"…현대차그룹, 美 실리콘밸리서 '테크 포럼' 성료 |",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GQ0JOVHJRNEJqUmZTUjI0N2dqbGhIVkFtWFF3OWFYV0JqNGZEeTZ5Y2FrYkM3dlZFMVBoLUZZbG1iUmluS2NrMkQ2NzZDOEpIM0xscGs3TUd1am9nX1dSM2oxYk1iMDQ4cVZFSU5oRVJiSGVs?oc=5",
+          "source": "연합인포맥스"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "[포토] 하이브리드 휴머노이드 ‘빌리’",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZnZxdHdNcGFPSlRGbWZuWHpQaWZ5Z3RnQzZtaXhUX2VqaWNSUXRNcFl1RTVnTFUyQlR2NkdHZktNUmdwQkpEdG1YV3BLbUQ5M1Z0akExYU95RWZIcHNvbmVidktTTU1SRkZ1NG5JZzJjUdIBdEFVX3lxTE9BSm1NZDBoaG1LZFdVSHVqZ2JNenZDS2hiWDVGM19yTGdiZjhYUy1CTHlPWDE4bjZPYUJSWUJJODB1am1ZUjdsUUJmQm9QQXg4Z3JOWUtpMzNZSGxPMDNrV2t6bndNN1djZTExNzlhUS1SNVIz?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-09-29T07:27:00.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "[현장 르포] “이동에서 조작으로”… 뉴빌리티, 하이브리드 휴머노이드 ‘빌리’로 피지컬 AI 상용화 당겨",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNG12Zm0zc1dZZHB0VEc4QTdJN2pyUGFQOGkxNUZTY0RWeTlRdmdtZW9fUm1JZ05jRW40VmpEMG9MZDMtS05udi1VREliMWEzNWtzNGpmSVNCWW1sWll5ZHdjeGFydWplU0ZkeHpqMGVsNWUyZjgxTkozb2hzemtqTmdpcEprY1lCc1NMQmRjc3lhaEpzQ0NqdlJJNU1FbGtrQXdlS3hkYk1ja0JQd0dtdjFValFiRW9VSTZZV2ZmVElGMDdGWkg1VVZWM0dOOVpkQjA0a0VIekFOZHhoZ1RDRmx3ckd2UHpRY3lIQ0ZzZTRqdW50MmQ3Rjc1MkhfUGZBVHhEc1I1dUsyOW1HZXY1bUJUQTdMQm5TclhvOFZqZFZmVnc?oc=5",
+          "source": "아이씨엔매거진"
+        },
+        {
+          "title": "뉴빌리티, 하이브리드 휴머노이드 ‘빌리’ 공개…제조·물류 공략",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LeEh6UDZ4dkw3ZVFabkE4Ylk1ZFloeDZzdlhSbTE5Vl80TjJlcDhRaHhsLUVhY3BwbHlxTGNuYzZTcGlIcUU0M3RGa3NlU3ZETXN3M3Q4cEZleGxoODFCbQ?oc=5",
+          "source": "nspna.com"
+        },
+        {
+          "title": "뉴빌리티, 공간지능에 조작 더한 능력 하이브리드 휴머노이드 ‘빌리’ 공개",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jYnFfQXQtYU1iMWY2YUl5QXVQbDVwZGVUYkMxbmJHajllTzlZQUJNLXFILV9fY2ZCNTZiWm1sczBIOXlOX2tkSWFZZFB5Y0Q4MUo1UEZJQjJkb3ptcXczaS1RM0JiX0NW?oc=5",
+          "source": "테크월드"
+        },
+        {
+          "title": "[심층분석] 뉴빌리티, 하이브리드 휴머노이드 ‘빌리’ 공개… 자율주행 넘어 산업현장 자동화 시장 진출",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWHQ4dFhDYVFBcENzd21WLUgyaU1uU21aYTNlU3IyMlVrZFNEdkc2WTBkNnNWdkNvMVdKZDdSeFhOemU4N3BhSjZ1X1lsNjJPazNpaFZ5VTlENEtqVmZVc19iWUdTV3E5U0E?oc=5",
+          "source": "뉴스밸류"
+        }
+      ],
+      "weight": 8
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "[기획] 대신證, 업계 첫 공모주 증거금 이자 지급",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS3BrVU15dTZCNGJJcHg0djIzNTgxZGM4TzlMRVNwcWRtbmlGR2YyY2FKeEhHa0k1M256N1gwbkppOVdMQjlYVEhuQ2oyeDMzUm5mbG1IdkdQaDl1LVFnZ19KUXg4bmFGRzFrUdIBcEFVX3lxTE5iOEh5MDc5UmxScTFOX19vTXdRNmR0LU1qdDYwYlF1bXcwYzg0SWI2V2NDQWpzQnRELVpOcHVuYVVZeFlMNDZLek8tNWVQUVNTSEJQeVdTSVdJR1k5amE5WUZMaGhQQ0FaRHE0dnE0QVA?oc=5",
+      "source": "소년한국일보",
+      "published": "2026-09-29T07:20:04.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "AI DC 열풍에 날개 달았다\"…두산 전자BG, 분기 영업익 2243억 '역대 최대' 경신 전망",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MUmt6QmF4MGZSNWtvbV9jbDdCdk04S1ZKZWdDQ2hOWXlTVWhyZGc2NHVWb1NPLXRwVTRPYmNtSGJiSEhlMVdqb09OMzFRRVN0dWo5OTRiRnBWeFplQlFDamlERXVVM2hTWHhhbGEzUHg?oc=5",
+      "source": "위키리크스한국",
+      "published": "2026-09-29T07:06:08.000Z",
+      "q": "동박적층판 CCL",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "“돈은 고객사가 낸다…삼성전기, 선수금 70% 쥐고 8.5조 패키지기판 승부수”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mT0RZWmRXZWxqOEVtYU1WUHg1V3dlOEZOT0YtSTFCZ2YxOWhTS2liRFNER0lQaVlMT0NBQlJlWGFkelVaNWJ0c01QamlKOEtnQnlQSElEOGVLNkJFdW5yR3g3YUlCUFlvblB5SVdlcw?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-09-29T07:04:49.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "SK하이닉스 솔리다임 프리IPO 코앞...주주에게 得될까 毒될까",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKclN5b2RRWkFDeXFOS3JrTzBLR2wzNFUxbjItMDMwdEtkcWRWT1RJRFE1SDdUVktQWTRyUEQydElJV1FwTUJiT2dWOGxfXzc0aWdSUE1PR2puUHlZVTB2a0lJSjZxcGFwaFltVw?oc=5",
+      "source": "ESG경제",
+      "published": "2026-09-29T06:59:08.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "[비트코인 지금]올해 국감 디지털자산 화두는…'더딘 입법'과 '성급한 과세'",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZC1WcHlWOEptSklpeU11SFZsYjhSdnNKTnRjVmVyYU1sNTNoUVJ6cjkxVWNERnBTVkxMYndoMHVqek5vRHhubDBmN3JQWWY1bnlIM05FUmNuVGlndEEwM0UwYTM0eGdNOHNRZEprR1BDcWpTU1dfUkkxX0NieUxkc19B?oc=5",
+      "source": "아시아경제",
+      "published": "2026-09-29T06:58:43.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[특징주] 삼성전기, 6조원대 기판 증설 소식 등에 강세 마감(종합)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QVmNYeUZ2TndLNE9lSlItcmpoWVZHY2NPa2xlX0RMY2tuaWM0eFctV1ZWYUZ3ODg4aVJOXy11WlZyOU1aYktvdjZod0ZGTTZpS2pVZGo1NVRNM1HSAWBBVV95cUxOWUVMZUF2N2RjQlE4SXJNZG9CQTNWbHdKTDZheGN1UzRJbzJpLXNBel9MdG0zQmhJejBGOHY5MXdBcERwVlRMNGRRX05Hbzh4YnlEb1VhTHFReFgwcU51bDk?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-09-29T06:50:20.000Z",
+      "q": "반도체 기판 증설",
+      "related": [
+        {
+          "title": "[특징주] 삼성전기, 6조원대 반도체 기판 증설 투자에 강세 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUVTT0JLOUJfUUVsZkxUYzhMbGZMVFYzNVQ4LTRlam5HNmg3OUIwME40RGFvNmphU2sxbGNZU05icU4zRlJJd2E0VkF3Z2szT0RReWxFM3hFamZqSUlIU1dZT2c2eTNERXl0aDlzU0JVYmpSU3p4U040OEpIc2U3SW5lT2VsQWY20gGcAUFVX3lxTE1vY0E0Z21DdWVhcmlhSU9EczNYVlhmWVBLWEhpSGFpLWFqU0VMd2luMDUzV1dnNG5TYzVtMEpkbEh2NE5OSHlObmFqTFBHNXVITFZPaUFwZUhSWVBtMlBIZFpoN0tXcmRuR051dXd1eExFTEdhU2VjajdxY2NBSGFDRFdVeldBSlkzZlhjaTl5Nk5KRk1wNGVKRUE1RA?oc=5",
+          "source": "Chosunbiz"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "티로보틱스, AI 휴머노이드 제조라인 실증 착수",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hZzkzTjk5bDVLQTBzMG1wc2JWR0V2ZmwxLV9xVEtvZXJkTlp5MFlIdjh3d2RPSTNGM29uZVFOVVF2Z2tUWVlHdXpEQkpEN1J0Slh3dE1ia0hjQXc5cm5hTWtRLUxHUWJiZmxvU0huckRucnPSAXdBVV95cUxQUmlnZnBuN0JmYzBmUkNwU3JfdUM0dkVQMUZrZGtYN0xuRGFhUFJ0eEV5WWt0dW15SkxnQkNjOW5PMi0xMl9JMW9qdUVYcGJVY24waGVGZWRrbkxyWmJRVFJJZUQtZkpBQW91SGE3OU9CY3diNV85WQ?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-09-29T06:35:31.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "[더벨]티로보틱스, AI 휴머노이드 대기업 제조라인서 실증 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sSFBkaVdzMnExbEJwWjJzWVpnWjB3cGhSekV5Nld3Z3Z1bHJlcGN3TUZWOXktY3BjWl9PMUVJWU9wbXkyTTVwUHU5akpQckE2Q2kyOXd1SFJzM3BjR2dqNVNhcEkzZW8z0gFuQVVfeXFMTzJZT2tOR054alFHMVhuUmh1WlRSWUpSV3JWRldHa0JhbEY5eEZ4aUpBR09UOVNXaC15aGQxNG1UZkJxcmc3b1VlTkFyZ2k0Rjh0dlRzellESHZlNlVUVndjSkFDM0NLM3doejlia2c?oc=5",
+          "source": "머니투데이"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "전북대, 국가 피지컬AI 본사업 핵심과제 대거 선정",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XY1JIV1NoYWtlZjJBdkJfc0pfcmhXZzE0Q2FGQlRHdDdvV21fbWVsMkwyc1JPdlVJcXZETm1Ucy0takpCaHJlOGpnNXFPU1dEOGJLSVp2bzYxSWdrZGE2Vjg4TEVMVFBwRWtIRlBn0gFuQVVfeXFMTldjUkhXU2hha2VmMkF2Ql9zSl9yaFdnMTRDYUZCVEd0N29XbV9tZWwyTDJzUk92VUlxdkRObVRzLS1qSkJocmU4amc1cU9TV0Q4YktJWnZvNjFJZ2tkYTZWODhMRUxUUHBFa0hGUGc?oc=5",
+      "source": "아시아뉴스전북",
+      "published": "2026-09-29T06:33:08.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "전북대, 피지컬AI 본사업 핵심과제 대거 선정…\"핵심 거점 도약\"",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUY3gwcTZSc20xVU1HazlxeUZwcmRLV0pMVWRxTmtIcDBLMFR3VURJWEdFY29teVRyVTZibElXcFZWcUlvNUIzcVhLWjJtMXM?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "전북대, 국가 피지컬AI 본사업 핵심과제 선정",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ckZhSmIxUFdlcTJsZUFzV3M0SUJ0djJMNzUyOG1fNUJ0S3dLTUtEaXFCR0ZidVcwSjgtS3lnZG5VbWhKTHZtZlFZb2RPQlVZYjBzcHc3aW5yMThNUl9IWWdZOGd4VVpVbEE?oc=5",
+          "source": "전북제일신문"
+        },
+        {
+          "title": "전북대, 국가 피지컬AI 본사업 핵심과제 대거 선정…2652억 투입",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wXzRFUnFrSVpXczF0SjFsdnJIcmViRHpVREc4YloxX3dYc05XRnh1cVBlM3Q1MDlBZVRNMFA5dFpMbWJDbjZjcXZQNUthdw?oc=5",
+          "source": "전자신문"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기, 반도체 패키지기판 6.8조 증설...2028년 '매출 20조 돌파' 전망",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TRno3MnctVG5CYjhRbmNVYnRSclFiaEp1SE1GeVcxMGVkekFTSXdiemJYZEF5Y0U5dlRGUHdEdVE2TTFSTG1Jbk9aSUZMbEctOGNMd19KVFhWaC1BeFM1RUI3Wm9uYmhLaUhOQWs2MHpndw?oc=5",
+      "source": "오피니언뉴스",
+      "published": "2026-09-29T06:24:51.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "\"투자금 대부분 고객사가 댄다\"…삼성전기 FC-BGA 증설 증권가 일제히 환호",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MZEdVSG8yU2xUWHNsdE1Zc29lS1QtZ3dSNDdUSVRBR1QyRTNiNlRsWEM0RFptMUhOOW5PT19DZ0NmYzNqYUNZaHhpSXI4NE9EVzJ6bNIBWEFVX3lxTE5WNGNtSjhNZzNfOG10TmdvOVRjWVQ3OHVZU3VJUERoQXVLN0hBZWhOWlhOUGZHSWFPWDUxNVRCZEpnV3M5Y2t1aV9aQTRnQ2JGcnR6QXcwRVI?oc=5",
+      "source": "미디어펜",
+      "published": "2026-09-29T06:24:42.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "상폐 기준 강화 6개월 유예 확정…한숨돌린 500여개 상장사들 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PQ0NsRmpuOVVIdUhNcnJMb004X3ZFS3NrbW10akI1MTlHT2ZDNHJudzNYMk1lOFR4MlVGZUpDbGRPQWdHcGg2a0NiTFdqakFnS28zN1FEdF96NmttRWNxcy1jMzVmSGVodlppUTBn0gFuQVVfeXFMT09DQ2xGam45VUh1SE1yckxvTThfdkVLc2ttbXRqQjUxOUdPZkM0cm53M1gyTWU4VHgyVUZlSkNsZE9BZ0dwaDZrQ2JMV2pqQWdLbzM3UUR0X3o2a21FY3FzLWMzNWZIZWh2WmlRMGc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-09-29T06:16:29.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "ETRI 의료보조 휴머노이드 UI, 美 IDEA 디자인상 수상",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbmVaemk5Q0hWOF9sQngxYkhiN0FkNVUxOXhlMXplSU1MM1N2Z1lLNzJlMmtmcUtVZzJLaEhsN01ORXBidGtHb2Z3LWtRM21BeWxwTmFEbEdTelRIRExZM2ZFYk9wVzRnRE5GWG92NVd3Q095QVVIVjNyX3ZWME5fNG5vS2Fyam8yQWxlZW5xWENBZl9LeDQ5OVMxT003R19ROGhwbkJBYndxeFZVTnVqNThhdmFDMlBRT1hKN0d0TzU2TXcxR1NTb0JxRU9tZXhuSTJjOHZLendtU1B5cW1Yclphaw?oc=5",
+      "source": "데일리안",
+      "published": "2026-09-29T06:09:00.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "ETRI 의료보조 휴머노이드 인터페이스 '세계 3대 디자인상' 수상 쾌거",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aTDlIcTBEa1YwekoxbnNlS2l1TkhIa2RoRGZ0MC1TNVRiRG0tSXM1UEFjM3J3Y2ctUmFlMElVYXJGRHBiaG0wU3NfTzlJdw?oc=5",
+          "source": "전자신문"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "뉴빌리티, 휴머노이드 ‘빌리’ 첫선…제조·물류 현장 노린다",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TN2NrV1Vxbm9PS1p4aGxoU1dXajBIWGR5Sy16N1pqOXNiV0QwcW5wc2FOaVdqNkdsUmtFc3NfZUc3bENNRXM0MzB2U2l0eUVtLW55ajhXRlRuMS1ZVVk1UUFpOWdCelJKTjFZelpCYw?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-09-29T06:06:28.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "뉴빌리티, 첫 휴머노이드 ‘빌리’ 공개…제조·물류 현장으로 간다(종합)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKTUZXV2JjUWpmLXJ6YVZkYmgwd1E2OW5QSGhRcFV1LWJzcG4tYUw3SEVMVE8xd3dWaHQyZ0lCeG9yc21LZ0FJOFVEY1daQ2hSSFVJdUZuaHZfSWJnNlhKZXVFUnE?oc=5",
+          "source": "디지털데일리"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "특징주, 씨앤지하이테크-유리 기판 테마 상승세에 5.19% ↑",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jUzB3bEx4S1ZCa2RNY3hhZzVRUE9Mck56dkJfN0VlUVZScl9ySG95aUdlUFY5dHJRZkZRRzFsZlNZQnlmLUE?oc=5",
+      "source": "매일경제",
+      "published": "2026-09-29T06:04:04.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "특징주, 나인테크-유리 기판 테마 상승세에 11.31% ↑",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XdXdubUhlekN0cGd4Z0gxc2d2a2k3aHdaeGRrbEN6YW5RNC1vb0x1SS1UYy1QVS1kX2w3blB4YnkxczlVcWx1ZW01R3VQR2lIamc?oc=5",
+          "source": "매일경제 마켓"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "10월 공모주 청약 러시…로봇·AI 줄줄이 상장",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSSV9OVTA1NHh4UHY5UUhmRVVwVm1FeUp4QzRYaG9iQ24wRVA0V0hES1VPNHhPeDkwa2tXa20tdnRqY3p1ZFhCZ1NqMjZCQQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-09-29T06:00:00.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "유리기판 : 전망 및 밸류체인 핵심기업 리스트",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGJHUVA3U1BnNDBwNWZ6MlpzSXRmYjZiYUVDdkJYM2ZMcXBnYy1PLTN3dExGZjhqTmJSRC1WazFLRWV6b2U3OGtuX0FFWU5GMGRZRTNTdTlTUmZiV2J5RjFqdjR3RnpyYW9ueFhqWVRHNVFfaGtwT3dhWkZFRnRyT0NBTQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-09-29T05:45:00.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "넥써쓰, 우회상장 여부 확인으로 주권매매거래정지",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HR2VLMHQ2clNjRHNmS0tGS2JGUzlmb0xWV09SeEhabkV4RmZ4T3RJT3dsX0dmUzFud3NfcjZPUXlvamcxYTVsZ2Zyc0ZqRzhKOUl5Vjd5TEhneUEzRTFHZWV0YUdNMjQ4NmxNZHhLV0wxRjg?oc=5",
+      "source": "데이터투자",
+      "published": "2026-09-29T05:44:26.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "\"고객이 투자비 대고, 물량 보장\"…삼성전기·LG이노텍, AI 서버 기판 증설 '새 공식'",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5POEZ2VWo1Q08ybXd3dEhLZmI4eEZMc3lWMDh6b0ZVcV9lY1lSczBuLXVYXzBnRnpvaFR5Q2xDaEdKRnZaRjhua1pJeUtaZUM2SUdyeWk3V0xkZ0tQS3ZnV0F1eVRBZlpueVd3S2FaOHlRYVlLT0g1ZtIBeEFVX3lxTE5POEZ2VWo1Q08ybXd3dEhLZmI4eEZMc3lWMDh6b0ZVcV9lY1lSczBuLXVYXzBnRnpvaFR5Q2xDaEdKRnZaRjhua1pJeUtaZUM2SUdyeWk3V0xkZ0tQS3ZnV0F1eVRBZlpueVd3S2FaOHlRYVlLT0g1Zg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-09-29T05:43:30.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "[IPO 준비] 솔리스·럭스코·셀트릭스, 스팩 합병으로 나란히 예심 문턱 넘어",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sTDVKY0h6bWVuQWE0RHdXSlpIbDFUN3N0UURRaHNQYTFuclVIUmYtZW1tazJfRHhzNlZWb0FMVDc4eHhVdVJiNmRuZHhSeWJnNjRnMlFyLWx2WUhiZkh6VmNUVmk1Vi1ZRlNXalZNVGZsSWxWN2fSAXZBVV95cUxNbEw1SmNIem1lbkFhNER3V0paSGwxVDdzdFFEUWhzUGExbnJVSFJmLWVtbWsyX0R4czZWVm9BTFQ3OHh4VXVSYjZkbmR4UnliZzY0ZzJRci1sdllIYmZIelZjVFZpNVYtWUZTV2pWTVRmbElsVjdn?oc=5",
+      "source": "investnews.co.kr",
+      "published": "2026-09-29T05:37:51.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "[현장] 거래소 \"'코리아 프리미엄' 시대 앞당긴다\" |",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54R2NZUzktQXRaNzZXYTlfVWJjMVZ6X0VBMlFmM2hYazA2Mk1GUVBmXy1YbW9GTmRDTFJjLWRWQ1RFdUoweWYxMVdUUllXZlkzbTQwOWtzc3F5dTlscVJXU2VVZ0VLZkt1SmNjTm01Zw?oc=5",
+      "source": "한스경제",
+      "published": "2026-09-29T05:25:21.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yNjhKUkxBRmRDaWxEN0tQb3Bua1Q1UEp5dElFZEtKY0thNUwtZm1icDVoVXlhbUFSMDVaaXMta1ZyMmlMNDZENVY3SlhVVXNaN0E?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-09-29T05:24:56.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "특징주, 태성-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 9.97% ↑",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMU3N5ODdNWVpaaHd3UEtfRUNvcnFfUjl3TjZmSHZFdDZCSWN1clNHTFotNjUyQld4dVgxeFZ6bEV2RzQ1QkVCdF9COXpJYXRwQmc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-09-29T05:23:49.000Z",
+      "q": "PCB 기판",
+      "related": [
+        {
+          "title": "특징주, 이수페타시스-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 5.08% ↑",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NU0xiUlp3NV9fRE1rT1I4cmZFR19vaGNHVmdNeC14WV9IQjZ5aXBabHBUd3lVNUgxd0ZsS0RUSzBrX2RBRXJianA4bUFEejV3bVE?oc=5",
+          "source": "매일경제"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "코리아써키트 8.12% 상승, 장중 최고가 마감 시도…기판 가동률 주목",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81QXJDc1lVUFZ6TDFnVkN1b040Yk1xS0xoRHZPbkRZeGJLRVVrUHdBaFhSSkxpVFRPY1p2S2haQnBoYWJNelRWN0dUVnpNWVdJZjNTaVZaSG9pVEk5N0FDVHdKOVJzY1UwTE93TUJRS2pNQdIBckFVX3lxTE81QXJDc1lVUFZ6TDFnVkN1b040Yk1xS0xoRHZPbkRZeGJLRVVrUHdBaFhSSkxpVFRPY1p2S2haQnBoYWJNelRWN0dUVnpNWVdJZjNTaVZaSG9pVEk5N0FDVHdKOVJzY1UwTE93TUJRS2pNQQ?oc=5",
+      "source": "잡포스트",
+      "published": "2026-09-29T05:18:25.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "태성 9.76% 올라 5만2300원…TGV 유리기판 장비 수주 여부 촉각",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZ0xRSmlrbFNOMnhwY1VjMWFQSFRGbjA1bjhTZ2FTNVRxcTRselc4dXU1QVFuUGpvWmtFUDBJOVBVemJDMFYtdHl0V0kxT01LWWY4M3RfcE9lc05pZjNmeHFiZ0RtcHhSWjI2UUYwMzB2UdIBckFVX3lxTE1rZ0xRSmlrbFNOMnhwY1VjMWFQSFRGbjA1bjhTZ2FTNVRxcTRselc4dXU1QVFuUGpvWmtFUDBJOVBVemJDMFYtdHl0V0kxT01LWWY4M3RfcE9lc05pZjNmeHFiZ0RtcHhSWjI2UUYwMzB2UQ?oc=5",
+      "source": "잡포스트",
+      "published": "2026-09-29T05:18:04.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "특징주, 네오티스-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 7.08% ↑",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Y19faTRZaHZNUG4tNU5DWVJ4aGVKUjh6R2YycUZkamlGdkJzTVBKX1AzZ0tKZG1pVDRiX3A1Z3dwSnNlSUd2Z2JKWnFZZzNtaHc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-09-29T05:13:31.000Z",
+      "q": "PCB 기판",
+      "related": [
+        {
+          "title": "특징주, 코리아써키트-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 7.83% ↑",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMbnQwcmd5M25PR29ib0xQYjktbTV4TUhSLXJaMkFFc2pQUHBjYlg4LVVhY1VlX25teEFOeXdMNkhaUXhuNHc?oc=5",
+          "source": "매일경제"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "솔리스, 스팩 합병상장 예비심사 통과…\"사업 경쟁력·성장 기반 검증\"",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUWIxYkk3VlYtTkpaeHNQZS1UenptTzFwT0VNbmNySGhjckphZU1TODE2RjdQeHY2b2xKREFXdmdDVEJaRDNmQzVFZDl6WFVpaUV6aktTRGpBUDM3SHdz?oc=5",
+      "source": "스마트투데이",
+      "published": "2026-09-29T05:10:00.000Z",
+      "q": "상장예비심사",
+      "related": [
+        {
+          "title": "솔리스, 스팩 합병상장 예심 통과…북미 사업 넓힌다",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95Wk11WFpWeHVzeS1FOEtrX2V3NzNaUW5seVdZbC12cFpLYWdFeGNZRUx0bnJaMTR4NGRUYjJkaVNDMEZxSlE?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "솔리스, 한화플러스제5호스팩과 합병상장 예비심사 통과…글로벌 사업 경쟁력·성장성 부각",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZVBnRUtIWV9vSkpURnpHeGZ0WWswcDVlZkV6R18tUnBMWEhtM0l4dVQtMVNla0RFeHBSSF82NnZud1RIRGplaUs5MzJDNHpIZFRfVEY2WWZQYldEVEdPaVhPbks4UV9BN2pYMA?oc=5",
+          "source": "파이낸스투데이"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "IBKS제25호스팩, 11월 9일 임시주주총회 소집…합병 승인 안건 상정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jSjhudGxsVEs3ZjRYTTBvSkNzT0RjNXpKRVhlNEVqd29iWTcwR3NiTlpWdWZ6ODZkajNlLWxqUjNWcGJMaC1tVncyRVE4RW5iX2RwdTIwWmJ3NjdaUHB0YUt6ZmI1VzRkcWRCUjR6VjZzdnR1ZmhLNW11dw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T04:53:03.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "AI용 부품·기판 주도권 삼성전기, 2900억 신규 계약·누적 3.6조원",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZTk0wNnQwQTh4Z0ttaVBHMWlrN2VJM3o3VV9VZHl0MHdXaU1hR2FMZkFuNFctRE1SNGhERGoyTkhfbXVDT2h1T2prSkNzWFU1cDdOcGl5QnpJVFVJ?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-09-29T04:49:00.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "호세 무뇨스 \"현대차, 피지컬AI 기업으로 진화\"…실리콘밸리서 인재 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hRVg4SU1VcGIwR2h2Y2dVOGNwMTRHaW1xbmJXaTE4ZFBjWmVna1YxV002YUVFbDlaODNBdXpDTDJhOUtmZ3JiWk8tU0RLdkx1RUQ3YkZza19ISDAtUUQxV3NNWHk?oc=5",
+      "source": "디지털데일리",
+      "published": "2026-09-29T04:33:46.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "무뇨스 “현대차, 피지컬AI 기업 진화”",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xSlotQ1l0YTVZamZDVldhMUlxN0EteVpMemhmcVA5NkNxMTJmdXhiRjFTUXFVODRnWFZOYURMVU1sYkEyMmFUd2tHMTJGZFYx?oc=5",
+          "source": "문화일보"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "하나31호스팩, 상장폐지로 해산 및 청산 절차 진행 결정",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqR1lCakRtNUlkZHZnSk9wb1lpZ01ZZkNhYlFwLUZJTEZfYzk5RTJQSHRTbFhXQ2VZc19LLTJZeDJJZjB2eE8yaHZMN1lUWDVOWV9SZ0t1bVBTVVFJLUlaNWp4N3RXR1NHRkNtRFQ5MENLOEE?oc=5",
+      "source": "데이터투자",
+      "published": "2026-09-29T04:29:06.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "자진상폐는 돈 드는데 강제상폐는 공짜?…코스닥 ‘요건 강화’ 그림자",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1dvdGZfNVNXMlVvV1ZFLVZnQVNzd2tZYm5oa256N2F0ZzRxNlFaY2pSZWpVNExRd1RtUDFfOEluOWR0dERNSWxJd0N1b213b3JtX21pR09ZQ3NvbkdkelFWa0JaaXMzTEF1TGJWUzZMcFZEOE5WTEtFcG5PNTlGX2Zpbw?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-09-29T04:29:00.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "배당선 방식인지 확인하는 토토 꽁머니 환전가능 제로메이저 구조 안내",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORjZIXzk3Q0ExMVRtMTFYUDdJQVY0M2VaUkdKU1VOS3Nmb015cEZaQ0xiY1Q4R3psd0tpTm5DcFptWE1iWElPQ3FYQ0loeWNDM3B0bm5CQXZhT3MybnZEM0pRejExck44RWxVSnhlbzBpRVExb2RxWVdBcWVNUWVCLWV1SThZcC13RkQ0RFlXNmhEbGZfYmQ2ZFlhOTF5a0IxR3ZTT0VHNzJtc0wyMV9iTjZGaHY3RVh4Rm0wWDdDZWJmTlE1dU1TemVJLWhQemw0b3hILWJqQi1rWGtRRWRwc1FaQXA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-09-29T03:41:19.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "[올댓차이나] 광저우車, 도요타 합작사 지분 50% 인수…中 자동차 업계 재편 가속",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xQ0JsVHFLbV8xMlkySHZONnhlV1puMDVzcjhVWmN3WC1mMkoxUWhyeVk5WVIxSWJQaUNEN2VfRlBJOWlUMS01c1R5TUs0Z1lqZE95Zmd5eDk1NldGdGsxR0xDTy1LckU3TTBOZmF2cFBQLTRZRlF1OdIBeEFVX3lxTE1xQ0JsVHFLbV8xMlkySHZONnhlV1puMDVzcjhVWmN3WC1mMkoxUWhyeVk5WVIxSWJQaUNEN2VfRlBJOWlUMS01c1R5TUs0Z1lqZE95Zmd5eDk1NldGdGsxR0xDTy1LckU3TTBOZmF2cFBQLTRZRlF1OQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-09-29T03:38:58.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "덕산넵코어스 상장일 : 첫날 풀리는 918억원어치 중 72.8%가 기존 주주 몫",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXg3S0VSTUc0Yko2SHRSQkl3SEpiX3V2VUNqYnNYc0RIb2c5YXVzQmhkQUdjR1owYTZXRXpLd1Z3Vmt1X3lobTAzVm1QczE2TzRWaFBPUWJjT1ZKT0l6ZWE1aF8wOUdFbHZtV3VpeEREelhFR0pQcEFRZFpRdjFoTkJZVUdSTmhsYW5BYk92RQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-09-29T03:34:00.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[오늘 이 종목] 기판 · 로봇 수주 훈풍…피에스케이 '주목' - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJRUJtamhFVUVPalg1Q0hWb2tmdTRSSTV4TlVzQ1JfLTBBR3pvY3J6UlJDa0Z0cnRFQmx5dnc2TXI2TEl2RkVjdzhUamxXZjM0SXh3M2xLRlM5bXlpY0ZCZlhrTEQ3NXkwZzNDeEZn0gFuQVVfeXFMUElFQm1qaEVVRU9qWDVDSFZva2Z1NFJJNXhOVXNDUl8tMEFHem9jcnpSUkNrRnRydEVCbHl2dzZNcjZMSXZGRWN3OFRqbFdmMzRJeHczbEtGUzlteWljRkJmWGtMRDc1eTBnM0N4Rmc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-09-29T03:10:56.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "셀트릭스, 코스닥 상장예비심사 승인 획득∙∙∙스팩합병 상장 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mb2Z0LXFZb182bndjenhCT29CWFU3U3JYaFFoa3JVWW9YOE9aSERPM1ZvQkt3WXhNWDNaNG5BckpqNEsxWElVdDFtSkU5aUJzU2YwaXJmazBTRmZJQURHaHZsaWhtTFJYLWc?oc=5",
+      "source": "한국M&A경제신문",
+      "published": "2026-09-29T03:10:28.000Z",
+      "q": "상장예비심사",
+      "related": [
+        {
+          "title": "셀트릭스, 코스닥 상장 ‘첫 관문’ 통과",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MNlEwUWNIemJLUkE0OE91aC16cnFUckh0eUM0Y3d5aUY4emFtNEN1VUk5OTV0SDlzNjh1WFdaLWhTXzlzWjNLdVh2cnJmY2lFNVBWVmx0bFhFUWw2M1ZuVWhYZXBLenltbVg0?oc=5",
+          "source": "한스경제"
+        },
+        {
+          "title": "‘식품·동물안전 진단’ 셀트릭스, 코스닥 상장예비심사 승인…‘합병 상장’ 추진",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXbm9OTF9memN6SHBmdVVaZW1pSmp1Z05UMVRFeFNXcGU1RWJ6bGdNMXViWFZxWjlMTHc1M1dXOXd6N214aXlYRUFvbDBZQlQ4czFKZUlyeVE2M2d0M19ZRUhLR24wMXcxTXFtONIBcEFVX3lxTE5DcXhVUE9KZ2Z4LURybmwxOWoxTGgtN2JOdU5xUTZ3Q1NxMXJLcFUzdXVQME5NMHRXMmZ1NUdyYjlZcjRwY1E2MHg0X1ZDVm1FZkRsS1NEbWZPcnNnVFIxbmJtRlNPYUppRDhpOXVESHI?oc=5",
+          "source": "더바이오"
+        },
+        {
+          "title": "셀트릭스, '스팩합병' 코스닥 예심 승인",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zSExBWHJMUjQ0Z3RTYWJwc3VZZEtIclFIMGY1bFR2ai1NRkMzTDlNYnNWRzZ5UkI5MGt6LWF5SThTRFA3WHFibC1mSm9PakxPbmVKS0NBX2dTZnR5R3JpMWdMVEs?oc=5",
+          "source": "MTN 머니투데이방송"
+        },
+        {
+          "title": "셀트릭스, 코스닥 상장예비심사 승인",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5WmJkNzZsTEE1dFRTS1Z2VUt3UV8xZGliM2hNQnNzZUdCZnFiTnljekZWNEg5SzNtOWs2OHFBLXRkQ0tkQjJVcHduenlKS3Y4Z2JSTDNVeExoT1pkaXQxX1ZuckZqRUN5ME10NmNZbU1KMmlmRjFfadIBeEFVX3lxTFB5WmJkNzZsTEE1dFRTS1Z2VUt3UV8xZGliM2hNQnNzZUdCZnFiTnljekZWNEg5SzNtOWs2OHFBLXRkQ0tkQjJVcHduenlKS3Y4Z2JSTDNVeExoT1pkaXQxX1ZuckZqRUN5ME10NmNZbU1KMmlmRjFfaQ?oc=5",
+          "source": "뉴시스"
+        }
+      ],
+      "weight": 5
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "필옵틱스, 유리기판용 TGV 장비 수주…차세대 반도체 생태계 선점",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzYkpfS2ZzUWZrQnB4QjVSMjZjRzNoekJscFJvOUFBc3QxNVdoejI4cll5U1Q0NXU0UFg0VUVLNFZyenNVQjdvZG5kWnFuRFY0?oc=5",
+      "source": "문화일보",
+      "published": "2026-09-29T03:09:25.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "[분석] 삼성전기는 왜 기판에 6조원을 베팅하나?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05eGpEMkZVamNSaGI3N1FlRTA1cnBNZkVUMG5YWHAzX0JORnNoM0E5Q29aRzJBWjJXcVZET1JVT242ZVRCTWdmRER2QjlUank2Q0NmVVVsckRPRnJ6aWpZZFA3WV9pRjlHbFdPRdIBcEFVX3lxTE5yak9scjVNLWE1THY3YmJJTHBKQ2RZNzJSR013REV4VXNJbk5XZF9rcE0yOEVodWhkbUJuNTZ0elc1Nkd3Q0hvR3hQUEhpYmtWaUFETFdHY011QVhnNHVoR3JfQXd1RC1DeW9Ra19Hc2I?oc=5",
+      "source": "데이터솜",
+      "published": "2026-09-29T03:00:00.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기 4조원 베팅 계산법…MLCC에 빅테크 수요 더했다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRl9XZUVJN1ptd3dkUWpDUTZLeUtaSTBjc0lyeWdsV1R0Z1lWUEQ0bGNDeUlyQXVyT3N6X01ibWJHREhvMjU4eTZuLTR5a1hVV29rVjVlVVBhbTl2Sm5fZA?oc=5",
+      "source": "마이데일리",
+      "published": "2026-09-29T02:39:41.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "[특징주] 빅웨이브로보틱스, 상장 첫날 170%대 '급등'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQm9saHJabDRTU1M1ZG9vV1BRRXY2TGtWVG9yeXlNU1QwSm9mYXVlTGtsWGdxM1lDMENualNmMWtwamxTQTA2MkZtVDY3V2VsbVp3eC1lTXRnWWxNc3M3UTYwZm11eEhzLUE?oc=5",
+      "source": "컨슈머타임스",
+      "published": "2026-09-29T02:36:27.000Z",
+      "q": "휴머노이드 상장",
+      "related": [
+        {
+          "title": "빅웨이브로보틱스·글로벌테크놀로지, 코스닥 상장 첫날 동반 급등",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MHJNVDVKUmhwZnd1UlNPbnZEaHFYRy05eVl1bFB5a2hxeS11Wm9KbUhNNmlyR1FYbWVRVF9FaVpYakRDa0M5N0s3TVJ4LXl0YVBQNTUyOFhqVVE3cVpITkpB?oc=5",
+          "source": "매일신문"
+        },
+        {
+          "title": "빅웨이브로보틱스, 코스닥 상장 첫날 210%대 급등 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpa2c0RlNjQ2dNZUxCdUlENXFoUWZRNTRsNE96eWt5dFFzZHh2OFVEZlp2RXYtMWYzd1JvN0hCcFU0ckI1am80MzlIODJtS2dWQjRGdmpmbjNYUzVKSTVwREEtdjNLQmRIWkNhVGtB0gFuQVVfeXFMUGlrZzRGU2NDZ01lTEJ1SUQ1cWhRZlE1NGw0T3p5a3l0UXNkeHY4VURmWnZFdi0xZjN3Um83SEJwVTRyQjVqbzQzOUg4Mm1LZ1ZCNEZ2amZuM1hTNUpJNXBEQS12M0tCZEhaQ2FUa0E?oc=5",
+          "source": "머니투데이"
+        },
+        {
+          "title": "빅웨이브로보틱스, 코스닥 데뷔 첫날 208%대 급등[특징주]",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LZEVLcnBIby1Jb0RMZGJzb0d6TDZlMnBPb1R0cWh4bnpLRzNxeGR3TWRDcHF1OUNxakd3UTBsUl9FWlp0Y0ZRWVhvWGM4UGM?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "빅웨이브로보틱스, 코스닥 상장 첫날 200%대 급등",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTHl3NDVWLTg3enlUOUlERzNEY0xyOHpLdVdGSlNCeU9BZjZlM1JUeGI2V2RzMTByT0U3eGpYclN2S2V2bGNxS2lWNnJkV1VqbnNhSTFjT184dw?oc=5",
+          "source": "hankyung.com"
+        }
+      ],
+      "weight": 6
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기 '6.8조' 대규모 반도체 기판 투자에 실적 성장 기대감, 하나증권 \"2028년 이익 전망치 상향 가능\"",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wVE5MeEdKbjJ5dUYzOVBGZ2V3b0RtLVRFSzF6TUFwWWxuY2JleXUyQW1CaXloMklLWUxaTWI5LUVoV1RIZ2ltZGFyU2lWSUdQLUZaREt4OA?oc=5",
+      "source": "huffingtonpost.kr",
+      "published": "2026-09-29T02:21:13.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "\"알짜 떼어내나\" 잠잠하면 도지는 '솔리다임' 상장설…SK하닉 주주 '부글부글'",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DZXVpVzhZOFdPbUpQWV9mZnhUR2JHRC1sbHh5bjZsYTZwdkhPQm5md1piUFdGMnhBVXJIM1hJc21yVmV6NVU0RWhNaU54WDhrenF6X1hyTzk4Vnk1VWUtV9IBeEFVX3lxTE5INFdsNnVYZkJhbURYWjZFN1J0WG5Bc2c5TUcxN2Z1S09tZ1NldmJQYlQtUVplNHlGM1k3czV2R0RXWUhwSE1Pc1dJRmlsQkhTaEtneERMWXdjX1FsV0pjejZvZ0ozdnR2NnoyUmJPUlJsdENCeTB3SQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-09-29T02:19:17.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "“2032년까지 물량 솔드아웃…삼성전기, 9조 쏟아부어 AI 기판 판 뒤흔든다”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JbGo3ZUF5ZzBFdmJ1ZjczSjlDYjdwZ3N4YXdCNTVPMHZsTnRxRmRZR2xkb29rMHNEMmpqNGRkdmt4MEJsYWFsTGljZmtTMy1NOXUwNVRLeC1Db0E5MGNUMGV2TU1pUkZoelZjZkdUSQ?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-09-29T02:11:22.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기, AI 반도체 기판에 6조 7,800억원 투자…세종 4조 2,700억원은 단일 제품 역대 최대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nd1Vrb3FLaExSVVdjeF9SUDdfaXlKUkNwdjJMTGxVUHZIcEVIWFZIc0dxdXc0VksxV3l6UlNHNV9YNExuMl8zY2NGQVVXSWVldnB0bm12QjRQU3NrVWJabVU2WFdqTlFPWHdV?oc=5",
+      "source": "솔루션뉴스",
+      "published": "2026-09-29T02:04:00.000Z",
+      "q": "FC-BGA",
+      "related": [
+        {
+          "title": "삼성전기, 세종에 4조 투자…AI 반도체 기판 증설",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMjZBdE9nT0w4YXhxUWpIck8zZDFKOXZ4MmhfZk04OGRvdmZZM1hUd29ScE00Mk9xY28wT1BrVGoxTV83clBuUWZJR3NYRlJrd3FpcGllX3hjVWZLZnVsYkN0MC1YVl9xbHlLWA?oc=5",
+          "source": "메디컬투데이"
+        },
+        {
+          "title": "삼성전기, AI 반도체 기판에 6.8조 투자…역대 최대 증설",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cXZfOVFFdG5EckZ5UnRFMGdIOXRJY2pHY3FRU0dVVHdiYl9yNXRlVHB0T0tvaVVCVW81WmJHdFZicGNJajVpS0dXVk5mYjhPNmfSAVNBVV95cUxObkliSlBOTGdBZmVSLWljMjB0LXdJb3VNUGZGZU5OcE1maEcxX3VnU3JkODVna05QLXcwZWphNlRrX2c3dTdmdUo3Z2RPWk9IZmprYw?oc=5",
+          "source": "서울경제"
+        },
+        {
+          "title": "삼성전기, AI 기판에 6조7800억 '투자'… 역대 최대 규모",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Jc2hVLTRsNXdmZ1NvWlZNa2xDcDlBTkhwWUdSdkFXR183cnhUYjlGMHFYT3IxOGhBOFctZEpPLVE2cnVxMGxnQVhwX0poS2pRZG1sLVFVQnZqMTNFR0t1bWdmQ0w?oc=5",
+          "source": "sentv.co.kr"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "하이닉스 급락에 솔리다임 주목…美 상장추진 시끌 왜?",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wT0NzSlFpRlBJVHdsNVVtOUNmb0ozMHgxVzc0VVBCNkRSR3RSaDRTLXVkYlZad1E1SmtvdHF2ZFUyN0UzcDBZM28tNkU5XzFJbHUw0gFYQVVfeXFMUE9KLVlvZXYwb012bW1LQ1RqeF9sUXhtMDQ5alNIenNsdDFXWkZRcElfVXg5ZUJ1WGgzbC14QlRIb3lWQzRNTTI0TEtWc3otMm93cWVEZFp0Qg?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-09-29T02:01:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "한화플러스제5호스팩, 11월 11일 임시주총 소집…합병승인 안건 상정",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YUEhtb3E0ZFlwMWJ3MGdNeXJkUFVFa2IzWjV5V1BPb2JfSWtQYUVBdmZrbkU4QzdXRUJ4endVYmpXZkZpdTNORFNLaFgteVdvaUpHTTFqTF9BQ0ZOYi03QkFGUkhmVmh0YzQ0RGFxYnFUanZqaTdkQndlUQ?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T01:50:04.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "'솔리다임' 중복상장설에 불안 증폭...개미들 또 당하나 [Y녹취록]",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UYnh0RmZjdmpqVEFrdlZIQ3Ruc2d6amE3TEtnYnZPcmE4S3pEQldkQmNtd1NtUmNhMjhKVEFJUnMyaEE3WHlvSGxvQmpfd18wMEVtSWZnQjVGRFhYZllDZjI4OA?oc=5",
+      "source": "YTN",
+      "published": "2026-09-29T01:41:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-09-29",
+      "title": "티로보틱스, 45억원 규모 휴머노이드 국책과제 주관",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kemx5UkpocjhuWkR1NXpvV3pkY2JRTUJBcWc2ZjZSQV81M0ZfUTJOTy1RUnZaeUxGLVpSMVVrWGRIaHNSb3Vwc0FvaERicV9GWXRFOUZhY0lZdjNm?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-09-29T01:27:00.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "티로보틱스, AI 휴머노이드 대기업 제조라인서 실증…45억원 국책과제 주관",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIVWFZUUl0VmxyZjBDalpPbGJ3bjdueXhmVC1xQ3dnWjdValRLVEJ5NFlxeTZSaFRpZEllbXgzeDNSSHhTdDV2UXJOQQ?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "티로보틱스, AI 휴머노이드 제조현장 실증 추진...45억원 국책과제 주관",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yekFPeFV2U21TOHltTW40QXoyX28tTkcyZlFVekNFUzhkU0ZESzluS3E4QndDek9Hemp4LXk4eGMxaGRFX3pxZXYxSkZDNXhGZk83bTFPNkpCdw?oc=5",
+          "source": "fnnews.com"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "유안타제15호스팩, 상장폐지 따른 해산·청산 절차 안내",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54cXZpeTBoOGdmSHpsektKTnZ1alBTX3FZMEpaYVEyYVJ2cnJ0dGtVU1JBSGk0MVNuVjc4U0wtQ2haMWdPV210T2QyTVROaFRnT25EdTVidzE0OGV2ZXVaR0N2OHQxQXJvT3JWaUhXSjl2R2RuRUt2WmdUNA?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-29T01:20:04.000Z",
+      "q": "스팩 합병",
+      "related": [
+        {
+          "title": "유안타제15호스팩, 상장폐지에 따른 해산·청산 절차 안내",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzNEUzc2ZvV2xrM2doQUFwLUsycnU5Nkt0WmZGUTJCdkpRVlFPNHE0cVNMRDdCWEFxZ18yQk9Hei0yNGFqMGtBRjJZMnFKZTMzMUVMVVVqT0V3cVNSN0dLUzBxdnJxNmR6T2RTVkh1ZDFJUFU?oc=5",
+          "source": "데이터투자"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기, AI 반도체 기판 증설에 6조7800억 원 투자",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjllY2ZLR0JaN1JLMGhqT1pjempuU2VsWjdHNldhY3Y1aUpwTHNORldHMWFIaU5fN0RGVUk0YmFVWm5nSTlqTUJyMFVhU0RTekgxNjlZRFhsbXhCUU5SanVUbkJDUDgxQWw3UlJ4NlhHNTE0RGotWk9na2EwdDNoVWRiSWdlamlWWDJEaTZWOGkzNmJlQ2M5NDlZMUJNZw?oc=5",
+      "source": "Traders Union",
+      "published": "2026-09-29T01:09:28.000Z",
+      "q": "반도체 기판 증설",
+      "related": [
+        {
+          "title": "삼성전기, 세종 AI 기판 사업장 증설에 '4조2700억 원' 투자",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZGNIdTJuNkNjREV1Tjdta1FRNXdjemFtRnJjNFM5LTRXS0VTdUtaMjV0amR2eExpRDF2ZTR6cE5KRzFUVHJjOHBhSVV2bFpNUllJSFBwVldUMVVudWJQSjlGUWFxVnlMU1VJT1FYeEQ1QQ?oc=5",
+          "source": "오피니언뉴스"
+        },
+        {
+          "title": "[특징주] 삼성전기, 6.8조 대규모 투자…AI 반도체 기판 증설에 2%↑",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhZ3FoSEp4ZWx0TEZzbFQwOGtXVFpkaTYtaEoxX0EzV0VwR0NReGhhRDNHTzllMWhZbURZc1NLRXVRUVBmNHN3cmVGOGxEVm5wZHcyYWVfSi1yTzVh?oc=5",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "삼성전기, 세종·베트남 반도체 패키지 기판 증설에 6조7800억 투자",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMTFFNjV4cDdYNnN2RklFRTJkOEk1LVh0TlpJTnQzUFUzcHRtc3FTR01UWi1Fdm01dnhGWFl4Wm1WNlhxUkF3ZEtSeXlqNEYxckxzRU5lZkhWc1JqcnFjVEMzSnAzU2VUQzVQbC02TFrSAXBBVV95cUxNXzExRTY1eHA3WDZzdkZJRUUyZDhJNS1YdE5aSU50M1BVM3B0bXNxU0dNVFotRXZtNXZ4RlhZeFptVjZYcVJBd2RLUnl5ajRGMXJMc0VOZWZIVnNSanJxY1RDM0pwM1NlVEM1UGwtNkxa?oc=5",
+          "source": "글로벌경제신문"
+        },
+        {
+          "title": "삼성전기, AI 반도체 기판 사업 드라이브…세종에 4.3조 통큰 투자",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pZjFUMGpwSUU1ZzM2dmE1Tl9JQTgtYjdTUUd4WlF4Z2lYYkJyeWNXV3c2UTM5eURDX3ZGbm10dVRrd0lCX0tlaU5XQVRyWXJyRXpLeEpnTTg4blFYZXNFVEJSY3k0S01DSWNV0gFvQVVfeXFMTUpzYmV2bU1qN2RrMXB6SjhIQ1VRRWJfQi1pZk9KSTgya0FhTTZfLWc2NFUxTXFMeXlwTWlkelFFT0VRTndaeGFBaUFsLVpBcTJQLW54cWwzN3Jhb3ljdTBVWlM5Ml9KRUVsdGNoNkR3?oc=5",
+          "source": "한국아이닷컴"
+        }
+      ],
+      "weight": 7
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "셀트릭스, 코스닥 상장예심 통과…IBKS제25호스팩과 합병 추진",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYlV5eldOamVpUWFoN1NPNXdZYTVGYi1zX3FoQ08wdmJJLVN1WGg5d3pSYmM2UG9ENEtMdFo5WUJ0a2hyRDhCS1phakJsR0JOLU9nLTI5UUFGX3A0R1R3Qy0ycXdFR2ZHVW8wcA?oc=5",
+      "source": "메디컬투데이",
+      "published": "2026-09-29T00:03:17.000Z",
+      "q": "상장예비심사",
+      "related": [
+        {
+          "title": "셀트릭스, 코스닥 상장예심 승인…IBKS제25호스팩과 합병 추진",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sUW5wblJBanhRdUlLV2xBOXppMGFTUUFTMktBM3Rvd1pHa3lNTVhEUFlTRnkzelgyTUk3TmRjbER5T2l4eVNIb3M0bTE1bFF6STBwdzdmYmFDSUJwbHZlX1RaQVdwX05QZ2ItWHRKbWtjVkU?oc=5",
+          "source": "마켓인"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "삼성전기, FC-BGA 증설에 실적 전망 상향",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElqLXI1T0FFVndBT29tMHF4UmRheUpvTExWNnZSWjhMVS1NeDd4NGNmY01lV1EzbXI3WE1nbnljUmU2OXJNWFMwYzdzQnU1elhlOFRWbGh6T21TT1I4a0tWMWlGTVlNY3Qtc2x1ZFI2azFjbVdRYUhCOGhyei1fXzltYU92emV5cEloOVlWc25QXzlfaXc?oc=5",
+      "source": "데일리바이트(DAILY BYTE)",
+      "published": "2026-09-28T23:54:53.000Z",
+      "q": "FC-BGA",
+      "related": [
+        {
+          "title": "증권가, 'FC-BGA 증설' 삼성전기 실적 눈높이 잇달아 상향",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XLW9ROF9ZT05ISjBIYWJpQl9wVl9seFQ2MjRZYVI0aGkwTnBESGtwY0N1d0RLMzhlMkhTeFUxTk1FSU1pLWFzTnpBUjdPQ28?oc=5",
+          "source": "v.daum.net"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-29",
+      "title": "키움증권 \"삼성전기, FC-BGA 증설 등.. 성장 가능성 높아\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWVQYVFwSDd1QW9uVDZYNHc3d1FFZ19kVXhRdFA4WG5sUlp6LU5FanptMlIyNk9PTWw0cXJrdW1DenZoZzdySk9jNzlIeWpfRGJQTE9tcDNSWEdOS2FBUG1mUFVFMkx5RVVJTDlVQmNfckFhZ2RoaXhxQXJobDNfVF8zYXNpbmY1?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-09-28T23:45:20.000Z",
+      "q": "FC-BGA",
+      "related": [
+        {
+          "title": "[리포트 브리핑]삼성전기, 'FC-BGA 증설 공시와 예상보다 더 강한 실적 전망' 목표가 2,800,000원 - 키움증권",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EWHpqYzYtSS0xUXFkRUNoejltcFcyZll1bmc3WU9abENsWFFuVzluMXJjU2c2djI2eFg4NHJuMXBWaXNjQU1kZlZJZGJ2dHZVQ2lVVEloOVpfNDFr?oc=5",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "삼성전기, FC-BGA 증설·MLCC 장기계약…중장기 성장 가시성↑-키움",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVW96VmNwSjJnNUJWVUFuZk1YeUtHSFAxa0Jab0JpclEtS0dlclpMb2Z0WHJVU3FGdGxpTjNYbFJqWUVHcXZsbHN3RXJVUWpKZlgtNFRPbnZ0N2puNUhCdF9DNnZFRW5QR0dtMTl4ZHc5U0tNNEI0eWFDS2N5VXhZdA?oc=5",
+          "source": "edaily.co.kr"
+        }
+      ],
+      "weight": 3
+    },
+    {
+      "topic": "listing",
+      "date": "2026-09-29",
+      "title": "더테크놀로지, 상장폐지지정기업부 신규 지정…30일부터 거래",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OOWpCOHFLeWxzem9ydnVQYS14ODU4SHJ5VHlHbmRwSHFBMlRDNl9CNVIzNHBqTlN0VE0yd3dHNWJTbnF3em5wWU5WbHBzeHpyNlVKU09lN0dYNjdKbS1LTkhLMUtLWWoyWjU5M2RsSQ?oc=5",
+      "source": "프리스탁뉴스",
+      "published": "2026-09-28T21:17:37.000Z",
+      "q": "상장폐지 요건",
+      "related": [
+        {
+          "title": "상장폐지된 더테크놀로지, 30일부터 K-OTC서 거래",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ibVZXdEozZ0V6VkkwWjJnaV9jdVVXczRRRnpla0wxTkZOc1BKUlJWMDlvN2RKc2pmYkszbE1TY2dOSURrZVJ4dU5VcGppcG9hVDNwYld4ZGxrMzdBMEpibC16SGVDVEVld09MZXhvNDk?oc=5",
+          "source": "코리아리포트"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-09-28",
+      "title": "[고래사냥] '한화솔루션·디케이락·LG에너지솔루션! 내일장 고래 종목은?! - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HaTFhQmtZTmUyTDJVdk85VjRnYlhVYnljSndJdVAydldCQUItUkRlRGdSZDA0VzhkZENnUV91bEJMa1VrTHB5bk9PQ2Z0VktCblVieHVZUnVRWWR1bXBnd1lIYlZycnZoOWZ1azN30gFuQVVfeXFMTkdpMWFCa1lOZTJMMlV2TzlWNGdiWFVieWNKd0l1UDJ2V0JBQi1SRGVEZ1JkMDRXOGRkQ2dRX3VsQkxrVWtMcHluT09DZnRWS0JuVWJ4dVlSdVFZZHVtcGd3WUhiVnJydmg5ZnVrM3c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-09-28T13:12:57.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "[고래사냥] '한화솔루션·디케이락·LG에너지솔루션! 내일장 고래 종목은?!",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wbkhydllQdVBEa2NGcDEtUklVdE81VGpVUmNhMWVCVVV4VHExT0I4QzlNSWpyVV9Qbm5yM1pfb1hJOUNQQXBZUlVjWWZwZkRHbkFmSGJURm4wbGJM?oc=5",
+          "source": "supple.kr"
+        }
+      ],
+      "weight": 2
+    }
+  ]
 }
