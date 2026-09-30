@@ -1,6 +1,116 @@
 {
-  "updated": "2026-09-30T00:28:08.938Z",
+  "updated": "2026-09-30T15:45:58.611Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "에이비온",
+      "report": "주권매매거래정지기간변경              (상장적격성 실질심사 대상 결정)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901330",
+      "id": "20260930901330-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "메디콕스",
+      "report": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901327",
+      "id": "20260930901327-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "캐리",
+      "report": "주권매매거래정지기간변경              (상장적격성 실질심사 대상 결정)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901319",
+      "id": "20260930901319-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "핀텔",
+      "report": "주권매매거래정지              (상장폐지 사유발생)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901288",
+      "id": "20260930901288-listing"
+    },
+    {
+      "topic": "physical",
+      "reason": "감시 기업, 유상증자",
+      "corp": "휴림로봇",
+      "report": "유상증자또는주식관련사채등의청약결과(자율공시)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901214",
+      "id": "20260930901214-physical"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "에스에너지",
+      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901182",
+      "id": "20260930901182-listing"
+    },
+    {
+      "topic": "physical",
+      "reason": "감시 기업, 단일판매",
+      "corp": "현대무벡스",
+      "report": "단일판매ㆍ공급계약체결",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900139",
+      "id": "20260930900139-physical"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "LS",
+      "report": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801256",
+      "id": "20260930801256-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "LS",
+      "report": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801255",
+      "id": "20260930801255-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 타법인주식",
+      "corp": "LS",
+      "report": "타법인주식및출자증권취득결정(자회사의 주요경영사항)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801176",
+      "id": "20260930801176-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "일성아이에스",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800841",
+      "id": "20260930800841-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
@@ -10,6 +120,46 @@
       "market": "코스피",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930800004",
       "id": "20260930800004-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "미래에셋비전스팩7호",
+      "report": "[기재정정]주요사항보고서(회사합병결정)",
+      "date": "2026-09-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000489",
+      "id": "20260930000489-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "회사분할결정",
+      "corp": "현대모비스",
+      "report": "주요사항보고서(회사분할결정)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000478",
+      "id": "20260930000478-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "회사분할결정",
+      "corp": "동양이노텍",
+      "report": "[기재정정]회사분할결정",
+      "date": "2026-09-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000430",
+      "id": "20260930000430-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "사조대림",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-09-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000351",
+      "id": "20260930000351-listing"
     },
     {
       "topic": "listing",
