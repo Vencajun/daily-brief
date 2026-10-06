@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-05T18:09:30.204Z",
+  "updated": "2026-10-06T01:59:26.407Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "자연과환경",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-06",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000033",
+      "id": "20261006000033-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
