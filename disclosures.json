@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-06T15:46:35.895Z",
+  "updated": "2026-10-07T01:09:33.571Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "SK디앤디",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-07",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000009",
+      "id": "20261007000009-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
