@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-07T16:15:34.928Z",
+  "updated": "2026-10-08T01:27:25.839Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "이렘",
+      "report": "효력발생안내( 2026.9.23. 제출 증권신고서(지분증권) )",
+      "date": "2026-10-08",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923100011",
+      "id": "20260923100011-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "디티에스",
+      "report": "효력발생안내( 2026.9.11. 제출 증권신고서(지분증권) )",
+      "date": "2026-10-08",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911100002",
+      "id": "20260911100002-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
