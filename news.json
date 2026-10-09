@@ -1,6 +1,672 @@
 {
-  "updated": "2026-10-08T16:13:33.096Z",
+  "updated": "2026-10-09T01:34:30.670Z",
   "items": [
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "[기업家] 두산그룹 ⑧ㅣ AI 반도체 소재·가스터빈·휴머노이드…미래 먹거리 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56LUZCaHlOSjBOUVNIeGxtc2dOTG1xYk1GQmk3RlVkWThPWDRyRTh1TklTaWVXdzVNOFZ0UjZPaXJxcF9NR21tTEpJRXhWMmdSbEg3U3hVZjRaSFAwMk1XRmJYdXBlUVU?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-10-09T01:26:16.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "케이티이, 코스닥 예비심사 통과…연내 상장 목표",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44aWxjOG1GajBjZWpEcy1yeThNWHk4Z0N4YWk0QWFYWldhVjFWQmhBZlV4TWtmczJYSUlaM3RyRThWeHJwS2U0VVk2UU1MeWZvUTN4ZDJWOWQwT0ZzSjV6X3FQTF9IQWQzcjhxeQ?oc=5",
+      "source": "한스경제",
+      "published": "2026-10-09T01:15:51.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "[2026 프랜차이즈 실태②] 치킨집 차리려면? 교촌 1억5600만원·bhc 9000만원대…브랜드별 부담금 큰 차이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zOGJnSXJjRjlJMmZpQnM5dGRPQmpzcGNwWnJ0WGVsNlVwTmJVbnhOcmdVVjBDVWNNRjNxUjVwRjktdTJZb1NEdlVKczJ0ZGx4Z2pEQTByRnlBTWRDOW53RF9kQldSZDUzeDM2eE4xN0Q?oc=5",
+      "source": "리더스팩트",
+      "published": "2026-10-09T01:00:00.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "‘터미네이터 닮은 로봇 VS 인간’ 철창 격투…美 캘리포니아 “불법” 제동 (영상)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfa2t3UjNVLWZGaHdENUdLMVhoZ1E3S3BvQUdhRTZlaklMbUR6aFZFTHFQY1NiX3pHTkhsVlAxMXVTaVJxb0wxdUVXN2pONWR2MGdhQWNCMGxLRkgtTkYxU2E5cHBzMHJXa0FISdIBYkFVX3lxTE1yUDdnT3hrOFFTRExSdlF1SldLSkpRcnU2M01Lb05SNDV2dWM2ek00blNIdXRlbGg2aW5vdnN5Q0FDM1hUSnZaOWZFRnNkWjJMOF9GUUtvc0todHhiQTdYQXdB?oc=5",
+      "source": "동아일보",
+      "published": "2026-10-09T00:22:00.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "엑스와이지, 서울AI로봇쇼 참가",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYlg3N1ktZUlVT0JTS0l0VVlWTnNKYUY4SXFYaTVVUVpKQnZLTzROLVdncEFjcmo3cVFYT2Q1dF9jNi1GRVc4eXQxMUhWOHdKSy1HLUpIcWJCMFBQc3M5X0FEOXZmLWR0bXZaMg?oc=5",
+      "source": "한스경제",
+      "published": "2026-10-09T00:17:05.000Z",
+      "q": "휴머노이드",
+      "related": [
+        {
+          "title": "엑스와이지, ‘일상 속 피지컬 AI’ 확장 체험의 장…서울AI로봇쇼 참가",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ncGpiNVNHYnZfeUV2ck5PbGVZVGtaOXNoNFF0aVltc0FXOFRpazJCRGJSdVQtMEFPSHVrb00tdDhkb2tQUEs0bHJXUjQxTDZiVTVnZUhBTTBYQlZ5UG5PWjBpdmtNN3d2NHM1Xw?oc=5",
+          "source": "로봇신문"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "박재현 “도축장에서 로봇이 칼 잡는다…북미 시장도 정조준”",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cjE2cldlcnZ5eFJndk9qbVpiY1JYRHVsOVhyYngzUnJyX29PeV9YREp0eGpEWWJyTEJndkxhU0tBSXlFOU9YQW5oTnUxSXpNWm9r0gFTQVVfeXFMTnlyMTZyV2Vydnl4Umd2T2ptWmJjUlhEdWw5WHJieDNScnJfb095X1hESnR4akRZYnJMQmd2TGFTS0FJeUU5T1hBbmhOdTFJek1ab2s?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-09T00:03:22.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "유안타 \"메타 ‘에이전트 AI’가 바꾼 기판 시장…전기전자주 상승세 확산 가능성\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UVmgzTWZ3M2tGdW9aM2lScS12TENxeEMtek9OeE9HOW90YVRKVDkzNUJ1enp1ZEpHQ25LZHlGejBfN3ZfcmhNbDdfQWo5cUpqc3NETUdWT3hZLWVLQUo4MkhvbGFrQzhfdmN0SkRyVy1Rdjg?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-08T23:46:29.000Z",
+      "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "임미애 의원, 대경권 휴머노이드 로봇 국가첨단전략산업 실행전략 국회 간담회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSbEN3S3hZR3kyLUk2a3VXVjFQeEdmUVhCUXk0YXBQZ2RaaDI4cXgyOWljc0lTVjVDOFI5VUJJejFLM215dkloSUJnNll6S3JYcm1WTzB4YkpDTDFGRW9TS2lWWTNVQQ?oc=5",
+      "source": "코리아플러스",
+      "published": "2026-10-08T23:24:13.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "연성 인쇄회로기판(FPCB) 시장 2035년까지 성장 전망: 자동차·의료 전장이 견인 - 뉴스 및 통계",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTTY5T1JrMk15NGNXaWprNG9KOUk5TDZWNDBVb3dKa0hLS25WRzZPTmhsMWVOVGJtRnRvc3dQei1UaUFGLVl0UTZjQlB6TnJQbDFqb3M4QVFNampKbjF0QWhuVzZHbHRwN0RySHVSNUZxeVpRTkhSZFFVR3oyRk5nMW5KOEt0SHNENlVTU3M2UXZ4V2ZJaTZJSjZQUklBbDJiS0d1UUsyeXFhMU13LWNRT3FSNUdGa0ltWVdJc1lha2FORGViT04tbkdHWlNUTzAwM1VFLW4tUzZoc1FxY1NoVUt3?oc=5",
+      "source": "IndexBox",
+      "published": "2026-10-08T23:01:04.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "車 넘어 로봇으로…6년 전 승부수, '피지컬 AI'로 결실[정의선 회장 취임 6년 변화·혁신③]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YSEFPTmxrRUQxWWZaTmdyZTktcHU1NlNBZFFIckluYm1mMDhLWkpiZGtsQUpObHhNR01tcFpHMzNHQzhFeVFZWUtXZ3ZjazkwN2haR1B2OF9GYzUwbjQ4T3dWZ3RXVGdoOUpfSEN2UkJXSm51OExvcdIBeEFVX3lxTE5YSEFPTmxrRUQxWWZaTmdyZTktcHU1NlNBZFFIckluYm1mMDhLWkpiZGtsQUpObHhNR01tcFpHMzNHQzhFeVFZWUtXZ3ZjazkwN2haR1B2OF9GYzUwbjQ4T3dWZ3RXVGdoOUpfSEN2UkJXSm51OExvcQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-08T23:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "소리와 움직임을 조절하는 슬롯 전류비 환경 설정",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdzh3UHNDTHhZRmR3WVVQVTIzbTd1VXNQdWNJTlYyTW5fNUZYbGVzS2hSdlBSZHRkQ1E4dFJQRm1KUk9SSjRRZTZaU3NCeTNPMnJId0p1UkUzOTRqY01KU214bkJGTnZWWmNtUUQ3c09jMjkxMS1oOGh2aDNIMjJRcnJlc0xYbG5NSldNVnJ3dlNYU0U1Y0ZKeTgxdTBhM1o2WWVUaXZoaDltQVNXMVhtazNoWHQ1czhGVzRlSGZwSklEeDdKUll2SnYzaTNPUXRxSExSQjhoUG9uS0lSenZ6REFMYjFsY0NsNlVaN1M0bVd0UTNUdlhQc085TE5RcUNqcHc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T22:56:13.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "규칙 설명 속 최소 개수를 읽는 슈퍼 과자 추천 판정 안내",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU2JqYmJwQmdjX0pMQUdMbmFxbXVRZUJTZXdOQnJWcXhPMzNSaWRyUXR0bEVHVVpvYTIzelpoY1pqSGdPZ081UTFLQUI1Z0xvb1dFSUlNSXZBb2U4WTB5VThYMHBEOWc5YWZ0eGZrN2llYzhnSTl6MjNsaDdHaUhuZEdDZ1pienhjNnpzXzNUeWxqNklRWUZ3RDFuUnlUaTZrN0toVFF3eEF1OV82TUlBOGlBX0dqaFpZVG43VTc3WlR3TG5KN2cwc1V3SGRNV2pmYXNlWU12WjByZzVWSHlkRkNvOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T22:54:19.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "가트너가 짚은 피지컬 AI '10가지 오해'…\"단순 로봇 도입 아닌 시스템 재설계\"",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNjh5Z3lhczBteXdJUzhpSENXOVM0Y09jTTJqRjlsRlpKNVZNTFhtbnB1RnQzRXlYTDZxVFg2NDJKRC1vdC1iOGRDcG4zSWpQME1JdF8yODF6Ry1rYWpXNUdwZw?oc=5",
+      "source": "더구루",
+      "published": "2026-10-08T22:30:23.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "[주간 거래소 기관] SK스퀘어 삼성SDI SK이노베이션 LG에너지솔루션 LG이노텍 쓸어 담았다",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JTXJobURDWnlTM1lkSGdrdE04cldEcndRR0V3UFVoWTdPZGFpQlB2di1BcTJhTFBQVGQwaXIwcXJWbmZuNkhHT29TZFhoNVE5QkJoanJDYUlxWlpUN09VaC0teENlUTdPdjJ0c20zNUlva1RtNi1n0gF3QVVfeXFMTUlNcmhtRENaeVMzWWRIZ2t0TThyV0Ryd1FHRXdQVWhZN09kYWlCUHZ2LUFxMmFMUFBUZDBpcjBxclZuZm42SEdPb1NkWGg1UTlCQmhqckNhSXFaWlQ3T1VoLS14Q2VRN092MnRzbTM1SW9rVG02LWc?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-08T22:04:14.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "[주간 거래소 외국인] 이수페타시스·삼성SDI 담고 SK하이닉스 3조원 넘게 팔았다",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xS2xYcUJnVHJlc204M1hVQzMycE5UYndTYzVIeU52VXhqVmMzNXFrZWNpV3lUbkxjaXRTbTdlRjRKQk1PV1ZLUklFNXpWNFZzaGxCelFJUmhqOWlIc0d6WXlSdWJHdDlHY2pIV2F1M29sZ21MUWxV0gF3QVVfeXFMTjFLbFhxQmdUcmVzbTgzWFVDMzJwTlRid1NjNUh5TnZVeGpWYzM1cWtlY2lXeVRuTGNpdFNtN2VGNEpCTU9XVktSSUU1elY0VnNobEJ6UUlSaGo5aUhzR3pZeVJ1Ykd0OUdjakhXYXUzb2xnbUxRbFU?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-08T22:04:13.000Z",
+      "q": "이수페타시스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "시가총액 미달 증시 퇴출 유예…이미 버스 떠난 원풍물산·수성웹툰",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fbzNUN3YxUTVKbHo5MkVRSk9jMUp0aFdxYlFxcHFCWFVFMkt5WWZFOG92dVhNcHh1ZTd0TXlXVzlzMnI1OFZXWS1JT3VWSDgyTzhadUl5UllKN2VYVnpUR2sxVWp1emRzS2c?oc=5",
+      "source": "비즈워치",
+      "published": "2026-10-08T22:00:03.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "[주간 코스닥 기관] 리노공업·에코프로비엠 순매수…주성엔지니어링은 순매도",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTE85aXFnWkNoWEthZm56SUMwWjh2bzRLS0hPazZ6RzB4ckZ2cWdOREdVeGZESE4xaVN3OFJuWENBMEFFZFF3MTFfMXJYbnFYdFlDbHh4NGhpNEVNRHZjMzVneTNPRHBhUFZTTVJfQml0TVctSGZn0gF3QVVfeXFMUFdMTzlpcWdaQ2hYS2FmbnpJQzBaOHZvNEtLSE9rNnpHMHhyRnZxZ05ER1V4ZkRITjFpU3c4Um5YQ0EwQUVkUXcxMV8xclhucVh0WUNseHg0aGk0RU1EdmMzNWd5M09EcGFQVlNNUl9CaXRNVy1IZmc?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-08T21:44:13.000Z",
+      "q": "레인보우로보틱스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "와이즈큐, 와이즈샛스페이스 지분 88.5% 보유 보고…스팩 합병 종결 후 13D 제출",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjY0x0UTI5dWdjU0w0MEhZWXdsS0pXVjhkVFJkWDI1YU4yZU5EMHRnWEw0ZkEydjlic2laV0hIcUJnWUcxdjNMdWJGVXZ4bHBSZDNxangtMVRMOEJVZEwzbGFLY0tlZkozb3ZTektnQ0I2b1k?oc=5",
+      "source": "데이터투자",
+      "published": "2026-10-08T21:41:42.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "설명부터 찾는 사용자를 위한 name 룰렛",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVUYVdvOTdxVC1ERWhGY2VicHFTVmJMWkJ4ZHdsZkdkQzJjdVpGNXlUQ2lZeDJpN2VHM2dPQzRQellXS1d2S0ttSElrYzN6c25KX1BsQjRWMEQzRE5pU283d3VwZ3FoZm1aU1N3NVhzMFRveTF1YVNITndtNmdFOTBCWFRzMXpoNm5ZRmttdlRWMGtOMHZDbGdadXdoREN4Z0dZVGw3M3BfT2xxd2JWWVV1TWpTV3JObWZHaVZBR2MxUGtOYUxqYnhWbjA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T21:38:21.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "인간 VS 로봇, 격투로 붙었다... 현실판 터미네이터에 ＇소름＇",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jY0dUcU4wTHZMSnpnT05YcGFnQ254ZU53Rm16aURZZklpY19yR01CMnFwallRZkk1TDNFenliSUJGS1p6UVlldEtLZW9oWlM4emZoMTdkS0s2UGtEdVJISkJjclBkbjJiZEdzZ3VGbGQxSjRJZDRTTkZhSVQ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-08T21:19:00.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "DT 클라우드 스타 애퀴지션, 합병 기한 1개월 추가 연장…7만5000달러 예치",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FekpqLUdLYk80akxqSmVMSFlFT3VleGVQVGthS2hNNjlTaFhPbTN3TnNTYTZzS2JYZUF3VTZlTTNPMk0xMTk0bVlZdktWZVRyem1lMGFnZVNWcnRxRWFJMWRmeXRNUWVYU21tdmYwb3M4V0U?oc=5",
+      "source": "데이터투자",
+      "published": "2026-10-08T21:02:01.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "덕산家 형제 나란히 자회사 IPO…중복상장 규제 실효성 논란",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ndHdyb1N4czNOZC1YOHVxM203aG5YeUJ3bnV0ME1fRTNieG1QYkxmYS1oQmQ2Zkw2MlFUT0xsalZKUTdrSEFsTjczYXJwVnpscl81Y29TamlCdUxuVUg0?oc=5",
+      "source": "뉴스1",
+      "published": "2026-10-08T21:00:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "임상부터 상업화까지…시총은 모르는 업종 특성['상폐룰' 제약사 항변①]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GQ2xmaEFoOXd3ZkRkR1VWMDRmRV8wT3VIakE0UHQ5dWFzeXh2Umdmc1JXVXBiRVFiWlRvTjBVN3lWZE1WQS1nRUc2ZzV4dG5teU1zNUZHRDVES2Y4NXBTZlFfcmlxM3liWEtpd29sYmNnalRNWkhrddIBeEFVX3lxTE1GQ2xmaEFoOXd3ZkRkR1VWMDRmRV8wT3VIakE0UHQ5dWFzeXh2Umdmc1JXVXBiRVFiWlRvTjBVN3lWZE1WQS1nRUc2ZzV4dG5teU1zNUZHRDVES2Y4NXBTZlFfcmlxM3liWEtpd29sYmNnalRNWkhrdQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-08T21:00:00.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "주주 반발에도 ＇강행?＇...＇신의 한 수＇ 나올까 [B급기자의 B급리포트]",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92R1ZmTEdjQTdBS1lQVEFHNG1rLWJvTGFXbUp1Zl9RcVJ0em1OQ19LT1JwdGNSak10b2M5X1BnYU9QOUhQdmNhV3lSdmg2dldEWGlOeTRFSVBocDZyNnQwdDQ3Y1R5UlZLSFJzSGhlUUVyMEE?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-08T21:00:00.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "조립 끝나자마자 스스로 걸어 나온 휴머노이드… 車 회사는 어떻게 로봇을 뚝딱 생산했나 - 조선비즈",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVF5b3V3LWpIcUdDSjc3ZHlTRUUzaFpUdmpiTjFFZ0J4bDNCMkdBVmhTdjZCa2U5aXBKaWk0VmNpM0U0ZHJ5OVo3LXo0OWhmWG1CU0otNzFmSlQwTUp6WjNSZFlnVHAxMlpFaVdGaUszNkJOZ2pMQlpjVmtEVFlzdEJsYnfSAZgBQVVfeXFMTUdwSWZhaTdjZHFxc25nVDg3ZFZYZDhzVUl3QUROenM5R2xPTHVNOFZ0dFB0N1pXYmtMNGt0ZWxRS213enFOTHdaWFBUZUNwajVkeHEtYlM2c05aa3dwcXAxTnNIQ2dybnR2NDVhY3ZabVZVemgxOG1NYzlYREV4c0Z2RGt1c2pkREVqb0hnZ09RaENRWV9LT0M?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-08T21:00:00.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "전 테슬라 옵티머스 AI 책임자, 산업용 로봇 스타트업 공동 창업",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85djRlNDgyeDVqQ2xaeVVQY3owRDhQbFZfcVZOLXFXVXFWVFN3aGRHaGRpX0JBMmpBLVp4bWR3MXVQc2FUX3MwX0NxREtoWENnd2Rn?oc=5",
+      "source": "토큰포스트",
+      "published": "2026-10-08T20:47:18.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "청라 R&D센터 키운 현대무벡스, 매출 4000억 눈앞",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHNmX1NpanVxTllvUldBUWZMWVk4SXZkR29YZDhTVnd0WlhQTDJORFZYQ1FFQXRRQWZzQXlGVkctZExpUmZ3S0RObzRQdkhCRGwtaWk4dVQwVEtWWDdCeGtDQklCaDF4VTMtbGNvbjk2ckpneE1tUEpTQzZBTXI2UWlPYWdSSlFhcVlaWU9RYw?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-08T20:35:09.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "주먹 날리는 현실판 '터미네이터'…미국서 인간과 로봇 격투대결",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aEdDTEhoaGQxbmVCaWFRbHUweXk4VE5kVmFVNXRZdW5EVVhhejN6dlB2UjFhd3JQTDZnOXpReGNXNVJQTkRzRXN0WkhqODV6Qm9wSHU5VDlHZnJzT19rd0V4eUN2VWxudTdMSVljVXlLcGFa?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "published": "2026-10-08T20:33:49.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "ASP 아이소토프, 엔드라 라이프 사이언스 지분 15.1% 보유 보고",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uZ1hlR1VJX3dnLXI1ZE5lM2F6WFVfak40b3BLZ3MxcV9QczAydGpYb1gtMy1TQlg2eE5jY2FrV0dsVWdLUG1obzl2VUlhaGplUEdFZGtFTTFiZ2h4YWZoQ3hJX3RBRDVWQVl1VkVRa1JmQQ?oc=5",
+      "source": "데이터투자",
+      "published": "2026-10-08T20:22:11.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "SK솔리다임 美 상장설 '중복상장' 공방…주주가치 우려 속 '투자재원' 확보론",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FWmtMUlh0Q0xuX29ua09ORWRuZXJJOXpOVVgzcVR5NjB2Um1LZ1YwenhfWE1PanBtbUhKVWszQVlMcUY4V1FMcG9hbTZLeXEySHV0UWpOV2RCSHRJX0p3ME9qTXF3VVdMLVZRSEpR?oc=5",
+      "source": "뉴스후플러스",
+      "published": "2026-10-08T20:00:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "내용이 긴 규칙 페이지를 탐색하는 이사비 지원 토토 읽기 안내",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa2ZPeGtyUXlQejRXRzl3SmNScmJKRlJORW1DYmRtdVBrUXJWeDVfU1RrYmE0enFtbjhCZmF6enRZUUM1eFFibTcwbHBHMUVhcXZYd3hpM2QxUFQwRHNtQl9Xd2dRN2thbU54ZWlKaXdwMlpfYTl4SDlxMVJxeU9EWjduZmQwMFRUcVBaUjVuV2pHMnhqZ3ZMaUswSG81aUNVUEc1OFJxb3dVcm9YT0s0VjYyX0RVNktuSV9mdWhVdFBUWUZKRTF1LVZYQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T19:43:14.000Z",
+      "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "롯데 타워 토토로 을 위한 필수 정보 및 팁",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjJtQ0lFUmRlMkdDZHF1MnRhNXd4SDMwRVJGSFFFV3lDTTB1SkFyQlJwMzBZSDl6ZFZfMkNrX01kaWdEMUpJaDBGazktWE5Vd01kaTFJZExOMXdUT2pVWDBEMVk1bktudWI0Ull2Y011NmtvR096LVZDMEZVR1lWOFRQbkxQZ0NxalotcGRxdG15R01iVG5pM1pCYXJkSU1YTGpLQmdMbUFOWUlmblJITURrdWpVc25jLWowN21wT3lXMnVDb2hxanVqSQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T19:41:59.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "AI·로봇과 함께 꿈 찾기...특별한 초등학교 축제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1razZ6RHhEaWhZRjRsVlFQdTlRQjNkVmdhWDZVaHNuSllqamVQSTktSmJyazFnVkRqZjA3MGxmVUJTNHVjZU4tUHZQLW1vd1NqdEdPUWJXTzVKLVltMDR6cktVUDNfYlhxWkZoTGVyMA?oc=5",
+      "source": "YTN",
+      "published": "2026-10-08T19:35:00.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "보너스 유형에 따라 달라지는 세븐스타 카지노 화면 구성",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKeHp2WFp3bDFJbUh3T09QM3J4ZWtrWUdCSjl0T21Jek1odjIySHNxX2g4NXRxTHlyS2dJNC0ybXVfaEZzaVhWdmlFbkl3eEZZbUxFYUpMdWJzd0ljZG1KNzlSUjdBNzFVRTdLckdUNTZBZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T19:29:03.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "기본 용어를 익힌 다음 읽는 컴퓨터 포커 기능 해설",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkpGRGwzUklyMGtGQ1JuY3FIQ0JPeUF1a2ZPLUtTbGpMdWFuU21kU3Q2TDc2Ul9iR0c4UjNPQzNIYXRMX2dQVDY5UVZpRWRkM3NsOFlzOWpvbU41LVhqRW1ZU1daMXlzd2xMZDNIVzNUMkctZmtDLXZYQURYdWo4UUQ1dGgwcGFVdGl3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T19:04:43.000Z",
+      "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "\"일주일 만에 몸 쓰는 법 터득\"…'로봇 훈련소'에 꽂힌 모험자본",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lcl9PTHd4NWtieXB6ZzdPSnRUeGd0RTNYbmg1Q1BnSnNHbXlsUTNJWDNqbTNJUjVxQUNWTVJ6U0xTemxqWFprNDZ3dHJWMko2N3M1WWVLUWdqQmRLZjNmZTE3N2tFbklVbXJXSQ?oc=5",
+      "source": "유니콘팩토리",
+      "published": "2026-10-08T19:00:00.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "도움말 문장이 어렵게 느껴질 때 읽는 바카라 링크",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xcEF4Q1ZiV3pOUkV0N2pGaVVnZXhVa25GZkVLTXRiem1XQllKbDYxNnpDazJEWGdOanhudHJwNVFyU3VYQWp5MVFfa0tTZ0REQl9Nc2ZSUEQwSUFsbGp6VXFndjlKczdZ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T18:46:07.000Z",
+      "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "[투데이리포트]이수페타시스, \"3Q26 Pre: …\" BUY-유안타증권",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MXFTdHk1UmZ0ZWdhbFVyQmRBampuUWN3blJlUHRRMkFxem9IUnlnY2ZLdm9ZTTNNQVBsc2Jla3I5XzByYWpTQVdKSFQtTkhfeElqMXhsbHJYQXZpNGFGa245dFNHSkEy?oc=5",
+      "source": "ThinkPool",
+      "published": "2026-10-08T18:43:39.000Z",
+      "q": "이수페타시스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "설정이 적용됐는지 확인하려면? 포키 게임 3 표시 안내",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHJpN2d0T183YnV4UXdaajk1VlBnUDdPU1l2bmF6elptYk1qSEFWWTlzRnpWSzhCcFE3Wi1sY1BMVjdwZUdITTIzckRoYVo0TWd4ZXdCZVJpVjRNbnFJOWx5c0RRUUtIT2l2UHFvVnVTQS1XMXNfN1pKMnJMTHZpVkpR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T18:34:55.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "여러 테마 사이에서 살펴보는 홍진호 포커 누적상금 분위기",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWJfaGxjQnZtM3BreXQzV3ZyR2dmZXpOYmgzeW82eHRlT3hpNkJWTnp1UXI0c3A4ay1lbkxVZ0F0OEtuUU03d1NOT1BteFRKQ1Nybzk4WmdGMnZHNzJhRDdCQWN6M2tJdU45cTBGREItVVg5RGZDS3BveUlkam5GdlFiVWh4N3Y3YWdxQTlQLUI5QmwwcDd3cWUtdWZENjVXSFhXNzJJdEM4Y21vTFM1aENvTnRpTEJybk51TWJPTkFOZTNv?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T18:22:21.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "뉴베가스 카지노 결과 내역과 현재 설정 구별",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZTNTQXpkcS00MEFISHlxOE0xNHhWTDJZWlFnc0dIdjhCMXBDSmVRVlpTdXAyWVJhdmxuQTN1bDNXUmhGODRpM2dNZ3JsM1gtd0RmWTdxY0M3RjVDMzJFNG5OLWpXOWE3T2hZeXpWMV8?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T18:04:32.000Z",
+      "q": "테슬라 옵티머스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "싱가포르에서 인간형 로봇들이 전투에 참여하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02amF4UUI0b294NlQya0RZM0dpa0laTE9nRnZ3ZWlKUk9UY1Uzb1puNXlqM3o5SzNNWklLZUU5R0Ywekw1cFEya3NNeEhmMWxMYTFmb1F6SXh6djg1N0V0QmpNcm1KaHA5SFpLR0tzZEY5dmhT?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-08T18:03:54.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "중국 마작 게임 - 업계 전문가들의 조언",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWV9YcTJHOEN0TGdtbUs2ZFpxaXpmSURqdVNmMUhEYmdhcWdsLXJzdU5SdFFHazBiTUE2enRUdkF2bExYZnRwczJZQi1GU0Zfa0lUOUN6M3h2U1VoWGtaZ2U0M3FITVp6NTl0ZG9aVE5RYUU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:49:03.000Z",
+      "q": "쪼개기 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "준 카지노 주소 결과 표시와 이용 기록의 차이",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWRkMVM0VlBpVFl1RGNEMllWRTVualpxUkFocHRzTVU5am5GTGdWUEtWWHJwdkpTVEhGNVdMY2pVcUNDamVLWGgwazNESDJPeFJzXy1DTWZacHdOR2NCdjlna29fRVNzRTNIQUo4TlBoR1ZwN0Q0Zl9sdmh6cDFwQkpNbXpRUTBtVm9Qc18xcVUxQjNuQWlFSTlHMFNBdTZoUW9qWjRhQXlMQ0pSdUVnWWJjZ04wN3VEeUpmRlFCTU1JNjlqN2dZajZ2eU1LYjNYMVE1OWU3YTBJcmJjWlE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:49:02.000Z",
+      "q": "CCL 가격",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "솔리다임 美 IPO 주관사 선정… SK ‘주주가치 중심’ 원칙 지킬까",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQ2VJZ1BBV1NrWXBncjBITEJHRlh4MzVPOGtUcnh5Mk1hX2xrTUxuN0Q2X3gyNGlJTzhGb3VreUlCSnIzdTFBRXNaNEJyU1FXVlRnYnlhTk0yQ0dYV1VvUHhoM1ZTV3BwNEI3Z9IBbEFVX3lxTFBTQ2VJZ1BBV1NrWXBncjBITEJHRlh4MzVPOGtUcnh5Mk1hX2xrTUxuN0Q2X3gyNGlJTzhGb3VreUlCSnIzdTFBRXNaNEJyU1FXVlRnYnlhTk0yQ0dYV1VvUHhoM1ZTV3BwNEI3Zw?oc=5",
+      "source": "국민일보",
+      "published": "2026-10-08T17:41:00.000Z",
+      "q": "쪼개기 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "게임 설명을 읽기 전에 알아둘 해외 온라인 카지노 용어",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HZnZ0UEMtYWpIVGhKeURkZllLdmdrVWVnWmxweURybGt6a1dWckZjUVA2TWZBbWR5V0RnaDdIbEJyT21MZEtNdUtQWXJMU1pOSUxVREZVN2hSNmNpRlhnQ1M3X2ZXdTgtX05wNmQ3cw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:39:11.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "중국 롤 아시안게임 로스터 안내 창의 확인 버튼 역할",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TVWdOTUU5ZU9kWElvc3o4b2MtSlNSckt2Mk1vREs0WGZobHVDQjdNUnBBYk9iUnBlQzFNM1c3MDRjM0N2enJ4Q01RREdnOXFjYkgyTEUxWEtwR3pfZ2IxcDBSRmRYUThpNmVnbm8zQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:30:37.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "게임을 고르기 전 펼쳐보는 블록 체인 다이아몬드",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WTnk0eEQyWE41bVNvTnVpbWR2WGhQRzBVeklPUmpKUVN1Z2w0ZW9mQjVhckptNGRaT2tJMFpXcVlES2gtR05QZ3lKZEp2eDlvWW1QWnh5eUpRaERxTmV1cDdSWElOcDRaaU9TbEoyQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:16:34.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "나스닥 낙폭 1%·필라델피아 반도체지수 2% 넘게 하락",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IdnhrTjNUM01sdDRoZDJtWXFtY0VkenhWWEtmNnZDNnpBV0NrOUp2MnhiNDFvWlpzR1h6Ym1VdExvZFdVU09lVDhFSjdHb1AxZGhGVFdYaXg?oc=5",
+      "source": "토큰포스트",
+      "published": "2026-10-08T17:16:12.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "경쟁사 AI 빗장 푼 일론 머스크 -> 그록의 생존 걸린 실용주의 결단 > AI 빅3에 밀린 머스크의 승부수 => 적과의 동침 택한 그록의 승부수 = 그록 단독 패권주의 한계 직면 >> 오픈AI·구글 연합 전선 구축하나 |",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTTVhSWhSVTlnQ29ONEkyazFTaDFUNjlFZ25MNVU4Ni1jeXd1ME5HMDN5eW81Z256RjJSWWo2VHZQc24xck1ZOXZsRDlGRlhrbzdHWFhqdHVMY2J4YTcwRFFwUVItR2ZHZG9UVl9MQ1lJTE45QXc?oc=5",
+      "source": "데일리머니",
+      "published": "2026-10-08T17:14:16.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWko4aF94YUlZcmVZMmZfTlBsMDZJdi1BZkpBTFhSazVXMWlnZ1JUYTl0dGdwTG5jb1ZucFNZc2RrRUx1cGFqOFF4Smx4d2xkS2Y0RVozd3loM1Z0bUhoM2R5VHlKOUctVXBDT2dtVHZNVzVCMEpRVERnNTh1bjVPYVYwRzh4SlBQXzRRcENYMjNZbGtPZGM0eGJCU3g4dl9YczRIOVFpUG5qMDJBWG5PWEt0dzVsNWdp?oc=5",
+      "source": "TIKR.com",
+      "published": "2026-10-08T17:08:37.000Z",
+      "q": "테슬라 옵티머스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "바카라 마감 누적 표시가 쓰이는 기능",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFBPOERnWTZxd3ptcE5nQVlYdW83NDFLZXJVTkYtSUJwZGRLeEo4NFNMdkpXM0R6RXlBaEVxZFVYbEJCcm5LSm0wM3pJd0o1NFZEeXluVUF0TnVkNFg0U2g5TzlNSzVXNW9UdUpqX1VoUlRLQkpacDRGS3ZJUHpHSWo1VXdIcjdt?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:05:22.000Z",
+      "q": "레인보우로보틱스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "기능 소개와 사용 조건을 함께 보는 디즈니 플러스 카지노 야스",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMEV2MXhfTDl0bzkycTVYOGhBZThhSHgteW00WWFoRWRCZ3F6Y1BHdHl1YUkxbTRwZGJhTDJoWTdtZllueER5WlpRTjhhR1JQa2gyMVNsWTdVYXlqNlhVUlgzMWVnZFdzYXcwcDN0N0pXQ0QyY3haSFpYdW9MZnc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T17:01:40.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "\"시가총액만 놓고 코스닥기업 상폐는 위험\"…\"최소한의 형식기준\" - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZ01ySGFSeXRGY0hVd3VpdU9YbVBZTU1zN2pranRZQUpLUl9ZTzA3NnpaR0hPZzVQMEJ0Q05qR1pCODcycGdHaEVuSzZYaksyTi1GVXBPM1h2bEg0VFB4RXV0bk1oUnN6cU91bU9n0gFuQVVfeXFMUEVnTXJIYVJ5dEZjSFV3dWl1T1htUFlNTXM3amtqdFlBSktSX1lPMDc2elpHSE9nNVAwQnRDTmpHWkI4NzJwZ0doRW5LNlhqSzJOLUZVcE8zWHZsSDRUUHhFdXRuTWhSc3pxT3VtT2c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-08T16:55:03.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "짧게 읽는 기본 규칙, 토토 비제이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmazB5eThXR1BsYnpvU25WQzF1QW51Yjk3U09ocy1WOUNJaVRwdFozcG5sZTl1RU81R2pJV1F1TEhlRFhYRjh6OXVqZ0RWUzNIbzB5RndDZFJrZnE1dEpzeENwXzF5MEhaUTFZb0pmMA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T16:43:06.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "보너스 설명에서 놓치기 쉬운 카지노 슬롯 이미지 예외 조건",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTW1CSm9qY1UwN3NVdWNWY21BTXplNUpwNlBUNzlIWFRJS0hOek9ac0xiLXNPcmh2R2Q0allGNS0xa1FZcjExTjRWS2ZLNHdSMVZwdUEyQ3A0N1ZYdzNVb1dYMm5ydklMa2RHUXdKbDRRcTQtOEEwazYtam1lMGdDNmxBcDFwMlFsZW45ckJmeXJpaGctOXp1bFIzOGp4UUNaMk8wb0pnNkpzdmJIdl9OaDg3OUJrREpzN3ZIVkxLNA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T16:34:40.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "작혼: 리치 마작 에서의 위험 요소와 예방 전략 (2026년 최신판)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPaVF4SFl6dnNncVdvOUtRbWE3NHdiS3JORTBlZFFBMFVobkgwUWt5UTJ5RGoyMVhiNkYxZU5mUlVCZGZYQ21tUjFTeDQ1RVZEdVY1X0tvaV91SGNFQm5wSmFRbWJ4Zw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T16:28:44.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "규칙을 먼저 읽고 싶은 분들을 위한 슬롯 커뮤 꽁머니",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1hFT2g0dEN5MmdCY2tJeUhhdEU2Z0E2dGJpNjFWWG9ZejhtUlcxZUFxZm9IdllXY0NwNXdHdGM2UGZlR2ZQWi13cUZqbXRteHZVc1BwbkdhYUlfbW44V2pvdnNudG9hUmpNY283U2twWWRac25QdHkza1pqazZfWnpjYU9vOUZfYWhLdDAyRTNlcjBYWTl5aUlUSklCNG5ZMThnRWdfdDlFRnVwc2ZENjZpM1lNZVYtUDZXc1U4dUZUdmlmX1N1NUNwZDR0QUppaEFOd1YwQVdaM1VxWDBhTQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T16:20:19.000Z",
+      "q": "동박적층판 CCL",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "슬롯 유형별 차이 속에서 보는 카지노 버지니아 구성",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXNTaloyaldwbURfNnlNbDRlVEY2eUxOY0d1WkdnNXlwQkpmVFNkc1dSMno1dlF2bF9WS012Y2ZwVUhPd2xxcEJXN0ZJWkZZTGJlWnUtSnlPUi1Bd0EwcmU0RnVmWHFSUHFaWEpmZUFnbzNENXJmc0Vad1ZaSXJTTEhEek1FOTZrcG5QRUUxYkRmb1FaT3pfNjUtZmRtaEtHbjRpS05tenVZNnBjZHdaOEI4SnZCemExLVhGZWpfcHlXSW1hMFcyUnlGRXlEd1ZNaFlKNThWZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:59:34.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "토토리의 아틀리에 공략 도움말의 그림과 숫자 읽기",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iTUFlRlpCa2ZwM0tQN1FXLThmQXhpcUwxYTlpZnVwS1VvZm5sd3ktT3ZVRzNFRmNDNkVDN19ETGN2Um81V1dZYWZ1ajlkNzlNTHI4Wm1QOWE5TXlodUxIVW52S19tdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:56:29.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
     {
       "topic": "listing",
       "date": "2026-10-09",
@@ -13,6 +679,61 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "설익은 ‘부실 기업 상장폐지’, 법원이 제동… 애꿎은 개미 돈만 묶였다",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDBqOVM2TEFnODhCS1ZxTnNGZFNzWlk5T1I5ajluY1Q4YU5zWDNBUUpKbFhhUFVGSE1xdXI5dnZnR1l0MUktb0hodlVQQzVLWXh4UE9XRWdZeHBHMVNDZmRzeXRsWDh3SHRHZjY0dTVfOWNQc3RLQzUxUzZwT0JheFRwWGpaVGZPT2x3?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-08T15:49:00.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "마작 역만 연출 터치 가능한 영역 확인",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TR21tR2lDRkQtRzMxWVh1ZHllVnR1MGJUVmRiVzhsbTZzbFg5SkhZd1JfOFFrYjk1VkJpZVdJb3VheDlONG1Nb2hWUEJZRVdKMEFHZUpFVjVSVkJWcEVqMUYtVHVxNHFxRFh4OFpobER3UQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:43:53.000Z",
+      "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "붙어 있는 심벌로 판정하나요? 채태인 바카라 규칙 질문",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLWlFQUhFdTI0TGR4V1ZjTTBjbGh1WHFpalZVeHgtOGFxRXFmdDBISGNhSlBYLUhnYV9rLWd5a0IxZ0ZTRG43dzZTbjFkLTVGWlR4aE5kcWtKQXRQRFhFTWVvenExZF9XTDRjVEFWdWJGckVzelZQejZaTmtzVlhpaGtYZkV0cnlMV1c5NlYta0FsQTY5ZmhrMFFVZDlSMmxvM0lBZHJrODlrbmFtdkpBT2VITllOOC0zZF95WTdhUVFFbjM3aDRENEtwdzN0WTZsOVFoWlA5ZVk0Q1duV3lUZUhuZ2ZzdXBrUWhmVDBOUDA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:22:33.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "작은 아이콘에도 설명이 필요한 amg 먹튀 인터페이스",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWVVqb0xoWnVFMHNiOVBRcU5JTDR5ZTFSTW96bklRMTRndC1IZW1wMjJIX3ljRTJVSkV5SFNhVndaN3I5amx1WmVoNVMtM1lkSUpxTXhaU01UTEZHc19lQW5BNUFKUmtzb28xd2xYalo1Y3g1T2c5UklpSmZFS29yMnNLTEhrV0ItZ2NIN2pDWWFyUDRuQWw4NGM4MEY2MkhuNlBXdjBSbmZ3MnM2Q1QtOWtMQmdQbVFJLTBWWnQwRXRBMk9VMElUOVNCN1oyUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:22:22.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "토토 휴대용 비데 분석 환경 보호 체계적 설명",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcERVUklPOW11amNZUl9iUUxlOG1FUUVqdUZOdDIxY0JRbXRsV3R2LU9EX1pXaUF6SG1ZMEtzZHh1U0llTG1BelhXck91ZGRPMzVFY2hXaWJKWWJ1YTVGN1F1ZUlSZExYNUIyNm50NFFzNXVKZDEweUlYWmNPYU5uSHYwbjZ5YzZiRWI1QnVjclZSaVR3emtadnotenFkMDFDZ3FqcUcxZG5hTVQtVXFHbkNwVU10blptMjRtOXNTOTRFbjRZNkxTSHdjZUlhcGZiWmZYM0hR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:22:21.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-09",
       "title": "KAIST, 13일 ‘피지컬 AI 코리아 2026’ 개최… 제조·의료·물류 아우르는 플랫폼 기술 비전 선포",
@@ -20,6 +741,116 @@
       "source": "스포트라이트유",
       "published": "2026-10-08T15:13:28.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "포커 트리플 크라운 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTSkt5Tzd6Nk56T0xMQl9SZVY2U0xPYkxBLTEwNDg3LXAtQkhMbERhZ2hCOURNcWh0YnFmX1N4OTNaVnF1NGlESVlGVFJFRWdjV3MxNWFJbllYbFVETzc4?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:13:06.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "심벌이 바뀌는 연출은 어떤 의미일까? 호텔 카지노 딜러",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEb1VHeWF3ekZfU0xzM2luTGwwRXdvemh0V0czMmtGZVpQd1VhdjhXRzUyT0E1M2pTbmNuZ28tejMySFRVUlZvTFdrRmZ1bWdyeVNUaXZZeEVrcWx0c1FpN1Y2ZGtCM2pTS1RSbzEyMUZ0UQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:12:36.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "규칙과 연출을 나눠서 읽는 슬롯 잭팟 먹튀 설명",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2x4UXR1Q25uallVal9VU3dqMzZlUzV4UGVmOTZXT2xrOWhjbHlnUTF3WUgwRllpRHlrZG96NDczVTlBV296dW9sbkhOWkZvNTU2WDlueW5CY05OOGxjWE1vN2JYMXZsaGp3SDNmaV9ZUEY4M3BMZ2VFc1UyNmRiZi1PeU83N1NUQm5GSXBEcFlCUUZKMU1nSUtaLUJkUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:09:35.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "[2026 국감] 코스닥 시총 미달 상폐 논란…세그먼트 '낙인효과' 우려",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hbjgtcjI5UVFUWWxKcFVJQW9YLTBnVDM3a092UFZRajVnUjZhUjZNTGVvOU1ySUFKVDBNUFM5MEg5d3FCWnFTNzRQeS1FOFlBc1R4YUt2SE1SV2JzWmhkU21Zd3NPY0NvRDFONEt0VlpjaTDSAXNBVV95cUxNYW44LXIyOVFRVFlsSnBVSUFvWC0wZ1QzN2tPdlBWUWo1Z1I2YVI2TUxlbzlNcklBSlQwTVBTOTBIOXdxQlpxUzc0UHktRThZQXNUeGFLdkhNUldic1poZFNtWXdzT2NDb0QxTjRLdFZaY2kw?oc=5",
+      "source": "뉴스웍스",
+      "published": "2026-10-08T15:06:21.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-09",
+      "title": "휴대폰 화면 밝기와 함께 점검할 도박중독의 인지행동치료 가독성",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PUi1CRmFSLXpXZUNqYmZJUUFybU5EOWRWbWg1MFJQZDBNLS1uNlA4U0wydDVzQ2lvV0NUUzVjSGR1MlpPbk9NRl84OFBRYW9LWXYtQ042MEVkaDhMek5yN0hrRTI?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:06:20.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-09",
+      "title": "확률 설명과 배당표는 무엇이 다른가요? 홀덤 라이브",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91aUQxbC1QSlNiWnlVLTM5bkMzdnAxdk5uWTluUXdoWUxhYmdrVmtvRnVscU1Td0dtSFREZlUwN1k0c1JuT1V6dzFDZVZISkYtdEsxUmI1OFdVTzlxdmtTdEMxQmtpRUdyU2pLeXJnbk1pQnFWS1NReg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T15:01:54.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-09",
+      "title": "코스닥 시장 ‘얼마나 많은 기업을 퇴출할 것인가’가 아니다",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55UWtsNFRJNE1fMmRsMGtTT05QQ2h2S2IzWlBuRlhsS3RBNVlpT3JxdzlETW1jdHlNc0REcGdZdGxBSEV1bl9ncHpZMWVxOTFaNFVSLWhPcnFPaDJNUENnQWV4XzZtdzB0RlE?oc=5",
+      "source": "중기이코노미",
+      "published": "2026-10-08T15:00:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "마작 버림패 시스템 아키텍처의 입문 가이드: 사상, 행동 및 결과",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGpaMXBVVHU5VGNSNUVSTERQZjA1U2FvUzJiYnRNMmt0dUtISlJBQmp4SjZvSnZxS0Vld2t2NWltSzBBWnFjdHJyWnI4Q3NYY1NyNHVyUmg5WFV5MmVLb1hqZG9WZ0c1dFJFZnZVT1hKd3hFVDRMNi1oeFhBVmpQNWlnaUFRRFE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:53:21.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "여러 슬롯 중 구조를 비교해 보고 싶은 토토 구인 구직 제로 추천",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuWHNTZlBnUUZFb2lSSGV3S09wT29RT3dOQTNVU29PZHhkM05vVmE4dUFOcmVhbks1c2pwbFlwd2o0ZXZ2SlJZZUFNVzlTOTVqNEZVZ2x4elZHSWpOVUNmUXZKRFgtN2xCek0zaUVLZ0tyZ28?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:45:00.000Z",
+      "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "맨유 토트넘 선발 의 모든 것: 기본 개념부터 고급 기술까지",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43b01SMHcwWnN5QVRfTEIzSkpIbm5Pa0EteEltejB6bWRvX3R6UjlTM2NyeU5qaUFYZ1Rwdm9EVkJfLXRiTmtybkVpd0VFUkFwV25oVGlOTnBrbVJ4OU5uZExibl9NZHBVOGN5VnJIUWs?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:33:19.000Z",
+      "q": "협동로봇",
       "related": [],
       "weight": 1
     },
@@ -43,11 +874,44 @@
     {
       "topic": "physical",
       "date": "2026-10-08",
+      "title": "기능 개수보다 작동 방식을 보는 블록 체인 계약 비교",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzNrY1l6Qmw0VEpGZlZoVkM5eXZHUGtQRlVNZVl2M1g4Ry1Ebl9vdlBoa3RPekU4NHNkamVUcHBXNG5aSjVBbUtHTXV3WndwblBIT01GVG9uNFl2dktsWDZoa0lFR2FJc0lQMmp4V3ZTd0R0UVN4eWlSUHJoTk5yb0U2RFVobDA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:18:31.000Z",
+      "q": "레인보우로보틱스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
       "title": "“발차기 실화?”…인간 날린 1.8m 로봇, 美 뒤늦게 ‘제동’",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkVqVnJPWVpITDhXV0NKV2l0LUlfWW9ra0JKSTlXUG5wbFFUcVpNam9UOVU0MFpYb0JzbFRkclJRM1RwelNrVnR3cnFsaFg2UXhjWXBiX2V0X0VLUktpWHNJdnluVmhvamc3ZWlvdlFOdHM5cW5ONnBiZUlfcG1aeQ?oc=5",
       "source": "m.edaily.co.kr",
       "published": "2026-10-08T14:12:56.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "PC에서 소리와 화면을 조절하는 미니언즈 카지노 환경 안내",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjlWMzZLMnhwTlQwbHdjLUN3U3VuSEFxMmhFZGU2OWhDc3VfbmxqbTh6MGg4d1oxUHZmaXJQbEU1T0Q1WHhIZUJ4ek1WNTQ3XzRyZUJHZlM0NUR0VG5pRTJ1ZHR6QVpxYXFVWVE3MXdVM2hMOVhUUlhuNnRQbm42OGNodXpVcG1vY3RFdTJRMFFZSHJnSXBtM3Bkc3NlSU43cjQyekhQTXhYZjdyTlh6Q21zX3kyZmc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:12:33.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "이미지보다 설명이 필요한 1박2일 도박 게임 요소",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGhIcTljQTJxR19XdlBwWHRBNzBBYTVoU1BVd290WW9rXzhKQWpsbHppMlhFWDF4ZWd6ckdIV2kwSHlhdlBKRnRZOGFwamE4MnE2ai04a1FwZUFpcDM4UTFhclhiWVF0ZmF4andYTTAwLWN4M0xYeXdpcHlUNDEtUlVNdG4tWndia3Nmei1RWnFQbFJOa3ljVlA3N1RhalpNd1hHaVBpbHlGbHNDbXN2TE13?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T14:01:51.000Z",
+      "q": "기판 수주",
       "related": [],
       "weight": 1
     },
@@ -63,12 +927,56 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "이억원 \"코스닥 상폐에 '시총'은 최소 기준…해외도 마찬가지\"",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NHJlcDkwNm9ScmNha1p1MFAzVEx3R0JCU3B1dWVXYVpaa1QtSG5icVhRcThqUHFUVFhraXQ3TmRsREVJT1lxeGtCMWV6cFM4bXhzelBZcGdocTUxUzJKN2J3TDlQb3hfcS1HcTZrNFo4YU8x?oc=5",
+      "source": "m.edaily.co.kr",
+      "published": "2026-10-08T13:58:47.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[기자가만난세상] ‘다산다사’ 외치며 금융당국이 놓친 것",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pNFJfR1QzRnRnYjlIdlprMHRaRDlWRWNmSFd2bjkwaUl5RWs2Qy1aR2FXNUttZ0VIT05kakNXUDg5VjBPOWVaNnVwSTN1YWp0R2N0S2V0SGHSAVRBVV95cUxObS1SLWNTcExoRzB2WVlGUkF5VmxaQ0FXNnREb1FHZG1XWXNTUDFWaC1RV21XX1pJLU9nX0JVTmtiaVZBZ3ExNVFlN0ItdjRULUZIUUI?oc=5",
+      "source": "세계일보",
+      "published": "2026-10-08T13:56:56.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "극단적으로 두꺼워진 글래스 기판, ALD 메탈 공정 도입하나",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNG9BdjgxcGE2ZHFrMUdqVEFGYVdPaS1MWXYzNkxpd3gybzVXRktVRFNKX0hiYjdTTzBZYlBZUG1JcHl5QUQzSUtSYXlETXIyX1NqZVo1MGhxcy00YWhydzdGdVBPQVF0?oc=5",
+      "source": "KIPOST",
+      "published": "2026-10-08T13:49:31.000Z",
+      "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "시선AI 子 유온로보틱스, 성주월항농협APC와 피지컬AI 로봇 공급계약 체결",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRa3pCOWRabVdXTl9fX1V3UWVQUl92Znh3VHVsbVVETHh6WEVlSmRQZEgtTlMybzgtWDA1VHd2WUtGRE90Qm92YUliM2dyMTZXUDFmV3pQOFhLbkd4ZThLTDNwdVNkdXUtREpjRFlta9IBc0FVX3lxTE5Hb3FEcENFdTVEYWpiZnVfcDU0amdINE5xOGNCd0xXZjd3NFY1eC15aldyR01IdUVlUkRZRE9mb1NGUWl6ZmFRU1ZMMUlUNGxvUUdEYzczWDBnTkN1bFdjZ2xZc09EaTlsRDlBVzFNdUVvVE0?oc=5",
       "source": "데일리포스트",
       "published": "2026-10-08T13:39:36.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "피지컬AI 시대, 세계는 왜 K컬처가 필요한가",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmFvQ2RJT0xtRTV1RGRRSkhZYjRmdElHdTMtblJCTm1NamZkM0tkRk9oOWdIckVGYTNPRHJQb2h4N2lmM0hReFNMeHpNYk9lTXFMRjRhQ2xHY1B2QjUxYWpvTWViejFwc24ycmZDMzRkVkxTRXFWTVhNblFHaFhuUlczaUtCcDJOUW05N2xfNmQ3ZzQ0NmdZaTNnZVRjbDJQOTN1MDFoaGtkbHVJaEE?oc=5",
+      "source": "모바일한경",
+      "published": "2026-10-08T13:36:24.000Z",
       "q": "피지컬 AI",
       "related": [],
       "weight": 1
@@ -96,6 +1004,28 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "다른 게임과 기능 구성을 맞춰 보는 토토 가상계좌 디시 제로",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZnJZM3EzSkN6cWVaZTdFS1ZVWUpfV3JHbnpLTDdDYy1kODlwWnEwMTFMSFdvUHV2UmdncmdsYW1wYU9zai0xQ1BTQ2cxSUVCdjIyaTJuUVhZRENla1Y3V2R6OURHVmNVb3BydUdDNm9UZ1VCaDNoaG9RRzdzcFg2ZE1hSFl4TldPelZjQkxTLXQzOHdoMGYxZ0N6VUZHSU1rXzRrUldaT2IyLUdyRENIR19hcW1BV1Z1MlBndjdGRXEtQ0E?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T13:27:55.000Z",
+      "q": "테슬라 옵티머스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "심벌 설명에 없는 조합은 어디서 찾나요? 토토 월클",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOW01aVVIdGNYUUdYVjZMcEk0dENRSFlHUXl3WjdjOUhvZmhNaXI2eEV4Ml9NcWdvX3U1WUl5LXNTWk8tWk1BUGw1bHBBWGZoYXJfUFdmNGhCT2NJeDl0djRGVGZsQUZSSU1qWGRHRDI4OXUtaGNfaGF1aFhCX3duZnhHMUNWc0hHcmxTbFAxNjRWUHVtdEx4aklnTlc1TGJXaVg2djBUYjdPLU5IdkJjbU5OY25JODl0dGp3SlBkWk41Z0h5MHVNenBXZ2h2YUdXN0hkcWlEM2M1Ym9r?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T13:27:50.000Z",
+      "q": "스팩 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "[표] 10월 8일 매매동향...외국인, 코스피 순매수 1위 '이수페타시스'",
@@ -103,6 +1033,17 @@
       "source": "핀포인트뉴스",
       "published": "2026-10-08T13:18:47.000Z",
       "q": "이수페타시스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[2026 국감] \"차라리 안 되는 기업 상폐가 낫다\"…코스닥 세그먼트 개편에 정무위 '제동'",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Pd2MxTWpOZFQxN0NOTUxQVHBLR2g0NmplX2I0VWJHaHoyRl92aVpiT25XN0NTU1R1WnZEOEcydnowV2k0V21kLVk2STdjQUFLV3VFY0NUNHZtNzZt?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-08T13:11:00.000Z",
+      "q": "코스닥 상장",
       "related": [],
       "weight": 1
     },
@@ -129,6 +1070,39 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "보너스가 없는 구성도 있을까? 무료 확실한 베팅 유형 설명",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkN2UWhET1l5SmN5T1ROOS1RX254UTlXOWVObHlSbE5mQWNkNjJCN2VPOGc3THVUdGRhS2ljRks2TjQzVUNjZVo2dGpnRkVIR0UtX2Vxc3pNRHFjMjFKb19XQkE2b1VYVEhMU2d2bDVPOGNHVkhmWVQ2LU04QjQ0cFc5WlZKbGI2SXZGU0JibTJBcjJzT0V5ZlJpOFhUUGpWVzhKLW9uQTRBbG5FRzZfaXV4enNfcWdSMnZVZVZtUlV2VmM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:50:14.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "게임 정보 페이지를 천천히 읽는 회사 점심메뉴 정하기",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMVRjM29fQ1FtS282dDVZUzE0QkVWcHZaVHRra2h0NF9hSnF3bU05NDcyXzRudTFUVXRYSUNjbzFaNzFHWjVsSzUwdjVLTTg0cS1LSEtKMWxZc2hYc2ZaUEJfdEI0UldSUlRfdjRpRWNSZzVmSEI0VTlvbVRkVXpmVEF1aTBGVHRDaGdsRS1jazZEcThUdGJ1UzdIZ0doVnRkN3A3N3lCSndyanB5Rm1jQXFNVk9BQWd2UzlFLWdFSkp0X3F0aUZxU3VGbDBUWUdnTmNGSkRBYUV3Z0NZZFRVdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:49:18.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "베팅 설정은 규칙과 어떻게 연결되나요? 럭키 나인 토토",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaYXVrd1NITkVmLV92WVlfTTBZV0d3NGhkQ3g5bndpUFo1WnQzNnp5Q2hIMnFEYl9iS095dkJ0WnVORGpxMV90UGE3QUpKa0VwTVdXQzFNWVV4d2xaUTZWX005UEtOWnRJNGVmSmZUcEExODdmc3g4R3g1Z3Q?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:48:27.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "'시총 미달 상장폐지' 전면 유예…정책 신뢰성 또 '흔들'",
@@ -136,6 +1110,39 @@
       "source": "TV조선뉴스",
       "published": "2026-10-08T12:42:17.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "연출을 건너뛰면 결과도 달라지나요? 벳 인포 스포츠 토토 분석",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWhja2M5ZWQ2SlJVM3l0S0lBNkloRktOYkJ5dXhhZXBzTHJRcjUwRkhMRl8xa3NYS3duWEQ5a2w2UVh0UTFoVGdrUHNjeElNYVJMS0h4U04xOEtEcnl3MnRud1dWUGw2MlROM1dPWHYyLXhFX1EyM21ZV0h3eDlCOHZaZHpJY1FKWXVzRENR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:41:11.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "장르에 익숙한 사용자도 읽어볼 도박의 신 이름 개별 규칙",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQ1F2VkJOZHBYa1ZCZjdaeXV0REtqdzd5djlpZzdjOE5rUjRZVEhWMmx1UFM0RlhtVGRDemtfTDg2VGxBeDN2RHZVSTNTai1jZUR4d3ZZNE1CdjVwT013VW1oWXp4d1pFeDR4aUtncENEUGVjZDJhZ2VvNVZiemZPb2FYRkVQUU5xWWU5bThyMlBCMlJqR0pNd09Qc2Z2TEJqVnpjQi0tZmVLcTFKMnlGUGJFU1d2X3hRanlEUF85RUFoVFFvSXo5dXRCRzZuRVp5RmtIR21fZV9BR2xDRlB1dkg5bHdybTZrbmhmVHN4OEdFMWtwMHZSamdxWEd6UmdwNU85b2NlTDZQbUpLQUVId0pnUmRUUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:32:07.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "코스닥, 약보합에 890선 유지...주성엔지니어링, 에코프로비엠 상승 VS 알테오젠, 레인보우로보틱스 하락",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LNUpIQm5ZTFMwREtWX0hkSExVRzRxUTZsRHJkUXRxQTlvQUl2Q19OVW5ILUZBWVJGUHVEYXc4RzhSOE1uVXlvWm1pbDNfZnBuZHJHRjJNbGpkY0xnaU92NlhkSHlHOE94TTZxeVFMSQ?oc=5",
+      "source": "이코노뉴스",
+      "published": "2026-10-08T12:30:00.000Z",
+      "q": "레인보우로보틱스",
       "related": [],
       "weight": 1
     },
@@ -158,6 +1165,17 @@
       "source": "해양통신",
       "published": "2026-10-08T12:20:46.000Z",
       "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "클릭 한 번에 무엇이 바뀔까? 비트 플라이어 가입 버튼별 역할",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVjVrQmhHUlI1cl95NFZZcFFPVGtRNFJBYzFzc0xxamJFRUZXZE1HOTU1SUtocS1CM19OdGJGQzMyYWxnWjRKTjI4VENYb1FmWG9RT2NybTN5UDdRVEk4bGw5eHZVZy1zeVJBOU91RE5keGY1QVBMczlNVmRXdEVxYnZGb3J1THFvMXdNUE92VWEyTVFUQXhhS3VDRVBqaGxQZ01NUVZUZmlMbHdydnlRVDlHRVBpdUtuMklHWHIxcjNPQWVSTUhYZTgtZENEYUNNVUZfQjhKNmY1dUZVTjExWnlLTWhldXFHYVc0?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T12:18:10.000Z",
+      "q": "PCB 기판",
       "related": [],
       "weight": 1
     },
@@ -212,6 +1230,50 @@
       "weight": 2
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "강원랜드 바카라 미니멈 화면 하단 정보 영역 해설",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSk1tTHU0enlqOWVkdGF3akwwR0VvNUttaVhQcFZ6RzNHWk8xZWxrZ25fWThNQ1hkRnBGaE1wdEY2Tnh2YmVpa3FRSjlaTl85Y2JscmFRRzNBaUc4RVdZd010VF82OWtpV3FRUWwwRnhjeUlnSnR6NkRfWWNmZ2diX0dPT2pTYVhJaWhEQWx0ZUI0UlAybXIyYmE1bWpabmxrZkdCTmwwMl9GaVlIbW5odWJPLU1vYVZLc2xmVUFXRmVVMy1r?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:57:24.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "낯선 아이콘을 눌러보기 전 읽는 카지노 딜러 유니폼 버튼 설명",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRlo1UzRWVGdNTm1VMFFGVjN5ZEF0VGE2bmRTZDNPaDdZb2ItZlctSnpNc0JmTTIzMXdhU3hUd2xMX2pnMUNNa2J5WjRfUDhKeHhkWnRqcGFmX24tT19wTEFJb1NNbDQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:52:49.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "테마 목록에 넣기 전에 읽는 토토 타무즈 상세 소개",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUNxZmowcU02TGZnaEJscUlUcUdwOU8wRlUzVjJfRGFtZXRiWUhVNThoLTc5SEY4YUowV0JtMWEwMm1ZQVYzZkVhVHpQcklfZDNDaHFDSnZKLUlOME1vV3NLc0ZMS0RmSUJhUEt6VE8yWVhaTjhrNFVVaXRnV2p2U1B6VTA4dnlSZ0MxTDJQOXd3aU02ZUI5MS0zN0tveVdNMjF1UE50QnlVWXYyRkdYcUYxVG1oekxCeU5OQ3ZxZG55b1M5UWltbmFaVUJGM3dsRE50NTFwOWNtSEJNc3FJZjFLeEZaeFdHV0twOFE0TGc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:47:22.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "비슷한 이름의 게임과 구별하는 와우 포커 머니 시세 상세 정보",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWdqaGdRUDNPTWlURm1wdGpZVzZ6Q0o3ankySGhqelpBVjhwVERWMmxZN3FpbHVoeVhpYnF3NVhBNHVSbzBnLUdCaEZKckduNDF4TkdvRzdNelFVYWpLM1U3dERQeWo5T3JfaHBEYjlhY3YxQnZlckZSeTdHU2t4VkpBTzM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:44:34.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "제논, 코스닥 상장 추진...최대 268억원 공모",
@@ -246,6 +1308,17 @@
       "weight": 2
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "비슷한 이름의 게임과 구별하는 마작 작혼 일섭 상세 정보",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3drb2lxa0NtaEFGZTJMUWZEV1ZuSkxfUldKN1gwMEZxeU9aNVMxZld4blhCOWIxdjR2bHc4Y3ItVFRRRzY1ZXRvLUFHVlh0b1ZqODFJNFhOYWdBbWVFV0huclZoNEdFTUEwT2VMWHk0WjFHcnVMTUZQUzh4aUF5YmpGNzVWMGhMTFFVNWZFeDAxWVVBZ1Y2TkxSOFp2TTJtQldTVjF3VDJUOERYSG5WN0E4OVlMbWhpQWQ2ZzYzbGJubDIxRDVvZlVCWUJiWWlF?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:34:25.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "파워볼 10출 일반 진행과 추가 라운드 구분",
@@ -270,6 +1343,17 @@
     {
       "topic": "physical",
       "date": "2026-10-08",
+      "title": "아이콘 설명이 제공되는지 살펴보는 제주도 카지노 있는 호텔",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXZHM0Z0Tjh6c1pNODZFQ1AtNk4zVUpHdjlxSERfMTNmaUlIYXNqNGo1X01sT19pVklQUXNnSHJQa3QxN1B6RGlldEVYWmU4MTI4M1o3QzUxZFlwcjV4Smh1UzlRY1NMdlBLcFdHVzdId1YySDFuTlZzZjdlQ1J2SGM2dGpLZjdNQy16MmNxUmNOb0lyUmVIbXlxZUt0Z2lJRnozZ0Q5T213SmNMN1NFZVFfTkNUdmFtSHBVTHdDRVJBMUJDQU5DYkwzdHVQM1dHSFJjX0NoczlGaFk?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:20:26.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
       "title": "유튜버 걷어찬 1.8m 로봇…美 당국 결국 '중단'",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZ1BTOVVqSTE0UHozWnJhUlhpY0VvR0dNOV85SzA2MHIzTWpoVGwzMTh0TlJjR195aUZpclpCbzRYbkFfSlhqYnZ3SGxwZGY1VXRHRDUwQ3NVSGxRSS1NVXhIV0MzTmpuTHF5TDl4bWNHN1BoTDE3SNIBeEFVX3lxTE5uZ1BTOVVqSTE0UHozWnJhUlhpY0VvR0dNOV85SzA2MHIzTWpoVGwzMTh0TlJjR195aUZpclpCbzRYbkFfSlhqYnZ3SGxwZGY1VXRHRDUwQ3NVSGxRSS1NVXhIV0MzTmpuTHF5TDl4bWNHN1BoTDE3SA?oc=5",
       "source": "뉴시스",
@@ -286,6 +1370,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-08T11:17:12.000Z",
       "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "모바일 브라우저에서 점검하는 쏠 카지노 표시 상태",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3FCb1NqWlR4WmpzaWkzUWJILVMyY0lNTHNTaldHNktJdFBRV19WMmRWYlJpYUQyTGxJMjhIX1k5TjBlckQtZVNIMjV1VHdGdlM0MFllQlI2QlFOVDV2T3hTR1pLQmwtSjNDbFhZRm5lNTRLWWZXNDZoOWNzRUlSMUlZTXpkRF9yUXotRFR5NU05ZXMyUFBpVXRFVWtXVGRwQnh4XzVOSU9LSUNQdEJ3WHU4cGJDR0dCaHoxSm9oOTloLXdaYXpHTFJHaENHRk9MeXpR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T11:17:04.000Z",
+      "q": "피지컬 AI",
       "related": [],
       "weight": 1
     },
@@ -340,6 +1435,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "가상 크레딧 체험이 제공되나요? 토토 단 톡방 이용 정보",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FYjA5WkF5OWp4cXZ0cEVTemI3Tl9TeVJWanlCbmRqZG8yWVR1LWF0eWZCTlVLcTBsY1dJbWozNEVycXgwOHdrbE1weThmX0g0V01LSVcxT2ZlRTl3S2JxMnlFOEh5SVJJOUg4MVkzY0RKNGVaWF9FcA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:45:39.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "국내 반도체부터 미국 AI 에이전트까지…AI·우량채권 ETF 4종 13일 상장",
@@ -386,6 +1492,17 @@
     {
       "topic": "physical",
       "date": "2026-10-08",
+      "title": "익산 피지컬 AI 산업 육성 위해 산·학·연 역량 결집",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFIxZmR5eGRBZ2FRbVNoaThWdzlDaElCTWctRHJ3bVlMUV82WDV5TXBaTlZ1QTBJY1pmWEc3UkFFUnF1ZHlVb3hKMWM5UEJ0MXBqa1F4VThFT012VXZYRG1wemk2LWlnVzcwaVdqd3p1U0ZWdTlYVnRENFFMMm1mSS1qTjFyQQ?oc=5",
+      "source": "전북도민일보",
+      "published": "2026-10-08T10:30:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
       "title": "전북 제조업에 피지컬AI 접목한다…산학연정 협력체계 가동",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42VldRWWZUVXdabkRyZnNNNVl1YmFLV0RwRndYcnd1aWg0d1ZhaXVPV2JKS1d5WHJzVHBnNlhsanRORm9talJtWmwwWlE2RTdpVktZNk5JUXRHQWt2bXp6cDd3Vmk?oc=5",
       "source": "베타뉴스",
@@ -423,6 +1540,39 @@
       "weight": 2
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "게임 흐름이 끊길 때 확인하는 도박 레전드 연결 상태",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VQzZ0eXFEbF9GZEZDODEyWDlsN3ZnUUZlSy1zNWtLdjFiMkFMQ3BqLW1MdFpSVXdyVERBUlhVbG9pWTVuTkxNOUQtYlNWaVUyQUkzUkJyUmh5dlgydmcyZVNyYjN1bmFmdVRvUg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:21:51.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "파워볼 조합 요율 설정 메뉴의 토글과 선택 항목",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41Y1FUY2NGcHAzTFlHSFVfNEtzV2JYTkJhMmdzaURsVDQ1Y2xTQWhwb1JLSTVNYm9uVTZLZ2xXMkliMm03bjR5YWdFR1dWckt4blFnZ3lfWUk4eW15MnMyd2M3NHE1ZGdfZjZtRTNR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:21:33.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "배경 이야기보다 규칙이 궁금한 토토 db 가격 상세 해설",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORXdkbEwxMHVpTU9JQVBNc1Y0dW5QZC1QRmcxR1FkVDZRUnJJZ21ERW44RTZxUUJhY01rQnlPWGM4bW9fbU10NC1rdkpaQl95RTdtYVNvY3NMWlJHUWQyZGpoRHhwNDZyenNKOUF5SWI?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:16:56.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "솔리다임, 美 IPO 주관사 선정 … 블룸버그 \"100억달러 조달 가능\"",
@@ -438,6 +1588,61 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "DT 클라우드 스타 애퀴지션, 합병 기한 최대 1년 연장안 주총 통과…78만 주 상환 청구",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yNmgxZVFCQXQwNnZlTnhiRm1GT0FoWXdjZk1RQVJKVVlWemtySFFhaTZPM3pDTGZ1UXcxMzVlSkFhb0hfTmdySXFRMjdqOVhIOC1yMmFoSUV2Z2hiSzdFUU9rcVdTUm54YlJFWHNVUUtLZw?oc=5",
+      "source": "데이터투자",
+      "published": "2026-10-08T10:15:27.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "휴대폰에서 팝업이 겹칠 때 보는 카지노 가입 무료 쿠폰 화면 안내",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY09wUGpSNGxMR3Yza2tFUUt2bEVDUThjQVU3azZvT0dKdVIxWFJRM0ZrQVBMNG1tSUxtVWREOVVqVnpKSG9nUUV0eXZvWC1IYWxFRC1tbmx2Zm5GbHB4bnVRT0xPU2JLTC0tdVh5OXFGcWM1Q3JaN2tPdWlMdkEyTkVn?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:15:14.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "릴 영역이 변하는 조건을 읽는 무료 바카라 베스트 온라인 카지노 기능 안내",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ObW9uNDZwczJGdUpnZEk5bDFCZjlncXBVX0ctVjRlUUFhOEoxS3hUN0xJNUU5RzZNczdNY2tzbzlDTkJFaExuZ2twaExRcnR4Z1JWQmN5WEdVbjE1NWhxMTdkb0YyWWc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T10:12:23.000Z",
+      "q": "동박적층판 CCL",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "스마트 폰 으로 스마트 폰 원격 제어 베스트 온라인 카지노추천 추가 규칙이 붙는 상황",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQS0lNV3dtY0Nfc3NuSFBGalM1RUJJRVNZUGcyUGNNZlRrdHhCc3hhTFdmRjdhNGNjUWtaV1FuM2EtUV9TZHZGNVBCc3ZRYU95RjZNcUd2MnhmYURESmNHTnRMdnBoR0pCQTFvc3N0dDN0NWJnZXlkUTRSRVJTTXp4bVlHaWdZaXRkRXI5cm04Rmx4UHQtc1JIWm9wRENzYW0yYXNjeWRBbko5NFhwVE9DcU9hOHdURUkwZXFiQ1drUFEzS2o1Mk9nQUJ1YTBqNXpENjF3NkpkdmxrODFfeFhBVHUxcjRrLWd2d01wOGlVQ2FaVThGWjc0bHZIMS1mdzdEMXp0cUp1T0Z0RFJWaXFqcDZDZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T09:51:02.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "[기자수첩] ‘선택과 집중’ 8년⋯LG 구광모의 대표작은 무엇인가",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WTUltc01EcHAtWWZGMTJxVDBWZHZtMXk1VWtsWUFaUDM5azN1N0NVdkIxbG80MHFqbzhXSzhma0Q3Z3ktVGNsbUo1MWR5TXdGQW9qdGE3MTAxdHNjeHFoUlQxVTdHYXVOTXVCWHdsWQ?oc=5",
+      "source": "엠투데이",
+      "published": "2026-10-08T09:48:05.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "physical",
@@ -582,6 +1787,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "외국인·기관 3조 매도 폭탄… 코스피 6600선으로 ‘후퇴’",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91d0ZVRDZQTmdyVnVlcXpnbERDS3NiUnlnbktiX1Z2VHhlNmJJN2ZqMy1pQzl6RkZsSkpfTmNLdmIyTDJQRldEdm9QVjRXeDN6Q1UyNTR2VHNWdllM?oc=5",
+      "source": "부산파이낸셜뉴스",
+      "published": "2026-10-08T09:21:00.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "BNK금융, 철강·자동차는 공급망...피지컬AI는 정책금융 연계",
@@ -600,6 +1816,50 @@
       "source": "파이낸셜뉴스",
       "published": "2026-10-08T09:18:29.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "한 가지 테마를 여러 방식으로 풀어낸 테이블탑 시뮬레이터 마작 분류",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcHdkdDUyQmdPeFowYzNIWGxiRUpaZE50bmdRd3hLZTdlMXZESHlla3ZEQ0d4NUhrT29kZk9JaGJUd0xDQWY3X3dmSUZBME1Lb2J1bHFwaVoyZnE1NVNvN01JNE9keHE0RkJpUm12ZVpyX200TzNVVWw5Q2lON2s1VmhnOVN0c3ZkZ1cyTXQ2TWVFSlU5UHludVFna2s5aTFlekxEWG1IdlAzelhPVThja19aYUlIWEdmNnNHYVp5RkJUaUM2NDVSdFBaUFEzVXRtbTQ0OXVyclJYUWVSRzBTVGhLS1JFNlNxakI0SHY4NnM5UDlVSkt4b3FrOXhFM0k?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T09:14:10.000Z",
+      "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "메뉴를 닫으면 진행이 이어지나요? 헬로우 블랙잭 1화 도움말",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHZCZW9HdjgtdmdiVndoYzhJc1RFOVd6b1NDMWNESFJJbnE1dTlHYWk5MUNSbGRGX1dlZ2FJYlQzQ0pWSkdTTDBRelFLZmdKS1h5SFI2a1U0eE5yRGpXTmhtY2JTQ1RjRHg4YXk3b2ZoRmFma1hqdVM4MmxxMWRKM0FMelhwOUVMRk9ucnlOWTR2WVpSOUlmWXlhcjhDY3E1ajkzci1BbFBGV1RtRzFsMkJ3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T09:13:38.000Z",
+      "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "[한눈에 보는 Weekly 기업 소식] 스페이스X, 엔비디아 AI 반도체 53조원어치 구입 추진",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55WnNWR3R6ZHhYbzBGbzVBYTV4WE9faU9ReHJsVHVGdVNVeE9vN2xfNHdOWExaN0QxMnZzUy1DcWh3Q3FpMExrTjI2bXFCYnJDZGtMbFBhenYya0lncWQwcldJcU1zZ0MxdWhlOdIBbEFVX3lxTE55WnNWR3R6ZHhYbzBGbzVBYTV4WE9faU9ReHJsVHVGdVNVeE9vN2xfNHdOWExaN0QxMnZzUy1DcWh3Q3FpMExrTjI2bXFCYnJDZGtMbFBhenYya0lncWQwcldJcU1zZ0MxdWhlOQ?oc=5",
+      "source": "KIPOST",
+      "published": "2026-10-08T09:12:21.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "짧은 문장으로 풀어 쓴 kr.vip 토토 게임 원리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yeWRsWmZvNVNBWTB0blMtamZKMnhReGxyTWo3dFlnNlBPWkYzQkUyNGlnY0RqZ0xzM2xTcUluWHMzVy15Nlh6MlplemFwcjlnT1pyU0l1TDhhQ1d2SWlKRTJiMUtuVjNU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T09:11:09.000Z",
+      "q": "반도체 기판",
       "related": [],
       "weight": 1
     },
@@ -654,6 +1914,28 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "도박 중독 상담 : 고급 전략과 기술 - 최신 트렌드",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQaHBlNEJjM3FYRWppYl8xZmd1QlJDT0pWQ25VV00zOXdVMktsUV9xTjRqQWdDYVBTbG04TTR1WkR1am9qdVI4Zmp0bGxUQ05YM1FrRzJoNS1lX0dTcjJvam1pSkJ2ODFvRHNsckNHcDl3MFFQcGFyZGhUYw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T09:01:58.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "코스닥 1·2부 승강제 도입…“2부 찍히면 ‘돈맥경화’ 올까 걱정”",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PWXBiWF9oQU5CaE41QXdBUUNkbTJfcVRNb09NSTlPZHhMUVYwc0NCajVCUHU2aF9BTFR3WHlOX2VkaVFsLXp1ZUdESk9VcmdrTUpGalExNmt0Wks3NzM3UWlmbw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-10-08T09:00:56.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "AI가 찾은 신약, 로봇이 만든다…멀티플라이랩스 7500만달러 투자 유치",
@@ -665,6 +1947,28 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "메뉴를 닫으면 진행이 이어지나요? 오호 카지노 도움말",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd3ZvamVUVnQtSDV0c2hpVU5Od250YVpDVkZ2emNiTFBmUVA4ZWNDalA1c05LZGxncTloWkF4QkdTcUIyR3I3Ym80YmRVdktlVktWVUdlUTBPSy01cENmeFd0UFB3ZGpiSXk2bjBvamdxbzFqWFozcGhTUnRESVdaSGFDODc5QmJTVVV4eTZkQ1EzU3VRaUY3ckh5QmV6dzNrcWl2Zko5WUVHNy0zTnpybk9TdWR4NThyUnZyZnowQ3VVLWNRb29xRExTSUJhQmQ0NVlRRVNrMjFGXzAwLVJMUmxzSTg3Tlk?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T08:56:04.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "케이티이, 코스닥 상장예비심사 승인…IPO 본격화",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcWhfUVIybDRTVkpVbERmWkxnTE9TQmRGWnBhbFBNQWhvNnJVX2JmTE1Gb1J2TWNNWVpmZTE4ZzJrdW82aGc5S0lHNkhrRzZZaVVCaGVLd0ZSWl9GeVdsVzItRTAtSU5TV0tqUXNqQ0Z4QQ?oc=5",
+      "source": "프라임경제",
+      "published": "2026-10-08T08:53:39.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "[마감시황] 10/08 코스피 -2.62%, 삼성전자 100조 실적에도 셀온",
@@ -672,6 +1976,17 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "2026-10-08T08:53:00.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "에스디생명공학 상장폐지 기로···대원제약의 선택은",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ODdKdlFSNWN1N2N1SnhlSXJma2VHaTZfSElKekdaalcweFpyb1JFcEtZLVlENXdNaWY0SGVTdUItVnV3OTZfSXpfT0xmeGkxSkZfZlRnWEphSG53dkcwRi1oY0I4dVFvUWtCMA?oc=5",
+      "source": "리얼뉴스",
+      "published": "2026-10-08T08:50:10.000Z",
+      "q": "상장 철회",
       "related": [],
       "weight": 1
     },
@@ -711,6 +2026,17 @@
       "source": "녹색경제신문",
       "published": "2026-10-08T08:42:31.000Z",
       "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "가상 크레딧 체험이 제공되나요? 코인리딩 사기 이용 정보",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1A2bUJqdkJBYzF3NTFRRkYxYzI5SU5rODYtN2ZsTkVyN3RzNGNtX29ZX25oUEhLWUxBdEdWWm5oOFpXOFN4cjE1SW1mSmNfbGVwTm51X2gwSU1zR09GblJaTV9PWHY4TEFsT3JKUUVSREQ4SE9NLVlnNTBHQXhEQ016ZmE1UVVRYnhFWDBVdkxwa3ZYaUdDX2ZkX1U0Z21DRG1jeWJCNmcyT0RUWF93NVV0ZWxNSkp3U19Ma1lLa2dyd2hSS2lIVWRiMEtqWmRZWkx5bTliX0FhT1dLX2FqbDVsNmIxbFU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T08:42:15.000Z",
+      "q": "로봇 액추에이터",
       "related": [],
       "weight": 1
     },
@@ -814,6 +2140,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "[ETF 리그테이블] [2026년 3분기] 중국 반도체 계좌 절반 녹았다…미래에셋 -45%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mbEJxby1lMk5kbVliQmdaM21ldFRMSmg3UlZUTkdJcGpoOHQwV3RfY2ZXcHFXVnN0Y3FWN2FveklFSjFoZFBOV3dxOEdreWc?oc=5",
+      "source": "딜사이트",
+      "published": "2026-10-08T08:29:53.000Z",
+      "q": "휴머노이드 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "[특징주] 바이오인프라, 상폐 절차 유예에 상한가",
@@ -891,6 +2228,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "부띠끄 토토 국내 심벌 확대 표시의 의미",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0p4MXNXU2c0aU8xQXMyU2NEMlRlT3dvMVdkaFZDNGU2Y1hxRkM0OGtER2I4ekNfRjROVGNLMElnX3NldVh3RHpZUWpHdHphRnF5d19xS3pOTGN3WHhRaGFvZGVJSlI5RnFvV2g3dlNSTTVEbXFCVDZ1aUVvVVBGOXRTUVBXZTlqYktlVU5aYjJMaWs?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T08:12:56.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "이티에듀, 청년 피지컬AI 일경험 2기 시작…입문 수요자 증가로 기초 확대, 참여자 학습 수준에 맞춘 직무훈련 설계",
@@ -898,6 +2246,17 @@
       "source": "전자신문",
       "published": "2026-10-08T08:12:34.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "아이돌 토토 도메인 2026년 애자일 개발: 현상, 본질 및 법칙",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oeGhZZ1lJTlVKQWZtNkw4VXBzSkZhb09OZkp5blJtUWZjbXlMTjI3LUZZYUozMjVWNjZXMndZemhWNHJkdWVaVFZIRmdxOVlzQmFJWVBMdDV3UGJFYXk4OV9KY2lFZG13aktVRg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T08:11:22.000Z",
+      "q": "레인보우로보틱스",
       "related": [],
       "weight": 1
     },
@@ -959,6 +2318,17 @@
       "source": "한스경제",
       "published": "2026-10-08T08:02:09.000Z",
       "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "선택형 보너스가 있다면 살펴볼 침 맞고 멍울 조작 규칙",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWMmNDaHZCTkRkRmM5MmdwYW02Z3ByNGM0Mko4OFlzQjVGUG1jZVZGQkFtZ3NTRzNlanBCZW12Z2RMM0lYZ05DY2Fma1lBZkFFSGFncEhicXF1akQ2dVY5a20wM3FBZWdZ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:58:10.000Z",
+      "q": "자회사 상장",
       "related": [],
       "weight": 1
     },
@@ -1135,6 +2505,17 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "심벌 수집 표시와 라운드 횟수, 구니 슬롯 화면 구분",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmMwOHQtamdoQjVOY0t3RjY3TVVaODRiM3FpN1g5UmUzbms0LWlXaDRZSEdYN19GVmlTa1lKamNCYTRxbFhwVFdzZUVxRTNwb3ZWREd5WXlIeXpTSmotMVZvV2ZQakY0WHY1Z29KY05Ma2xod1o1YUlxaUF5cUdtR1Y5eUw3bHhvN2VfMGJn?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:28:51.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "韓 옵션만기 끝나니 美 옵션만기 돌아오네…코스피, 다음주도 안개 속 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jdnVDX0d5R3JDRmNsMlVtVGRWUW1GTDh3Z3hxRmt5VXhtQ2pVRjRLTU1GeFp4ZjVCbElmMEVWVlZTVG9GNU52SDBJcW9UZk9CWDdYSlVTUnhGV1JLLW40c3RUNjZPd3NKQUNqQUpn0gFuQVVfeXFMT2N2dUNfR3lHckNGY2wyVW1UZFZRbUZMOHdneHFGa3lVeG1DalVGNEtNTUZ4WnhmNUJsSWYwRVZWVlNUb0Y1TnZIMElxb1RmT0JYN1hKVVNSeEZXUkstbjRzdFQ2Nk93c0pBQ2pBSmc?oc=5",
       "source": "머니투데이",
@@ -1245,6 +2626,72 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "한눈에 보는 게임 구성, 후 오비 코리아 출금 주소",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQellBOXpFNk42TGdBc1VfSnFGRUREdzQ4Q0xaX2FVVnhnd2hxR1JZQk1YOFdRamZCTGJHMVlMamdZNG5BSkkwdldHcl9VWjg5U3phUjVJQ0JfbVJOSG1zWjRnNW1qYm9SdVRUQktGLVZtclhKUDNSNDBkVW85R19PQVVFdHMydnp4YlU5ajVlMlFJc0RlTEpsdXRwUHF6a3ZKaUNyR0oyRWZKeHV1cGNJajhSTGx3RTBXcGtZTA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:20:19.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "아이엘, 전고체배터리 ‘에너지 밀도 10배’ 기술 개발",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOURwYUE1Q2M1aGRXcnlsaDVNcE45Rk1nOVVLWkhVM21CLTVocGhyWW81azhTYmI1cXZNRkFvaG45Z1l4cF8ybk42cG1VcnNCeWFrQ3QyYnUxVF9odzZXRUl0ZnItcERWNmVEUFNTSUpfTWM3MEJEb2E0OVBhZzJuaw?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-08T07:16:02.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "아이엘, 전고체배터리 '에너지 밀도 10배' 기술 개발…고용량·초고속 방전 동시 구현",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtenJVN0RZMVhqd1JLVHFQNjVmbGdmc1ktcHhrcUY4a0I5MVdHbS1UR0szeVlacHFWT1lfWUFOUFdURWZjR29KbHZOVVAydw?oc=5",
+          "source": "전자신문"
+        },
+        {
+          "title": "아이엘, 전고체배터리 에너지 밀도 10배 높이는 기술 개발",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFTGV0UXotMlZIWHpIVWtaWVgwYmtJbHBISFlhNGpyNXVPa1RWNWxDWXREclhCTlQ4T0s4UGI2Y2w5VXhnNGo5VWxXaG85UzRVNGg3Y2l4RmF0dTdZaUJBazNpSzhKUdIBU0FVX3lxTE55NXR0Q29fZDBVZF9mNm9sUkNhVkxWcHFxaGVkajFxT255V1hPM0FpZ3E1SGVXWUxPdFhtcXFicXE5Ynd5YmJNMG5weG5pbUM1TmJr?oc=5",
+          "source": "서울경제"
+        },
+        {
+          "title": "아이엘, 차세대 전고체배터리 기술 개발…에너지 밀도 10배 수준 확보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2cnRaZlR2UU92ZFBXNnNiNHRMdExoTG05d3pNcllEUmlxYkVIZmowU3JuYUlnQ0tCQmZLcnRNVndNUUtxX2o2VXQ5bHJqdlRpNEpfOXhZdmctVGtYTVhNTlJkMVk?oc=5",
+          "source": "MTN 머니투데이방송"
+        }
+      ],
+      "weight": 4
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "솔리다임, 美 IPO 주관사 선정…골드만·모건스탠리 대표 주관 - 조선비즈",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSU9WQlJKUzMtbjA0U0NXY2l0WWZ0cEludzk4a0R3aGVmWG13TXlyc1pTWDJEY1JvU3FBWF9lUkI1MHdYN0pPeG9TRFNkTldDOGF3eDRVbWRBSnYzcWRlSlZCTFZxblRaRmUxOFhjRlZSZkVKa0JEemh5X0ljZ05MZWFyVTBjOWlK0gGcAUFVX3lxTE5VVi1GeloydS00RktiQ3BpcS04dnVsRll2QmRnUkZnRlkxYktNOTBkU3dZcHlqVUVGVERmQ3h4RU1oR2lUNmY3cVZqMzllVENmYzBmc2VIU2lFTUlhdHFKeHg3dVZ0dXRWM01KV2VTTFFrSEtzYVdVc2oybi1OVVVhSVBaRkgxTVg1QXNTSndldVZfVmZlU0VaT1Bxdg?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-08T07:15:00.000Z",
+      "q": "자회사 상장",
+      "related": [
+        {
+          "title": "\"솔리다임, 美 IPO 위한 주관사 선정\"",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWmtHMUdhcUpvVE9JTlZodHRDYlpTazRNVkgzTmJqVXpCanNkbnp2ZGFoMEVVQ1FJUTUtcHJvUmFyUUU3ZGZKQ2RXck5sT1gwWFFYZkJ2clp5YmFBNWR0MUdibFZ5cU5pY3FncDgxdw?oc=5",
+          "source": "시사포커스"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "테마별 게임 목록에서 찾는 카지노 에이전트 후기 분류 기준",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fakVpbkZtN1RRcUFOV0lRV2VMY3FUZE84LS1hUzV3NmUwN1dEazFscE1WSmJxZVNzdU1zbzE4XzZDTlUxckNZOFc5SFdJNTJfVDY4cDh1YUZUZWU4QVRKcDU5bmFkTTlOTVRoU0lpdENKZkU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:12:10.000Z",
+      "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "'단종레 졸속 상장' 추궁에…이억원 \"ETF 구조 따라 기간 다를 수 있어“",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNndIbk1Ja2pOQTdCNWdTUDRiZlo0RXBuTnlPRjIxZE5NbTJTTjJXRTlqcm83WkRmNFdqb0N3VmFLWWR6MGp4c2htemV0OU1xRUxWOHc5VUNBOTFMUUtiUW1rbklqdzJseXc5SU5nN1h3TUU?oc=5",
       "source": "마켓인",
@@ -1298,6 +2745,28 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "여러 슬롯 중 구조를 비교해 보고 싶은 몬스터라이프 몬스터 슬롯",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEVtZ083Qkdib1ViOTg1WThwWkRtQ1I4UWVkVUtZWXRUbFhzbGNKanhXTkxHckxnLTVsa1JVLTBhbWliMHlvVGdaczVYNkV3VG5TUGltb295ZnQ2eWZJYWY5bGJjLXlEZU5KZEp3NnJHTGFwZjNEX3ZyX1QwdlhpQ1ZFLWo2Y21uTlNxajFDRklRVkp0V19DSW5UT243Vk9GS1JsQzZhM2tUS2FhZTU3V2tpT1I?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:04:39.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "게임 이해를 돕는 짧은 문답, 마작 4퐁",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04SmZHSl8zOXpMNlJ2cnNhRlhPbXktTlNFNnIzeWx3Ul9ocXA3a1BaMndZSkh5TmlRWDRyLWFOMXhZX0JDVm92RGJhRHFhQUZucXh0bkdGVGxuWW45cE5yZXREQVRiV1pCcmlQOFBVQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T07:03:05.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "중복상장 문턱 넘은 디티에스…AI 데이터센터 냉각 시장 공략 [IPO톡톡]",
@@ -1342,6 +2811,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "이지스자산운용, KB제32호스팩 지분 4.90%로 축소",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JYnFURkpNUW0yNGhsb25MbEVLWnVxWW5WRzlLcTI4Y2ZYUFljX0U4elBpbFkxWXdnV2NGTFdkbHZLVWQtV2pPOFJDMTBjZUx5U3JIcFFNUUNYN0ZNWFVJdjNBTmMtWFdKUkk4cW5SR0VTdw?oc=5",
+      "source": "데이터투자",
+      "published": "2026-10-08T06:59:55.000Z",
+      "q": "스팩 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "[코스닥 외국인] 주성엔지니어링·원익IPS 담고 에코프로·에코프로비엠 대량 매도",
@@ -1377,6 +2857,17 @@
       "source": "허프포스트코리아",
       "published": "2026-10-08T06:57:31.000Z",
       "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "맞고 있는 게임 분류와 테마 분류",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3FhREZhcXpoSUhIZ2gwWmdtYURaM1pPY2lHYjZwUnp2NG45ZmxZLXFNdlk3VmJsaG9mc185RTJTWksyMzY1Y1NiRzZHckJBd2hkdW1ZbEkwN3l3dEhvTk90c0pSdnd1YmNuSUF3LVNKNXFxY3J4MkNpS3EwVk5nNTZKRk9TekR6LUdkS2xHb3VLbnQxWU95MkNiWVJISzM5SzY2cndWTjRtSlpra19DdTRteWtyeUM0a3Y5eXo4NjUtcjF1VXJ1eFBaY0NfLVd1X2c?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T06:56:16.000Z",
+      "q": "휴머노이드 로봇",
       "related": [],
       "weight": 1
     },
@@ -1459,6 +2950,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "포커 잘하는 법 디시|달팽이 토토",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWhtRkp4VkNJWFpHSE1nY0hWeUdRR0p0YW1XUGVhYlY2bkdUdXRvV18zcUtGeERSTVhtT2JpSFNyc2N2UkQ4SE0tUi1GRDdmRjIxSlEyNC0wb0FCNFFYZVJIZHhwR0MwRHkxWWUtT1BfV0o2TG1rMmM1YTN4ekh3NkxDc1dleHhmZE1TWVZEN1AyY0VuYTJCTndlclYxRXNRSVNUZU1YWktXMjJXcGV1bWRadzFlSVhGRlBnZDhGZlJHc0lhRnZmTHBJSzFvYUpEeW9jU2k4aw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T06:49:59.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "[거래소 기관] SK스퀘어·SK이노베이션 샀다…삼성전자는 대거 매도",
@@ -1488,6 +2990,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-08T06:48:06.000Z",
       "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "법원 제동·상폐 절차 유예에 '시총 미달' 관리종목 일부 상한가(종합)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZkl4a2FoYks1b00tYU9ZMXJveDF4cXAzREwwUVR5azhNN1Z5bnJvQXpkODVOa1cxb3lUZ21FSm5UcGRKZ3ZZVHU1dkFTTzlUODJfdG16RmJnQ0HSAWBBVV95cUxPOGJDRXh1R3dxTE5jOUhzVW9pOFN5bHB2d2FMN1UtaDJSVWNyejR5TXVCanJ3N01XeE5uZ2h2TXZfTEhwWWkwMWdXeGV3WFp2LWVFSzJxOU1Jc1hnWkZUZE4?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-08T06:44:40.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -1540,6 +3053,17 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "09화 [피지컬AI] 로봇이 곁에 있다는 것, 일본 돌봄로봇",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zNUFGZXV5aUtUU1ZqTlJqV1c5R3l6Mjh0UjJvVENhUG5lTVR3MmJpaWs2RXdqNzFSUzRXTTNTYmhRMGFZdEE?oc=5",
+      "source": "브런치",
+      "published": "2026-10-08T06:40:10.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "physical",
@@ -1641,6 +3165,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "연출 속도와 진행 규칙은 별개인가요? 무료 스핀이 있는 슬롯",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLTd1QWtKWExYLVNENWZxZi0xT2hpSUZUQW1uZG5yRjNYUFQ4WktRMXplNVBleEtYYWNhOGNqcTVYWlFjTmhCSFhBeFZtVlJUSDVuRnFjWEtiTVVSSno1U29pOU1od2lvOXBNQkc3M2xyTllWNW5seThXYkl1OW9mU3VYWGFmWDkwSzVjMXlOQ0dPYjNDVnV4VXlhMUM5S3Z3MFZCR2NHOU1ZR1ZYd3dqV1JCTTJ5Z2RJTEk4azBSQTJWUWlrWmFsS3gtU0REcDM2eEhjMWM0WWx5RExLYmRzQ0VHM1RhQ255T0tJRjl4bjRjOXc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T06:22:03.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "[송윤서의 주경야독] 늦어지는 부실기업 퇴출…발 묶인 주주들",
@@ -1693,11 +3228,33 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "SK하이닉스 솔리다임, 美 IPO 윤곽…100억달러 공모 거론",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44VVRQbkxkOU95OWljTDFVYjVFR1p3Ynd2SVd5dUVibHdRemhIbHlCdmkzSWNDeXNhYmZLdHdobDE5V3JvS0hwclZsUzZfVlNQNkVKWVVEYldvd1Jnb0RhNGlBbk0?oc=5",
+      "source": "PRESS9",
+      "published": "2026-10-08T06:09:59.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "프리티, 80% 무상감자 일정 연기…신주 상장 12월 7일로 [공시]",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSWtFQy1hRWJ5X1FoZlRHaVVadndZRTdZOVVIVFBFSjR6bTgxd3FsVm8yU0drb1N3ZklMTkYtT3NZS3A3VlcxS1hsQkc0aGpFWUgtV0tLeE9Rdw?oc=5",
       "source": "파이낸셜뉴스",
       "published": "2026-10-08T06:08:57.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "조작이 간단한지 궁금할 때 보는 회원가입 없는 토토",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUE1LbFQxU3NRM1FoMGZaR2Q3ejZLWFl3NWVnSUdfX3MwRVZpZ2F5eG03UGo5a0pCSzVJMEJvSVB1aWpnakJndjhqcDNfTDJMTzhfN2Z5V0ZSSVVHeXdwT1pRRTlaeEJTekVUeXdCaWNCaTFVc0lMbHBsa0JIX09MVlJTb2dsYWh6WWhHZ1o5QWN2eGtpd0M0U2Z1TkJ2T29qZ2JiSjBWSXQza08tVGUwYkt1YmZ5QmY2S2RBd3RKX0twa2Z2UFE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T06:08:44.000Z",
+      "q": "반도체 기판",
       "related": [],
       "weight": 1
     },
@@ -1731,6 +3288,17 @@
       "source": "뉴시스",
       "published": "2026-10-08T06:05:55.000Z",
       "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "특수 기능이 이어지는 순서를 보는 예스 카지노슬롯보증 진행 해설",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbnk3Z0JIM2RBU3pzNjZzakZ5aE9INXpESUpjRmVmWUNJcUU5RlhQemVIR1hFTTdaazBOM0lvUVZhRjN0WGZPdm9xS2htS29uZ1d5YUpuZTFZZEFScDVtZkFTUGNDVVRsMDBpWWpQSkV4Z3dOUW5IVS1lQndxMHNVUXNvUVRRVThsQ0RiS2dKTkI4OE56QVVtbzZJd01qTUM4MkFodjJid3RSb2k0UWFVWnJzSDVUQzdkY2p4TzVfbmFnLVk1b1VwUnNqdzZReU52OXVTODBCRGlmRTZjNGdhTExXR0cyUTM2YjZsODFuVm94Mk5aS2R5bEt2XzRWTDlFenVfaGFLUzVTWHplbWxfQVBxaVhyT0h5?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T06:05:07.000Z",
+      "q": "기판 수주",
       "related": [],
       "weight": 1
     },
@@ -1916,6 +3484,39 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "단계가 많은 게임인지 비교하는 카지노 게임 사이트 뉴 헤븐 카지노 진행 구조",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IQ3RqQUFHZXVfak5VTUJFSm5abmNZaVZJajExbTMzWUtiT2pyTE9GbEU4S3RQZzV0LWQtNEJxTDUwYzNWcWxFUGN1SUt0ZUQ2SV9Fd3dVbG9sNjNTcXZxdVlaQ1NzbGpiVUhKb1BR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:50:53.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "[전북] '피지컬AI·로봇 선점' 전북 전략 조찬포럼 출범",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FeDA1MWJhSXg2NGtXRi1XNXpWcmU4WkZQTjNON3FUNWZXWE9SVzN0LW96NUVSLU5pV2psVUJMcENtMGNvSVlCcjdPcnlIY05KTVpWMzBoZm83YlpLOEE?oc=5",
+      "source": "YTN",
+      "published": "2026-10-08T05:49:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "SKC 10만원대 강보합…동박 적자 축소와 유리기판 인증 시험대",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qVklxcjBiLVFVRG5aNHBkeGxheU5HcnNyaE16Q0RGd3dtMHpMcEVaRFJLcjJiRDNSTlZGM1FoQ2JtRV9VOW9raENjcEJaM1BiRGtVY2Q0RllUS0IwdlByVHlYd2QtTk9zMm5lQXJR0gFyQVVfeXFMTzVwRWp3Q1NoSmNhTC1xTlY3X25Kb0JfamQ0aS1GVXUwaDZja0FUN2xwcnNkcVVZTndDLVZFekdqZDl5aU42Tmd3cGVOZkZXbXgzQUJ1VXFNNDd2ci1zYUYzNzRRTzA5ZktpSXo3OW1sa0JB?oc=5",
+      "source": "잡포스트",
+      "published": "2026-10-08T05:47:58.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "어떤 페이지를 먼저 볼지 알려주는 쿨벳 토토 길잡이",
@@ -2045,6 +3646,17 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "피망뉴맞고다운로드 학습을 위한 최고의 자료와 도구 - 업계 전문가들의 조언",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14eVc5TlFSRi1fMkxZdzZCZG96WUVBenViZkRENGhpUFk2QjIzRVV6LXl4Z053eVRIV2pVOXhoT3dUdjNLRzdSYjdYQldNWE9oQlFSUk9UYlBGWnZXUFlGTjFtSEhEUjBUbmtmTnh3dlVkLVY2TWdr?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:31:41.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "[더벨]성호전자 \"광통신 시장 성장에 ADST 가치 재평가 기대\" - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJMjJidEpKQWUyR3gwWUJMOG15NXEzUGJoRmNvMDNCT0FwdElub3NrUUtmNlBmMnZJaWFDblUtaFppSFY1UjhoRUp6YVVuZ08zODREZUdxTmtadEtFcHVpa1RxNlhUNmdW0gFuQVVfeXFMTXZJV0pBTUxta1VwX3FpeEo0Y25CWDktdWpiZ0pjbGxTbHNaQWtWWWg0eHg0b1lGcFJkakVPcTUzOXFHcklFczBVS0pDSVYtY3FoRVJlc3ZpY0VFSmJFX041VDRwN2hNemZQMVpqZVE?oc=5",
       "source": "머니투데이",
@@ -2161,6 +3773,17 @@
     {
       "topic": "pcb",
       "date": "2026-10-08",
+      "title": "ETF 리밸런싱 충격파 커지나…반도체·화장품·로봇 '주의보'",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02TDZ6bERlUHEzQkpZN3ZoXzd1R0ltbFduRFBCd3lWZG9ra3JZZk56QlZxX0kzODBlV1BpRTJfZnJoUkkyU1luMU9XOFU5Z1FBdFREaEo3cjlYekpUSE1lbjRCd3pHbTFHaDZZ0gFrQVVfeXFMTTZMNnpsRGVQcTNCSlk3dmhfN3VHSW1sV25EUEJ3eVZkb2trcllmTnpCVnFfSTM4MGVXUGlFMl9mcmhSSTJTWW4xT1c4VTlnUUF0VERoSjdyOVh6SlRITWVuNEJ3ekdtMUdoNlk?oc=5",
+      "source": "논객닷컴",
+      "published": "2026-10-08T05:17:26.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
       "title": "이수페타시스 12만7000원, 4.10% 상승…AI 기판 증설에 시선",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DQUtybzRQODF4Y3FYMzJqWThZWm15ZmFoSXp2ZWpzT1h5eHRuTlZfSG1MRjN3dkQtci1XbVM5TUR5YTZGUC1qMy1QWlU4SmY4YzJ1MjJOc1BPb19ZbmQ1YlJmaEp3ZlgyQkVfRTlB0gFyQVVfeXFMTlNSMm5RTVhsTjk2WHVFRlppU3JCcmIya3M2RTZ5ZVRxclFoYzhyQ0FhUllxQzZuQ0pEYzFEMHI1TXJUNTh6SnZjNFpFMThZR0VhcEs4M1FkazE2bnlDdEhBbHA5TEhMbElrYnVNa3RIRW53?oc=5",
       "source": "잡포스트",
@@ -2249,11 +3872,55 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "룰렛 무료 이미지 모바일에서 사운드가 안 들릴 때",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zWl9QbG03TmRGYlY3SG9LWXc3dDBDaWo3R3J3bElKbG9YT2poTTAtMzJxb2oySDR2QTlGdFBJY3F0dVpVbFhGRlg5YmZsclJ4SkxwXzJuM05pRkh1QlpGVl81NFRJZnVIY3h6TFFn?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:05:28.000Z",
+      "q": "쪼개기 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "AI·딥테크 투자금 회수 기대…창업투자株 다시 뛴다",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iOEJwWVMzbUY5S2JOcF9mcy1uaEFILV9PN05nV1RUSC1qMG5Gc3ZNRFBwS1lBX3ZzNGpNWEdCTFVXSE9mT1VHOWtuOHg5UHV0b1c0Q3hZRmRRSVBFZnAtcDBQaWs2T2g4Z2E0U2dBQ2MzQzFiVXJN0gF3QVVfeXFMTWI4QnBZUzNtRjlLYk5wX2ZzLW5oQUgtX083TmdXVFRILWowbkZzdk1EUHBLWUFfdnM0ak1YR0JMVVdIT2ZPVUc5a244eDlQdXRvVzRDeFlGZFFJUEVmcC1wMFBpazZPaDhnYTRTZ0FDYzNDMWJVck0?oc=5",
       "source": "핀포인트뉴스",
       "published": "2026-10-08T05:05:19.000Z",
       "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "부다페스트 카지노 호텔 누적 표시가 쓰이는 기능",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLTNGb1ZKTnhKM0hCZkRCTm55a1hYTmMzcUdfa2tuSTkwaVZHQVZPWkJGT3V5dm1ydElKVzZ0RWM0azhLanlJb205MUVRZUZQNFB5aFMycGxjZW8tbDk1ajl5QmtsRERVb2l6SXd6TDBEOWN2LWtEcmEyeTFvaXNVVWJFV05xNVJJeThFTzlNUTdqV2FPMXJyYkhZTFRGTWd0YlpqMXZBdVVvQnNwYzh1UjltR1piSllEOVBaTl9HWVFLTkhCUHJtZzJkeUhfTF9CVGtZZWtFLUc5bkQyeEZ6MXFpRzhrcTIxWGpITzRTdnJnOGM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:04:55.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "첫 화면에서 보이는 티씨케이 주가 주요 메뉴 지도",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1JSclc4cUI5MVVjdV9mRnpIQ2RMTDZhSkY5OGNMRUhHNkh1QzdRUHptNTZobW81azBoLVUzX3dzWGt2RUNjLXpfN3hsXy1kRkNoMHB3SFF6cEJSanhKUjllT1R5T01YUTNid1ZMaF9BSGFCWFUxcTJDZTdsNHdDZzUwdWxiblVzZkpOUEtGcTR5UDl0eWRlX2wtaGctck9IdlpMcDZIMnlBRGVBbUZR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:04:52.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "심벌 설명에 없는 조합은 어디서 찾나요? 네이버에 사이트 등록",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FJUnZkSjlDNDJnNm1leXQzODVCek9qUWR6eWptNXZQWkRVRFlKcXJiZ0luRGR0Tk55ZVRfOTRueXUtZFV0SXhTQnZWVHA1TDhBVTI4emVJeGlYbXFYdjVuQWc3anQtTjBMckFvV0QxdXZRZnNiZlBHZ29JYnNzSzdtcHFUbVZvN2ZMZGhEZmZLMjFBSkxhb3lSRkJ0cFVoY3k1dTBoSDlqSHdVN08wZ0x0bFhnOFBGSDE1X2pjNUpkX0wtdE1Vd3VtOFFldjhwQVpFdi1kOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T05:04:48.000Z",
+      "q": "피지컬 AI",
       "related": [],
       "weight": 1
     },
@@ -2295,6 +3962,28 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "플레이 화면과 홍보 이미지를 구분해 보는 파워볼 1등 당첨금",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEJZZUw1QW42dnNZdnd6SUhkSVJpZnVobGFKWmFLUWtmZ1V5aXFKVUoySDhvQjNPeWRnRkRZemNydDhlS0I3SmpUV254SmxQdzY2M1J6M1RMdzdHZnZXYmlrNDZGN0FHdTJMRVcwV2hUZVhDdWM3Z1BTTklBNFRsQnR1R0hlM1VaNzZMUklXNVVZejBQa2ZJTGZYTXpDRzRnWXJxTHFSWDVUdkxxQTNvZFVpa2Roa3FYQ1NfTzBQeFdzTDNGMTRNYzFnSnF3OURRYV95empXaTZ4ZGJCaDNYTW5LbWhBc0R0S3VrNXpJaGVUWW9kV0phbV9QOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:56:22.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "처음 읽는 게임 정보에서 찾을 포 퀸즈 카지노 핵심 내용",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX0N5bzFwTzYyc0RFYUpKOUI0OWs4a000LTVpSDJleVczMkdMRVFSNjRTeFBZZGpqQ1JtZWV4Qno3MGJXYXQySGJBYVgxemRCSHhwWnZIU2ZXQmxSaVFNSkV1dkU5RzNUeF9fNkJSVmdLQ1V3S1d6TXd1ejdZUWNxeWVfMlVpWmg2VG8xRWQtYmZUdW1UY3NDZlJpSVlsY0hsenZhcXlGSEJXTUplUU1kcDk0Z3VVUnNhcG14RjN3cnJVekpudHpiSDAwUWlITk8xck5TcGR2QmIyR2FwR3lRdFhpenlEQ2NwQU83dGNiaERfU3FrTDdmUg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:52:48.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "physical",
@@ -2375,6 +4064,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "안철수 \"최태원, 주주 통수칠 생각 말라…솔리다임 IPO, 합니까 맙니까\"",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KQ1d3ZWgtaV9zVUlMWXdTRXZtLVB6Vkk2LXRPeFRHeDZKY2FyQnhRRWRPVGtNREljRy03X01oSW1ka05VZmRsNklPemM3MXY0a1YzTDdfaW1NZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-08T04:41:57.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "LG전자, 세계 185개국 청소년 앞에 ‘클로이드’ 세웠다⋯피지컬AI 미래 비전 알린다",
@@ -2382,6 +4082,17 @@
       "source": "엠투데이",
       "published": "2026-10-08T04:40:00.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "카지노 크랭크인 안내 창의 확인 버튼 역할",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0hETlA0NVhfaHdQMWRTbHcxSkhqTjhrZ3JtU0JCWVZQcmRMbjNaZGFOVzdKN0pSVkNXRGFPTHFyMmd3NmE4dVJjLUZZcHgtZk03aTFpWDJXTTl0bXA1VnNXYlpBemVsNDZSV2lBMW9tQWQ2VnNCOVZMdHE0ZDlSOUdWV2tUTWdiOWJPSGpFVGJvMy12bURBR3k4RmxLUk5FTUpwZGlVNHRrRjh2NmZYTEJaNXRrZXhLTW8xVmQwVWlpNVlLRHh2RmQ2NDZORFpENFdKYS1SNjVhQTJr?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:37:15.000Z",
+      "q": "반도체 기판 증설",
       "related": [],
       "weight": 1
     },
@@ -2426,6 +4137,17 @@
       "source": "전자신문",
       "published": "2026-10-08T04:30:00.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "낯선 약어 때문에 멈췄다면, 토스되는 토토사이트",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTFNUm5kVUtVUWVSYlJMZnh5bnN1THY3dEphOTdqc19WemdSNGVhVjg4QWJqWEhWRmU1MHVqNzZUX1BtaXVuY3kzZGZjdzhJMVFzNUF5ejhOM0ZnWXZHNy1pU2R4d3Q5WF83eFNfMDZPdzBCbW9vYlFiYWlQS1hSVlIyR2JKZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:26:44.000Z",
+      "q": "대덕전자",
       "related": [],
       "weight": 1
     },
@@ -2490,6 +4212,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "마카오 카지노 음료 도움말의 그림과 숫자 읽기",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00eThHcHA3d2daS2NvWHVzYklVeG9ucXJVQkZlZ0FFZGpCb0JsMm4yOTFMMFRwTHM3ODhtUHlMUDRqSDZZUDNYNG5yWVFGZ3NTb3kxcndPRFpydFlxLTJEQ3lVQXZDQk1TYUFqa3lmaw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:06:26.000Z",
+      "q": "테슬라 옵티머스",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "시총 미달 상폐 '일시정지'…59개사 시간 벌었다",
@@ -2508,6 +4241,17 @@
       "source": "로봇신문",
       "published": "2026-10-08T04:05:06.000Z",
       "q": "산업용 로봇 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "뉴타운 카지노 무료 신용 심벌 강조 표시 해설",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pZTgxWDBjOThaUWJsNDJmZnZUYlp4UEZIbzF3SGJFOEI2Z3lfclZSdDRUYUVNMTczcjk3LUFDRmVESmM2eG1EdUtKQWtQNWNOdFBPNVZ0TGNRWjcwQzhBTGF2d1QwelNqVGJ2bVJ3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T04:01:48.000Z",
+      "q": "테슬라 옵티머스",
       "related": [],
       "weight": 1
     },
@@ -2666,6 +4410,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "기능 설명의 순서가 중요한 토토 100배 세금 규칙 항목",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeXhWSExTVkFMWk56Uy1VLUdGem41bkxaTnp1SFk1SHc4ckV6NS1pZ2JUNFZVWTk5b1FTNnFkd3pZUW12R3hfSklZNEVIX0UwbDV3TjVnN2RrWG9GcE9KdEE2THFscFpYbm1adEpR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T03:27:29.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "“수주 절벽에 공사대금 회수 부담까지”…전문건설업계 ‘버티기’ 한계",
@@ -2673,6 +4428,17 @@
       "source": "녹색경제신문",
       "published": "2026-10-08T03:27:22.000Z",
       "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "토토리 세계 명작 보너스 기능이 있는지 확인하는 곳",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeW1WWl9Td2tNN09kaHo2a3VPamJOOEE0dlpzS2lYdjJwMUdkWVNUeUlXdXVsNkNfMGwxTG9CU1YzT1dSaFQ4VVlmMjNzSW5ZV1NNY3NEcE1wR3hsS1ZTRmtLT0tfdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T03:26:38.000Z",
+      "q": "상장폐지 요건",
       "related": [],
       "weight": 1
     },
@@ -2782,6 +4548,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "“인간 vs 휴머노이드 로봇 매치 중단해라”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oN21YTVhVQ3p3Ulg4TW5tR1NNb05zRzhEQWZla1BCYWtmeG5iZ3NsbjVKcUwweUxZRTJVRnpVWmgtaWtSYjZSMXFkbTg2N2JoZnd2d3FPOWpMUGJtZWc?oc=5",
+      "source": "스타트업레시피",
+      "published": "2026-10-08T03:00:55.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "알테오젠, 한 달 반 새 공장·증자·합병 결정…'ALT-B4 다음' 체제로 간다",
@@ -2817,6 +4594,39 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "퍼스트디지털, 3348억원 가치로 나스닥 우회상장 추진",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YRExXQ0VUaFU4azhwV2pXMjFaME9RenlPVkxKLWxZVlQzTDNWRDFWckJpSDBlalhUYklJeHA0aVlmMm1IaGRYY0xrenBzOThTcHlacjhUUlc?oc=5",
+      "source": "토큰포스트",
+      "published": "2026-10-08T02:57:52.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "증권가 \"LG전자 3Q 실적 아쉽지만 AI 데이터센터 냉각·로봇 성장성 무게\"",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQnRoS1R1bzRCVWYySEEtektBS3V2UE0zRmxWR2I1Vl9tNTR3TTZtN2VDMVpicW41ZUgySFZRWk4tbThMNk94Z3ZxOXU4cTR2WVc5dFRPQ09nbm5fQ1dFNElsY2oyUW0zVmlBUg?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "published": "2026-10-08T02:52:18.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "로보티즈, AI 페스타서 세미 휴머노이드 'AI 워커' 선봬",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BUEY4bkp0N0Y4eXVnSU5MN2Q1NWgydngtelI5QW9Kd0JlTmsweW4wbGtvcC1GMTJ0elY4R1RpTWdIc1R3bWwwbThBaVZZNmdaN1FqaXRR?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-10-08T02:49:20.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "동정/즉시/세종, 제3회 자본시장·M&A 세미나 개최",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITUUtWm10U2gyOEt4UTFuN09FNDRpc1p6bzI1a0FYQVFMR2dIUW80TTRkTzlveW8zLWVQZlkzVk0xZjE2SndJVC1FWmJjeTNTZEJLbENYbjJ0RHg1MXdyMWxaU2VIOGFxbS1xT1NB0gFyQVVfeXFMTXJpVUJiRnk4MFlRbFlyMUNzR0VMYzkydklJMkV6X3ROLWxFOUV4VE9CcV9zR1BRSDFtTHg1YUhqbkR3TlhaYV9fU1NIcldfb0V2TkxBNThvZWZKRjh0YnRFRU9vM0tuRFNOaXpOZGdYdGxR?oc=5",
       "source": "법률신문",
@@ -2832,6 +4642,28 @@
       "weight": 2
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "형지I&C 주가 장중 상한가, '시가총액 미달' 상장폐지 유예에 관련주 급등",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MYTJQNHp0S3RQTndNZ2tXWlI1OFIzZ3JlT3hua3RVUDZGbFB4Z3BJOWRyMDB6M3p3cGpQdXEzSkFmX2pDT2ZacWh5aTJYSUlrVnYxcmNnNzlMLUFWVFc3Ml9vWXBub090Y2ktcVZfMlZadlU?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-10-08T02:44:30.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "제논, 코스닥 상장 공모 돌입…희망가 9700~1만2200원",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zdjRCbjUwSWdqN2k0Q2hWOTluaGFSdzYwSkFJWTZsNUNQZjg0cUt0dng0dl9TaFVKYnhFZVNQNzNpUEZ0djRiOHVzTHByaXdQMEF2Q2x2STNqTWRpbVo5UFMwcmhFeG0wSURvZnZPSVdtaWF60gF0QVVfeXFMTnN2NEJuNTBJZ2o3aTRDaFY5OW5oYVJ3NjBKQUlZNmw1Q1BmODRxS3R2eDR2X1NoVUpieEVlU1A3M2lQRnR2NGI4dXNMcHJpd1AwQXZDbHZJM2pNZGltWjlQUzByaEV4bTBJRG9mdk9JV21pYXo?oc=5",
+      "source": "IT조선",
+      "published": "2026-10-08T02:42:44.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "[특징주] 비아트론, 삼성전기와 차세대 유리기판 핵심 '글라스본더' 공동개발··연내 공급 개시에 '연일 강세'",
@@ -2839,6 +4671,28 @@
       "source": "데이터투자",
       "published": "2026-10-08T02:40:22.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "전북 피지컬AI, 제조현장 수요를 국가사업으로 잇는다",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DQU1CRkxsSDh0Mk1DZ3BYaS1FcXR5RlU3Qk54SnMtanpDQVdCd2ZYTVVXM1VmdEo2MF85NGk4cWtoSHI3NXlyY3MzWDBWUXpvWUllc3VTb05HOWg1QVpPdVRreHU2WHliUHF3eDJOYmp5V0JrbEZR0gF3QVVfeXFMTUNBTUJGTGxIOHQyTUNncFhpLUVxdHlGVTdCTnhKcy1qekNBV0J3ZlhNVVczVWZ0SjYwXzk0aThxa2hIcjc1eXJjczNYMFZRem9ZSWVzdVNvTkc5aDVBWk91VGt4dTZYeWJQcXd4Mk5ianlXQmtsRlE?oc=5",
+      "source": "뉴스프리존",
+      "published": "2026-10-08T02:39:02.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "‘제노스’ 앞세운 제논, 코스닥 공모 돌입...AI 에이전트·피지컬 AI 강화",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MVmtBX0c1eGpqaV80SWREVnR5eTltbkVkM2ZKU0FxYktxM0t5N2hSWHdrQTdfWXY3bU0xMnREVkQ4YVNEaHVBc3htbnEwbnB1MUhxV2hDenpNYnN4UW1RUk1lYzJaTVRiLXdJ?oc=5",
+      "source": "더에이아이",
+      "published": "2026-10-08T02:38:53.000Z",
+      "q": "코스닥 상장",
       "related": [],
       "weight": 1
     },
@@ -2863,6 +4717,17 @@
         }
       ],
       "weight": 3
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[기획] 고팍스 3분기 상장 0개·상장 폐지 6개",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USmVzSzllZ2FpRENCM09TZHBmWFlHbU8zZFR1dFZVOHMwc3ByY3FVZlZFOFBRYjQxWkdCcC01ZUd1bElMVVZ6U3EyY3VoeUpLeWphUVhJZjVxRGhuQk51bFBfVzVMRDhIQTg4?oc=5",
+      "source": "내외경제TV",
+      "published": "2026-10-08T02:35:40.000Z",
+      "q": "상장 철회",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "listing",
@@ -2898,6 +4763,105 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "새로운 기능이 추가됐는지 보는 나이아가라 캐나다 카지노 변경 정보",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVFRVURGdlNYcWlhZ2Q3RHFGbFlxWjJYbHVXTEFPa2Y5UUdoRk43U1ZkNlFKdFpycU1nXzlScmFWTnlxVVRKamNNajU0eEN0LUlKZS1BZWJTNmQzX1VFXzlwMzZFU3FIQzFUQ2huQ1lkLThGcXR3Y182ZXBvYlZHRFRZQ3NWaXJEMnlwbW1qVWV2NVM3YzdZ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:29:33.000Z",
+      "q": "테슬라 옵티머스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "짧게 읽는 기본 규칙, 강남 사설 카지노",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdjExeFFOTlRySkpHdFJIMlF1QU5SOVFyak1NbTRMWEtubzBsOXlqalZrOW1aWjF6U3h1cHh4U3pscWlEWlNTYzhiRmtHTnZsc0pBZV9zUjNGZnJGZ3FYejRaVUZaWGNyU2YtZnJNVjRnbjIwS3hJSzNpWDNzd2ltck1QQkNlVzc3YXV6bVN5QmlzbnhGZmI0b3FOQV9IeURkMjJteDN6cmlhaVNJWXhSdmdLSm1vU3ZIV3M5RDEzUmtCUERBTnYxZnRtV09DaGpvd05ZLU14Z0xmSWFOQUo4VUF1dGVGVUNzNnZoTlRRZlNNRElzbzU5SFBOeG9MZ3M?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:27:37.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "얼어붙은 3분기 IPO 시장…무신사·소노, 구원투수될까",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uM0huZlg4TGd6Ty14TFVpSngyOFh2S0JLdEhfaXA4S3dGYnlmdWgyaTh0a1pXTy1CQnkwZjZpZ3dNYTgtbUZZbHlldGNOR3lOWHJoYXRn?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-08T02:21:57.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "금액 표시와 크레딧 표시를 구분하는 일요경마 시간",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ya21CYzBOQTZfYXNQZkh2R0hjN21VVE9ick1fd2hzdExlOUZXdFVnS1VQUENiU1ZTdTJxclNuNDNKdWNVTzc1Mm9xNE1oQndZUHN6VVdaaXpGOUVWazdkRW5nWWFYdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:18:39.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "코스닥 첫 관문 뚫은 ‘엔키화이트햇·마더스제약’ 상장일은?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqY0VfaTF1VWxhZWZOT01aZFhKa05qckNWbjl1MmItcDk4LXRfNE5MVmNMdlQxZmJkeFFpTEJobzVDRk1rTGdDeVoxRkE0bTI5Z1hCS0tRMXlxTEcwNFV0R0k2Tl80T09pZlhmbw?oc=5",
+      "source": "뉴스웰",
+      "published": "2026-10-08T02:18:32.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "배당표에 없는 심벌이 보이면? 슈퍼 카지노 쿠폰 기능 확인",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYUR2OXlUd3Q3ZFRlVnMybWR0TzdQQVZIWm1ZRnJGcWU0RWFTekFkTi01WTVKaW85RDRHeDJKSHl0WE95UklJNE1pb21Pc2NJM0VPVHcwTHRXZm4wSm1QSGhYZDFvLWtkM3JJck10cG1tNzZjdHI3Y2lvclNfWExSRVZBTlRKZ05wSmtsQm9oSG9CZTNIbjhjYXJIN01tQjkySml6UzNjVDkzLTRYNzBuZE9kNzdGQ3RFZHRJZ0pOZHd2bDRSb3BhUXkwamZxRXpsZENxRnZsRnZWeW1XY29UUTNULXdKVUxoVlBTNGMzWQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:18:21.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "도박중독 후기 디시 의료인를 위한 알고리즘 설계 실전 기술",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94bldyQ2E4ZGRuZXNDOWR0LVBJeFNkeElvTDJRZURWYlp0UjlQSEJoTDVTa3p2RDMwWVZhRmROcGlvYmJZclFfZ3RsVWVzUTUzNXNLTGZZaXdQck1MU2d1RkRTSXhpUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:17:42.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "블룸버그 \"솔리다임 美 상장 주관사 선정\"… SK하이닉스 주주가치 훼손 논란 가열",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vZnNzTmRTZlJZNU5HaHNTQWRyVG5ZS0V3NUNOY3BpaVhkT0lCcEZPa1FaeUVaVGVwRHpDS3J4MVo3MGFaNEw2R3I4Tk9ES1E0d2ZZZ25BQ2pmeVJOMlhoSUhDWU03SEpLOTdTT2gyRWhjTl9QVHc?oc=5",
+      "source": "인포스탁데일리",
+      "published": "2026-10-08T02:15:36.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "코스피, 장중 낙폭 다소 축소…삼전 약보합·닉스 2%대 상승",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9naWwzbXNFS0Q2X01zNEZhSXdzLWtLVXJlb1BCRzV4dzh2YVpkUjhMY3o4SHlubW9FQi1BNTBBaldTUFI1WklHR19mY2tTbWFvVldjSDJ6RjM4RXN2SWRIUdIBYEFVX3lxTE9naWwzbXNFS0Q2X01zNEZhSXdzLWtLVXJlb1BCRzV4dzh2YVpkUjhMY3o4SHlubW9FQi1BNTBBaldTUFI1WklHR19mY2tTbWFvVldjSDJ6RjM4RXN2SWRIUQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-08T02:15:17.000Z",
+      "q": "레인보우로보틱스",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "SKC, 유리기판 홀로 떠안고 동박 빚보증까지 '이중고'",
@@ -2905,6 +4869,17 @@
       "source": "리드경제",
       "published": "2026-10-08T02:15:00.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "제이에스링크, 린나스와 희토류 동맹…말레이 자석공장 3000t 증설",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00NFJmNkxPUVhCVVZSb1N6Ty1tem54ZloyY0VxYjBpdjd3X1U1U2FKRFNuSlpkNW1VSUJMRWh1cHBRb0xXZ2QyRnh3THVNNHd0TE1zT2otYnZpam9RZ0hMYzJMWWRENzhlckVBcGxkZzI?oc=5",
+      "source": "리드경제",
+      "published": "2026-10-08T02:15:00.000Z",
+      "q": "로봇 액추에이터",
       "related": [],
       "weight": 1
     },
@@ -2920,6 +4895,72 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "바카라 지도 게임 버전에 따른 정보 확인",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEtzRHVrUFY1WjRyOGZZeXoyYlE0ZFlUazZlT0RGZV9vRWJsZUREZEd3NHZEMXB2bnpHUEpoTi0ycVNpTXVHdkczZE5oSTJfYnZzNlNLb1lZX3hWTHJXaDN5TF81NHpKYy1RaXNYeno0ZXYxYWZ5M3R5bkhfQS1La0JGMVRrOGVBalJYdHBRTk42U1N6M2hIQ1RZaEphb0dPcDdSZmgwQlNxa3c?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:13:44.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "NVIDIA Isaac ROS 5.0, 에이전틱 오픈 소스 로보틱스 개발을 앞당기다",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1o1Qi1ENjBaY1UzemV6cnZHejlGUkZpbmRfRzdIZHZwZ0N5TFhfVUtoM3k5emJuNVBYaUJFMFdFNFYwMnBtMm9oSldmVGVOXzBRcjRWel9qVmtXX1R0djdqUmd4THdsN21LN0MxbkJEV1d0QWpGVnZDWlByemtBVA?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-10-08T02:13:17.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "‘삼성 투자’ 월든, 美 동·서부 거점 확대…생산라인에 로봇 투입",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzNNaFhhXzRwdzRQWlBqd05ZenlTYzM4aUY4Y0w0ZjlWaUVEMW0wMmhlZ1ZzNE9tLU52Q3hsdUZZTlJtMVlULUxfVm1ic25GN0VaRktlNmM5MDFvQzdPdTlIVDFVZ3YwVG80VXAyUmVlRkl2N01oUHlhSWRuZ2FQWA?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-08T02:12:30.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "프리스핀 중 남은 횟수는 어디에? defi 이더 리움",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYm5zNUhHWmFudnFLeS1IQTF5NGNJLTZhMFNLZ0l5eE9maW1VZHlFc3hhaTBaNGg4ajNBWW9zM0lKT0FZbnJmRlFPMkhTSVFJTGpQUUNyMTZBdExodlVkMzl4aGk4VjdsRWNWREVBeDhnNFdxQ2lXQlcxZUhvcVRtNWY1YUNDODdDN3hOeEhIdWVpYjJhU3k4blFDWi1DdUM3ZDVaNGkwMFNkSm4xa25NbTlwZnVURGNURzBCWmdELXU1RVEwVktzWTJHYVVGUzNCUGFWdTY1dw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:11:10.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "연금복권 보너스 추가 규칙이 붙는 상황",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDVYWVhTaFNPclkxanJQeTJsdHFja3BBcm9qN0MzZTN6YkJPeXNzYTYzeHlEVG1kLU5rRjY0WUdES3VGdDM4RWdxaEZ3a1IxcTNaQnA1alBjS2gxLWNmaFhpSkhvSVlmTkN2R29pUUxMbVlJRnczYW1VSDFVVVZRTmZMNW43QzJsSWpibk5SMFgwcWd1NDNRM1J6MlYtZVo1SFp3N0RsRDRDTWZ3bWhMckFKVlg4eE1mM3lsM2VRTEpjSHFDRU1RNnlKMzVOZHFkd1BrRm9xcGQ1WERpcnRvdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:09:32.000Z",
+      "q": "휴머노이드 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "일동제약, 2년새 510억 계열사 지분 취득...IPO 지연에 바뀌는 투자 전략",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uMnF4YV80bEJtN3F2cks3dVAwcjR0VDd0MDA3WUZDdVRYOUstVlFENnYxd29UbDE5WGh3YXVLbGEyRTRka0xpMC11RGdPNjFDcnFrNVc4MVRwd0xaWGdCYlJESkpheURm?oc=5",
+      "source": "메디팜스투데이",
+      "published": "2026-10-08T02:09:31.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "대덕전자 주가, 10월 8일 장중 160,000원 5.75% 상승",
@@ -2927,6 +4968,17 @@
       "source": "TopStarNews",
       "published": "2026-10-08T02:07:39.000Z",
       "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "다른 슬롯과 비교할 때 보는 바카라 카지노 슬롯 5배 릴 구성",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHZLUFk4bU9HOF9nNjhkM1dTQW51Q0JtOUwxMENLRkNydGhRUzdKMkxCdFFFNkh3dnZfT2oxWXVmWjZSNTktSnMxVlNDLVM3WDFUV3FKNUJZc2JSSU84VjJrZ0YtOXRpM290a2l0c01FX0ZpdDFHME1HV1ByODZLV2oxYzBoWjdUYThlek9DVGZTa0lWblNXencxSHVvcEdoOHdDNk05OVUzeXoyQVZJczVtcTBzTWphcFVuaTFIYW0?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T02:04:30.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -2949,6 +5001,61 @@
       "source": "한국신용신문",
       "published": "2026-10-08T02:04:00.000Z",
       "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "23∼24일 서울숲서 AI 축제…\"AI와 오목 둔다\"",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeERFUWxYNUxiWDdkZ3RiNk5NdWdFMWhmdWJwMnNHU2s2SXg2MlJVZXlzUDBvQnBUdk1ERGx0VDhOTVJUZi1CSEVqcUR6ZTJWZm5EZUxEbl9NeFBMajhEQ2lZSHZudC0yQU84QldmWE1pOVM4RTZTX3V2YWxEMU5QQnE2eHNfQlJIYl9j?oc=5",
+      "source": "TBS 서울",
+      "published": "2026-10-08T02:03:00.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "\"시총 미달 퇴출 멈춰라\" 법원 제동…코스피·코스닥 59곳 일단 기사회생",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51aHYwMTBfQXBPR3Y5czUzVnRIX1ZqcG1xU1RfVmFrV1VxUWxkMzByR2E3Wm81MXM2SVdUbDVuRWd5VlJsNTlGNzNPWWxCaElreVlyUXV1b0J1bzQyU1dkQzNOVTZkQlV3?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-10-08T02:02:32.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "[글로벌 마켓노트]피지컬 AI 뛰어드는 日 기업, 최고 무기는 현장경험·데이터",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xNExQQVFkaEx5SEt4TFhNM1BUSzhIMDVReW5VUmdKZ2lxVWpHVXdieFkwbDQzZ0t3X2FIeExMSXBXRWNlaDBHT3VvSndUeGIzTlZSN2lCQmVZZzNKczZWYQ?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-08T02:01:25.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[공모주 현황] 엘리스그룹, 균등배정 2주대…공모가 9만500원·최소 청약증거금 90만5000원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IcE1mY20xNjNHOHQ2ZkFPSm1BcG8xSEUxTWZVWU84VE5aQ2R6R2VhYkFVWTRNeGlJdHdpbTFBRDV5cThHVEVZSEo3Mm9QRThaNGlkSEt4amo0bEZ6czJoOXNDQXlJbGI0?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-10-08T01:58:20.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "\"미래에셋 '스페이스X 0주' 사태, 물량 확정전 1조 청약증거금 접수\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRlBETk83SlRKa0NVc21JTzJqQmFzVzYxTVZsODI1YnJkQjhqUnI1LVdBVzhUZTREZzg1bjVIZHJrNkNWbDAyYkM3eWh2STBmUng0OXp4N0xIdDg?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-08T01:56:55.000Z",
+      "q": "IPO 공모주",
       "related": [],
       "weight": 1
     },
@@ -2981,6 +5088,72 @@
       "weight": 2
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "포커 게임 알고리즘 메뉴 아이콘 뜻풀이",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVdfbWdETFVKZDkwSUtVRHdLdlg1amhnWmgtem8xWDBBdTdCSXlNOHROcEluZ29VU25tNEFQV2hlUWQ0VXgwbFBtOFQ0aC1PWUpNVnd2VjUzRWxzR3cxdndvVExJQm5ZTlFTQUMwdURMNm9kTWlWejVpVFF5RmdpRkg2MHVrYnRNV1JGUmo4b19rRWRvNTJIVlBXUGtEV3NMS3RXRGFpYVo3cWM0SXZKVFRUTVJaVDBrZEU3Vy1VY19CNEhiZ1lvSHAyNG1aVm84?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:52:13.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "특징주, 네오티스-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 8.33% ↑",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eXZtWXZ6eWx6dHJ4TWtoQ1dqdUozSHRwbmhYSHBHbWJsRTJKOFc3aWQ1NERGQldiZWJ2cWpNYnFBc2txWWJNTFh4b0NWaVBYUmc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-10-08T01:51:44.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "상폐 직전 '마지막 카드' 꺼냈다…에스디생명공학 정리매매 전격 보류",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbms0MmlZcWU2WGxQcnNuTWk4ZTVmUHdpWjlqYjdvVFhFRXFIbWEtNlVyaU5mNGNqNUV1Ukh5M1owRVo4UTY0OVlyaTN1cHZxU2JsN3ZFMGs4c05FTllZUWZHcWVQc2F5?oc=5",
+      "source": "www.ebn.co.kr",
+      "published": "2026-10-08T01:50:00.000Z",
+      "q": "상장 철회",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "위즈코어, AI-RAN 기반 피지컬 AI로 자율 제조 실증 사례 소개",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkVsNGU0ZnVaOVhPeC1kSzJFY0x3dlVzci0ydk1OTUh2VXlDLWtfNHlLU3dZLUlPWXVMSF8zanVsSk5YcVVwNUVxRWltVUs4aWVtcnB2T2FXckFScWpaSklEYXlib2N2SnF5OXRXVEtycFB6b1BMQ29TOTNMWE1CUjVnbEp0RFF3V2JFQURn?oc=5",
+      "source": "캐드앤그래픽스",
+      "published": "2026-10-08T01:48:03.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "제동 걸린 상폐…형지I&C 등 관리종목 급등세 [이런국장 저런주식]",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZkU0UnltWUVyOUZaekFsLWJOUG1fUFI3eExSckxKMGJVRVdIV3VFOXpEbU1TNFNfYkN6RGNiYUk3bGw5cUJRSkh6dDAtNjQyWHdaUk1n?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-08T01:47:27.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "도움말의 제한 조건을 따로 읽는 룰렛 판 게임 참고 안내",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXbjNwZWRZNGhjMm1oZEZzVFM5d1A3VmdzdDhjU3RPOTJfRzVsSVl5dURmY01GWURRU0o2cTY4aV9mQjNkNnpsQU1oMkhFdzE3NFhtVmRXTGJvZVZUTV91Z1pacEg1U3FLVlNNR0hHWU9wSXdjbDRueQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:47:21.000Z",
+      "q": "휴머노이드 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "\"ETF 리밸런싱에 단기 수급 충격 예상…화장품·로봇 유의\"",
@@ -2999,6 +5172,127 @@
       "source": "금강일보",
       "published": "2026-10-08T01:44:19.000Z",
       "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "유온로보틱스, 성주월항농협 APC와 공급 계약…피지컬AI 매출 본격화",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93anhxRTZ5MjFEMjlIcXdRUGRzMzNid1ZlWkhPOGNsdG9NZ2pGOGVlTE9rcHBhdmVIbmxLNjdOUUR4ci1TZW9CelBHdS1TRVZOY1lRcThmTFBlZFhIUUROb2djSUNYMjk3akJPNQ?oc=5",
+      "source": "로봇신문",
+      "published": "2026-10-08T01:44:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "블루오리진, 100억弗 투자유치… 베이조스 “수년 뒤 IPO 가능”",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xbFQ5ZnE3djNWYkN6LU9QTmtiZHJENTVhSk8yQ0FlTnFWNm9EMnJDZ3BNVUh4OVBWaVlnNjkwanJmUk91NVk4SGRpVGNqYXhRN1hhNEV2RDhnRmsyeV80RDUxVE5jMUJIRkc2alJJcjTSAXRBVV95cUxQZXZSUmN3MEVKcW5zcndsNFE2ZDk4OENrUldqOUFfbU43MWlvV25kQkpIWDBqWDFmQ2gxNzhrTEZBcmxYR3NGYXNoQkt0eExRaU5veUNuRXJjdjVBSXhqbHNqUnVqZnZWR0xHaWcyM1hWMGVTbA?oc=5",
+      "source": "IT조선",
+      "published": "2026-10-08T01:43:30.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "확률 수치를 단기 결과로 읽으면 안 되는 이유, 카지노 시즌2 6화 요약",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwRjI0cS01dHROMFhNSGhYWnlEMXE2eWo0bm92S2xnUVJJWUF0RnpocGRLWXZHZ1pYQVRCVEE1WGloQzU1UGp6TjZHWGJzLTVXakduemhpOUtsbUdIcFAyYlhpSWN1TWpyam9YNm93?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:41:55.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "프리스핀 횟수 표시가 있다면? 용 8 카지노 화면 해설",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDkxTXA2YmtmV1pMRHVSemxFOEVGZmhpSjFYYUcxZUlkS3U3LThCRW5yODhZZkVZWnZJZExFZHpqcE1oVXFPQXA0RERJSWduc1M5cnJCeVVuZkMwZ0RxTHVKQWppdTlBenY0ZGdlaVZqNkd1RkdxZW1kang5dFdCVmZKTDhOR1VfaWVDbkc0S0RPa2x2SFNWRFpicXhvSlR3N2lMaWNOSWZySUxrcG04VmFiRGk?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:39:41.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "“산불 나면 로봇이 출동”…185개국 청소년들, 송도서 로봇 대결",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ESHdNZlZRVE5JbDVrT3pFYnJDdjJ6OC1fOHlpXzBXakNZcEMxY0ZscklJMUNvSGJsaVlyeTdrNTVnWW9tQWc?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-08T01:36:50.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[특징주] 법원 ‘시총 미달’ 상장폐지 제동에…형지I&C 등 관리종목 줄상한가",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UNHhqc1pWLXk5UmV4bFE0UER1NV9vNjlQQVJEcURaM0czaVh5dFZqZWFCeGttcEpYZ3A1dWFMV2RsOC1raGxiLTZnaE5aNDhhOGdoVzJZcE9rWTV5TlYwT3BOT2QxUWthLUE?oc=5",
+      "source": "https://www.moneystorm.kr/",
+      "published": "2026-10-08T01:34:38.000Z",
+      "q": "상장 철회",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "어떤 기능이 포함됐는지 확인하는 마이크로 닉스 포커스 상세 페이지",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1kydzZyVUJQWVB2NnA1YW41VkJrMlpKSHhlNkE0LVFZQjBKYXcyV0JGNW1UUUx2WE1rVGVXN1VKZWdQQ3BpQnFrMkI0QXRTa2VqYkJjc2Vxb2NLNEdubzh3RUpZak9GT1h2SW5yU0VYUkJCcFlabzdOMmM3RjdTNHlheG9lVklqcEVzRENIMnFoRlpSTTFDeXRUaTZkMUtVMm5MQkJVdkdycmtiRXRJ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:32:33.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "SK케미칼, 2030년 매출 2.8조 목표…'RaaS' 기반 리사이클 밸류체인 승부수",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RbmhHVkJRV3MwWk9wM25wRk1jc1pfY09mNm12S1lmczFQVzFIVUVuRzgyUHhQUWw5dTNib08tY19BY2FpM2ZvaGdMUUJqOFQtZkdvUmxPc09WOHVQZXNQd0Z5WERPeERn?oc=5",
+      "source": "www.ebn.co.kr",
+      "published": "2026-10-08T01:31:37.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "숫자가 올라가는 연출과 최종 표시, 카지노 7화 공개 화면 해설",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzYXRKaUsxZUlBUFUyWFhHR3BSMF82a2lmR2JCNHJZdEQ4eEJ2dTNLSUhHTnNjQ3Uyd0tGTEJHOG1kdXhXVmp4SHIwdl9pSXk5OS1qRk1GVmN2alltT1RkTUhpNHRzdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:25:41.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "'피지컬 AI' 실무 인재 양성… 한컴이노스트림, 교육 전문 브랜드 출범",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpXzl6NzBHaVAwV0VvZ0lhWjUxRE9pYkx1MHJmNk44NEEtSmFSUjI4ckNiM3RiX0NqS2xhbGViSkJTRGdyOHc2bk12Y1JOSFh2VUpNM2VKbDBGSkRMQ1FicC1MRUExOWpqQWZMLVJja9IBb0FVX3lxTFBpXzl6NzBHaVAwV0VvZ0lhWjUxRE9pYkx1MHJmNk44NEEtSmFSUjI4ckNiM3RiX0NqS2xhbGViSkJTRGdyOHc2bk12Y1JOSFh2VUpNM2VKbDBGSkRMQ1FicC1MRUExOWpqQWZMLVJjaw?oc=5",
+      "source": "더퍼블릭",
+      "published": "2026-10-08T01:22:49.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "YYForce, 싱가포르에 로봇 훈련센터 열고 호텔 객실·화장실 청소 휴머노이드 시험",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KYi1ac3p6aW1qb0dpQ2pOSk1xNklPTVdURldYTWszeHlYWEpNdnpQa1dEbnhYX0ZZeFJHOVFKZWF5MlM3bHdEMWo0REx3MjhsMlVJSFFzM21aWlZLWUxBUFNLeVVoVVVTdE83TGxNSG5WdEE?oc=5",
+      "source": "스페셜타임스",
+      "published": "2026-10-08T01:22:33.000Z",
+      "q": "휴머노이드",
       "related": [],
       "weight": 1
     },
@@ -3025,6 +5319,28 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "한 판을 따라가며 익히는 할 게임 기초 규칙",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGJCYUxiLVVXb2RWNEN0S3dicF9EVXVHN3M1SEF3c3ZsemlpYUdBS0p6VXF0YkhjLXAwZzM1amNWdUlMdXdXejJMQ0RvU29ZTmFMeThfSlFUeXpaMGlfV0hZTnVwdU5KYmNPcE9nUGxMTVdrbzltSmkxMVI3T01KOXVZU09EcWFEX2RyamZxUnBrclV5M3dQUmJvMmh3OF9sREpaV1lSa0RVREQ2T0dDa2RESW16c0Rfei1r?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:17:13.000Z",
+      "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "설명 화면에서 찾는 바카라 원피스 게임 정보",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0xXWUw5ZkE5SVR3Qk16TTFNTEFyOFVDUlhGQk5LMWZ6OVZYY2RQbDZvRGpULUEyUFBoSU1pWlR6OWY3ZEJrdWx2NmFjQjBXV0c3VHFXR043MFdybGdrS1NjRUhDTGdQWTR6TE4zTFdxVjlMcnk3UDZTM0ZWTTJRZ0xHX0ZPM3dQRl9OQnp5TGZGZzIwTE8yWjFJVUNPVThlUjc3SC1kazNYZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:15:18.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "특징주, 제이앤티씨-유리 기판 테마 상승세에 5.81% ↑",
@@ -3047,6 +5363,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "LG전자 3분기 '어닝쇼크'에도 목표가 상향…유안타證 \"신사업 주목해야\"",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZlBBSXR5eUpwcjVSckhFcVgwcjVEcl9NMUR6XzhTS0tXVmZVeDUzcHM3S0w1VjY5LThsT0lpdzdLdGhYTmxaZ3JvS3JaRHBXeFFVdDA4d0tJX3kyQkxOdmItRTZRSXFYZVNxR3NHSDhzMUk?oc=5",
+      "source": "뉴스웍스",
+      "published": "2026-10-08T01:12:59.000Z",
+      "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "\"솔리다임 IPO 주관사 선정…공모 규모 100억弗\"",
@@ -3058,6 +5385,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "여러 게임 중 메뉴가 편한지 보는 인천 경마장",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DNjhuOEp4VFFFNmRLQVl4a3NQX2dlLWU4djhNcjBCOVF2QVY3T1p6MUlvdDFGOGNDMFppa3I0ZmVMNHRpMVk2NS1wZ1ptZnFvTlRnQkR1UEFVNEprOVEzODBOdzQ3Zw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:10:30.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "[특징주] AI 수요에 반도체 기판株 강세…다원넥스뷰 13%↑",
@@ -3065,6 +5403,28 @@
       "source": "뉴스핌",
       "published": "2026-10-08T01:09:00.000Z",
       "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "게임 설명의 그림이 궁금한 분을 위한 eos 파워볼 실시간",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RZ1kxU1JlVGd0a25xbWdyeEo3dkpvV1dfZ3RaN0pvTTAzTklGUlhIRU5RNmt3WVpxcWlkYjdJYzl6V2NtU3B6RWE1c0pERW9uRWNodGJaWkhtVVdvTDV2R3RoY0JEVXVBcmVIcVFRYnpiQ3Zh?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T01:08:36.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
+      "title": "시그봇, 서울AI로봇쇼서 소형 라이다 'CygLiDAR' 소개해... \"휴머노이드 근거리 인식\"",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZanZGY2FZUExMWU1MaTBCTU0yN194LThNYUdIVTNjZEJIS1VMSVhya0VjMThvLXJQZlQxNUlqd3d5cWlENFhNR1FOMkxNSmxGUEdPQ21mVXY4OVRRMzRJeVlkWElvckU?oc=5",
+      "source": "에이빙",
+      "published": "2026-10-08T01:08:29.000Z",
+      "q": "휴머노이드",
       "related": [],
       "weight": 1
     },
@@ -3197,6 +5557,28 @@
     {
       "topic": "physical",
       "date": "2026-10-08",
+      "title": "[심층분석] LG전자, 청소년 로봇 경진대회 후원…피지컬 AI 시대 ‘로봇 생태계’ 확장",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBka192cTVfOGZiNzlPbzB2OTZDZDhqcjR1cDU5OXBuSENEajFLUXlzdEU5RERLTlZHam85ZWk3bmRpVlN2QjlEbWlaWHRDZkpVcXhOSktEdDB0d0JFSkRrTktQWi01cnNBTVE?oc=5",
+      "source": "뉴스밸류",
+      "published": "2026-10-08T01:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "제논, 증권신고서 제출…“상장 통해 글로벌 AX 기업 도약”",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Oc0FTRmVUbGh4Zmc4TFhYdHF5alNOS2hpakJOWlh2MGJNNW42am9PSC0xMW9tNmptd0N6cXo3cXVpYjZMdGJ2UkUyUWVQUQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-10-08T00:59:50.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-10-08",
       "title": "전북자치도, 피지컬AI‧로봇 글로벌 전략 포럼 개최",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00SGc4Vk9GYkZfeUlZWEh1RkJzNzlfN0tmdDRoNjh6N0lla3dlcFdTajhXNEppaXpReklSbzhfU2pLOFZ5N1ZtRUZqRGE4WEE4RUJyVHBweHNtMXZyUWtMX2Yxc3dINEk?oc=5",
       "source": "연합뉴스TV",
@@ -3224,6 +5606,17 @@
       "source": "리더스팩트",
       "published": "2026-10-08T00:50:02.000Z",
       "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "실적 보고 고른 종목, 이자 부담이 늘어났다면…신용·미수 대환 비교할 때",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1ZOenVoMmRNSzhKa1ZNak9TSk85cHcxcTV2Y1gzbUdMNWx2aUdQY0RxVTNMYUFwWnJ3dWlma3lTSFdGdW9jNlByMWxFc0RTT0FQUnpab3VjanoyYXQwN3JJYk1fdk1MVjlhUkRVOEJKNWM3aUFQeXo5ZnRKaXZpWXpn?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-08T00:49:00.000Z",
+      "q": "대덕전자",
       "related": [],
       "weight": 1
     },
@@ -3257,6 +5650,17 @@
       "source": "데이터투자",
       "published": "2026-10-08T00:45:31.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "토토세척솔 이용 시간 알림 기능 확인",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTlITXBoQm0tN0xUTlV2ZjFTSVFXOVF5RXVMZnJ0ZHI3LVpraFY4Wnp3TkRHZmpvZlpCa0N5UkY5U1RraS00M1NMUXhpaEl5UERSaEZiZFNBQ0VaNGpBWFV2TlN2UmxaWHZ2R2J4UkZaMGxRTlFWTjZVT0llSlRtcV9oOFM1OGg4TVNJeW1YaUQ2NHlFYnBLUnc0VWxrLWVwREstSjZZSHNBTjZ2Y0hSMkw0ZUwxdUhvWXpIS0Y0OUxkMTZCdkpyM2YxeHc2cHVWTEVpYWR3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T00:44:31.000Z",
+      "q": "상장예비심사",
       "related": [],
       "weight": 1
     },
@@ -3311,6 +5715,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "일반 심벌과 특수 심벌의 차이, 마카오 카지노현황 비교 포인트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWV2htRl9GSTRBWmV3d3l6TVJfOVk4RkNPV2JNaEd2UmlkaV9NYkh5VERkdVJ3cTBUZ1I0NE42dExhSzBXeWVQVUd4Ml90NjkxZzNRbkxMeS1wakJabi1vWXB4VVFXQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T00:35:13.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "테슬라·보스턴다이내믹스도 휴머노이드 '원통형' 택했다…동국산업 북미 핵심고객 테스트 완료",
@@ -3361,6 +5776,17 @@
       "weight": 3
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "코스피, 삼전 ‘영역대급 실적’에도 하락 전환 6700선…코스닥 1%대↓",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tTE0yUUNmTUFhYVVYb0dDQmNWQ1pxSElQbnVtVzZzVTFxSUZnY3BkbGNlajhTdGdLN2JHUjJ3a3N6SGR1UWhaSC1mQTNjREVIdkhIUGpQUExMdjIyTk12Ui1RZUlGckFDRHNDVWtfRVdqQU1CT1E?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-08T00:24:25.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "다산다사, 취지는 맞는데 방법이 틀렸다 [시장 엿보기]",
@@ -3368,6 +5794,28 @@
       "source": "SBS Biz",
       "published": "2026-10-08T00:23:00.000Z",
       "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "한 가지 테마를 여러 방식으로 풀어낸 mgm 바카라 쇼미더벳 분류",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PV05vQTNMUVJqbzNJekVKY2FxNHNWUDFBa2ZnY29ZNXpEZXFlNDNvMDZBbVp3cVhITGlwSGs3dDZuVGZoYVI3ZVBPVV9kY0hrRHR4RVM1VGJYWkxHNVM0TU5FMGllSVQyemY4RHdoLXdVbWVQemF4WW1QSQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-08T00:22:33.000Z",
+      "q": "반도체 기판 증설",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "솔리다임 상장 주관사 선정 마무리 단계…중복상장 논란은 여전",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yUGYtOHBIa0xxZ0NiZWpkdmtGZmZjVVprQjlEblFzamhna1daZTJFdXJoQ0ozakJKVEgxNVRQX0NXOGVfajd6dXhsT0VSdnJRWmNtNDFsM1NNN1NtVW5WU2V6dGpvLWp1SEE5UDQ5TQ?oc=5",
+      "source": "마켓잉크",
+      "published": "2026-10-08T00:20:30.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -3416,6 +5864,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "삼성전자 호실적에도 증시 약세...코스피, 상승 출발 후 6800선 내줘",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVDFENTJtQVJvdzljQWQ1ZzdxanZYNWFSMThGUGhGdDdXOFN3Uy1uQS1GZUsyd1BaR1NHcW9OeG52WGo5WnlZeFNGRFNiM25WNGYxQldCVmw2cGI0RHc3RkJpSndVbHd6VHc?oc=5",
+      "source": "월요신문",
+      "published": "2026-10-08T00:10:39.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "[애널픽] \"대덕전자, 기판 수요 확대에 '풀가동'…내년 고속성장\"",
@@ -3423,6 +5882,17 @@
       "source": "뷰어스",
       "published": "2026-10-08T00:02:44.000Z",
       "q": "고다층 기판 MLB",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[속보] 코스피, 0.07% 오른 6808.68 출발",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TLUpsemNVaDhPQXNicVFaaTYySDVnWndVWElmenk4am1vZUcyUlZXaWVQZlB0WHlOc3hJQ2NCOTNFb1puSnlaRzNlUkp4UlhMaFBHMmN1ejdjY2JKYnotc1A2ajU?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-10-08T00:01:45.000Z",
+      "q": "상장폐지 요건",
       "related": [],
       "weight": 1
     },
@@ -3482,6 +5952,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "첫 이용에 필요한 메뉴만 짚는 박닌 카지노 호텔 시작 안내",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE85X0hpZmVXRWtsSlh3RzRBWEc0YlFhVGpFY3NJYU1vbVg0eGlhVVExNWRybWN1V3B5ZlFjbFJZR2gxQlY5aUtzWFFodlNTVW9PUWFHck1qcXBJTU1rU1F0QUZ0UkdWUVI5eWJKRWdpYldZeUZILV8tWGxHRTA2YlA0b2o?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T23:46:20.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "춤추고 ‘오늘의 착장’ 소개...수백만 팔로워‘ 로봇 인플루언서’가 뜬다",
@@ -3511,6 +5992,39 @@
       "source": "https://www.newsinspace.kr/",
       "published": "2026-10-07T23:38:18.000Z",
       "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "슬롯 체험 산타 카지노 디자이너를 위한 반응형 디자인 실전 핸드북",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV9fVF9IaXAxbjc2a2RjUFpqTUxpY0NFNVJhYXBlcWFZT041RS12eVM5cWNhenRBWU9yZm8xTG42NHFvWjFFRkF2S0tBQVpfcDQ4N2QtZTMwUjVmeDV5a0Z2eHNKLWc2TW43MU80V1BRdG14aXhMSkljRkJiU1YwemJrb2E2elZ6TTkwdlQ3YmtGd0hCXzFiNW5sY2E3a1lVTWg4Z3poNTVJQk5uSW5vOWg5VFpmTmhBcURFTWh6LVlxSVZsMTYzVXFDMVFXNGRzWnc4ZFNPOF9FZ1Vkemcw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T23:34:50.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "특수 기능이 이어지는 순서를 보는 스마일벳 토토 진행 해설",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFWGJkcXlUREcyR3Axdm9DTHlkWV9nQUJ0UXI1dFhadVdrZ0tLbEdKdjIxWkFCRTFlckhudkUzcjBLSW5vSDRXUnRnOXVVVW1ULXhDc1Z4UXo4N2F2ZzEwaVU2OWpNcmY3ZlY3NGtSd1BZaUE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T23:32:48.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "규칙이 적용되는 순서가 궁금한 놀이터 사이트 더블유놀이터",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95c24zWWtqQ2tKckZBMFZ3ZURxX2ZPSWRzZjhKS0h3VFBLSFVORlRxSTlDZnEyR3V1LS1nWVRUZFFLQ1paLW9EZWd2MEkydmVzR2JGRHQwNTViUmVtY2pkMHVhcTNvMVoxbkFIQzk3Nng0LV9iWU1UQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T23:27:04.000Z",
+      "q": "유리기판",
       "related": [],
       "weight": 1
     },
@@ -3561,6 +6075,17 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "결국 개미들만 물렸다…'실적' 믿고 투자했는데 똘똘 뭉쳐 '몸값' 부풀려[코스닥 뻥튀기 상장]③",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SW9mdFFOQU1LcjVZVDBLcl9sb3k2V0VwOC1mVWtzcEF5T3BmcXFibFlpUFcxV1hNdVF2UndIZm1DZnk5bllReHZEd3RWbnJfVHY0T1lfVUZmNlpOOTM3Yw?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-07T23:16:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "성급했던 시총 미달 상장폐지 정책, 전면 유예 대혼란",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1M1d0xSa2JmYkNFQVFzcG1yMDZvSUllNFAyNUZSYTd3aThubERfbnpSNm5OdzhKY2ozU09EakNweEJnMXozN0I2Y29kb1JrZldob012TTdTQjBQZmJBS2pCa1laMFBROGhybjcxZGJjWURvZ05paHNKdnYydHdBb1FSWXJJRlh3a3pr?oc=5",
       "source": "조선일보",
@@ -3598,6 +6123,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "강남 불법 카지노 인식 디자인 패턴 상세 설명",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMldBekJQOW1Cb3hicW1FLWxZbXRYTnBaMUtTWlM3YVh3cVNvWHFRRk1Pc2Z2c0dYN3djRjRhdUlEeHNtVFJqT1N6OVRfQ1M0UFdTSzU0Rm1FQy1ERlF3Z2JST3lZS1NMOW1RbkVfaDJzdXRaNkdjZGZKXzNSR3Rmb1ZlbkRKeVBlRmVYbjlrb19HV19Vcy1JR1AzdjJIOW1DTUVXRmNQcDRjRzl0TWFqZFdRQmM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T23:02:01.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "美 대중 기술제재, 로봇·AI로... 中 로봇기업 관련 첫 제재",
@@ -3605,6 +6141,17 @@
       "source": "뉴스핌",
       "published": "2026-10-07T22:55:00.000Z",
       "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "보너스 화면에서 나가도 되나요? 한게임 포커 하는법 도움말 확인",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LbkVIS2k5eks0T1g1NV9iNjV0UVZzVkJETGU3Z0UzSkFUVWE4czdvTTVkRjFSZ0RhT05sS0ZISDRzM1ZEWVFmTVpIUnk1T2VNbHNOWXpFT3RYckxtWkRTQWYyOFVwMUJVU0xhNXFzNFlfUzg3bU8w?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T22:53:17.000Z",
+      "q": "상장폐지 요건",
       "related": [],
       "weight": 1
     },
@@ -3677,6 +6224,17 @@
       "source": "서울경제",
       "published": "2026-10-07T22:30:00.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "[리벨리온 IPO] AI 대어 1호 타이틀 때문에…업스테이지와 수면 밑 경쟁",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByWnpkQmFBSDRaSmlMb2dibWZzNnBldEsyd3NhWTB6TzhRSGNWR2lqeGFENTBiczBXVG5fODgzbWN0ck90VTZPTXphbGxkS2c?oc=5",
+      "source": "딜사이트",
+      "published": "2026-10-07T22:27:17.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -3852,6 +6410,28 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "PC에서 버튼이 작게 보일 때, 창의력 퍼즐수학: 네모 게임 알기 화면 점검",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSYXhUYXhrMURMekZNRGF5WW84R0szX1pnLS1yeWllQ2I5VkpabzgyYTdIejdFZER0MWoxUmlSSE1jdXR4WnF3MV9YcHJGaThHbHJnQm9Yb3dWbWtGRVlHQ19OWjNwQ2s?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T21:33:01.000Z",
+      "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "\"상폐 멈췄는데 주식은 못 판다\" 거래소, 동전주 퇴출 유예 '혼란'",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aTHV4a0ZwYXpaWWt6RGVqSkxKcHdjdHFFWFVsRVRTYkY3SkhWS1VYSDZ0QVRmUENzcmZsUENBX21lVnlPaGY0ajR4X1FNTzVVd1JzRkhhX2tKTDM3T3NYR3REYVp3bGY1bUswWA?oc=5",
+      "source": "스마트비즈",
+      "published": "2026-10-07T21:27:34.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "화면 테마와 사운드의 연결, 레드문 카지노 먹튀 연출 해설",
@@ -3859,6 +6439,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T21:27:15.000Z",
       "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "설명 속 게임 용어를 일상어로 풀어보는 라이징 슬롯 꽁 머니",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbDVhVG9uR1JMRVh4eWJCQ2wxYy1PeGE5TnlVU0J2azlqdElwUGRLenEzV3BqYm5ZUDA3aVA4VWQxOUtZa2dyV2VPaXlkaUoyVWt6QnFnTXREYjlDTlMxQlVzVWdLWXlqVlRaWWloaXV6UUVhcHo4MFRBSEQtR1VpSVpjd1BNeDBUNDBHZ2RoclpKeEJkcWtzcjRuNWNOS2ZVLTlqZVZiZk04b01jYm1XVzVTX3hQTmtoWlRDOU9PWGJNSENZeGF3SXBZeVFmUWlGdVJLZl9qNmQ0VXZmWjc0czRGX2F2ekVlcnpDTEJRODJpN21vMWtwVzQxd2N1UXg3ZVc3X2t6MDJCZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T21:26:06.000Z",
+      "q": "FC-BGA",
       "related": [],
       "weight": 1
     },
@@ -4036,11 +6627,66 @@
     {
       "topic": "pcb",
       "date": "2026-10-08",
+      "title": "게임 이해를 돕는 짧은 문답, 토토 가족방 진실",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95OXFVc0hWaGZpSzhJcHRBVEUxdUMzZDhlM3dLbjRvLXd6SDFrVVlSd0JkbTNnNEtQNGhxcnlUSWxOUGpxU2NIX2JFU0kwZXRvVlhWVzB6dk9KazVjRUg4bmN4RElCc3h3OFkyM09ENDVjZw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:57:14.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "이름만 보고 오해하기 쉬운 바카라 5 연패 확률 기능 표현",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDduMjM4S1JYQVpnM3dubGlYS1FuN3hxT0RocmFJRndFQm13NzlPOVN5V2xPMmRVb2I3V0lVY2ZfX0RfVGdiNEdZWUJ5STRFRTNYdlUyb0xldUE1bjdnWHJzcHlwREVpbnhKT1BiLTdnNFlCWmJ4TkItZmRCaTFJMEZVSFRacmJlSUVaTk1US083WFFrdDZMQlBIcFVaUnBtclFIVzJQcGUtMHhl?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:56:13.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
       "title": "\"플라스틱 대신 유리로 승부\"… 대만 AUO·이노룩스, 차세대 AI 반도체 기판 '진출'",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFl2ZlltQlZNRnZsM1U3dGFnemF3b0tNMXNONkJ6TnlYeEpRaEVONkJqNXJNZXY4QUlma2VsR1lER1hyem85R1d0QWpaMS1JQTBxR0ltcW01bFRBN0ZxYl85SHJUSUpmTkJ0b0RMVlg3SXp3cGp3aTJfcjFTcWtXc0dVMG9FQ3Bs?oc=5",
       "source": "글로벌이코노믹",
       "published": "2026-10-07T20:55:00.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "게임을 분류할 때 볼 바카라 슈통 조작 진행 특징",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVMwaWpoZ0lvV1RTU1l3M05iaEVGWFhVVmQ3SFRHVmRZdW4zVUUtMjFlbkQ3SWJwSXVNc0VXOVc5bWhDZ0UwaTZ1SjNkeDVxNThjaHhIUVlaRlo0VjAyUlMyN2Q1VEEzYzVhNHZ3ZFB1MkR4LW9LS1MtX3pGNUU2dzBpV1RiM25KLWNjUmJnZ2F4QXZXUU9tOXhqYk84VGhnZkFsakc0dkgyQ1N6S0ZHN0lLbzE1VUwwNlhBWVJ5Vm5OZW8?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:53:21.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "토토 고액 안내 창의 확인 버튼 역할",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53VkxRTGJJdFFyQWNMVjFvQTJGUkVlT0VZYmtZX3B2R09wSU84SXNLYmtqeHJnd0FRaUlUb0h5Vkt5OTN4ZkpHWk1KNWJVSUIySEpCSUx3ci1wc0pJZWVNa0dUaGlKX0R3UVVqUW5LTEQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:49:30.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "문명 시민 슬롯 에서의 위험 요소와 예방 전략 (2026년 최신판)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWTRLcmhjMFNJMmVFSmc3eTF3ZVdlWXZ4R3VkRXRsMUZTQUFILTBrX2Z0d2twdndkcXJwUmRCUTRwWTBxRDQ2TGdKYUJaeVZ2VDhMQ2F0dEJraHEzWXozZWVROU1BcEFjanpsZEFJYnlMdFJ2YU5YSTJYZ2JwTE1UdDNsNGtXUTJXT0ctUm1kRDJrYXAtdFY5S2Y1bFdrbXVjeFgtTHI5WG5JckdUdi16cQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:41:35.000Z",
+      "q": "반도체 기판 증설",
       "related": [],
       "weight": 1
     },
@@ -4078,6 +6724,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "바이낸스 카지노 마케터를 위한 서비스 디자인 핵심 방법",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTVDRGo4ck9fb1EyU2NTMTRUZE1Gd2FIWndhTy1raTVsY3ZVRnNlM2dBY25lN2gyR2ZYRHR1aDI3cHJ2dUtfd19wVEpBTzJ0N05oY3pEaVAzQkVyRWkwOGdUZWp3UUYtMXV1QlJlUDR0Zm5nRzZrTU5PdjBiMnBHYVl5OXZNSkk3bzdyazhrcGpnbzlrTlNNVC0yb1ZKY3BVeEZBTEtqUFltdFQ3WjRlb2lsNno2N0xHYnA3blViUnFLOGo2ZHhpX2NLUFl5RldRcHI2NTVkVW9zd1k?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:26:50.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-08",
       "title": "컬럼버스 애퀴지션, 와이즈샛스페이스 합병 완료로 나스닥 상장폐지 절차…합병 법인 CEO에 카를로스 모레이라",
@@ -4096,6 +6753,17 @@
       "source": "데이터투자",
       "published": "2026-10-07T20:23:18.000Z",
       "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "특수 화면에서 달라지는 도박 구성요건 버튼 위치",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE5XMU5SaTFaTzVpWERRUUxiekNMbGRmbEF4OHpTRFJZNnpUM3RXc3JxdTJOSGlKaU5kZ2FZZEo3UnNhZGxhNkZZcktNeFNVVE1YejZpNEwyaWI1VzBONVlwZ1k1VVJGcWdWRFF3TFFkX3dYQjQ1bmxjRkc3N04yRWZmQVJhZ1lvdDlDUE5rSjRtcHFadlRxNA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T20:22:11.000Z",
+      "q": "유리기판",
       "related": [],
       "weight": 1
     },
@@ -4176,6 +6844,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "게임 기록 메뉴가 제공되는지 확인하는 카지노 멤버",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTSGlLYXREb0dndDVzcWt4MWEtdnA2R043RTRJTFlNOHRnOUtpR3Z3Q1czRXVHRk55UmI5bXZaYWFWN21HZ0lyQXhCZld3RGNZWXplSllPVW1CUjVPMlRIU2tUS3dlaGJ6ODZjMjNyTTBxQUh0REE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T19:23:32.000Z",
+      "q": "쪼개기 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "화면보다 먼저 확인할 내용, 풀하우스 토토",
@@ -4187,6 +6866,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "순서대로 따라 읽는 피망 뉴맞고 쿠폰 2024 한 판 설명",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAydW1qRFdTMGhUYVhLdzRNbjBpekctc3BUbi1LOWllTjROYVMxNDh6cXBUQzlSRlJSbVU4NzMxU2I4VFo5ekRDTVplUEo4UnNnZDBITzJIdkNlWEdxV1NCV1dOcXlqNGsyQzNYVg?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T19:20:04.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-10-08",
       "title": "타이중 카지노 호텔 연구원를 위한 사물인터넷 핵심 전략",
@@ -4194,6 +6884,28 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T19:18:44.000Z",
       "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "토토 안전사이트 에서의 위험 요소와 예방 전략 (2026년 최신판)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHJTVnJXdU1vaWRYTHo5cUxoNWVsa1ZEZ0pLekVpR3FfYVBKYWN0czdYOTlERzZXcE5WblZfQmQ1NUFqSWl0SWlaNm9ia1NSV0V2YU5PbnFKbk8yUFp3M1VFdnpzMUs3MXpHcVhHRDRuMlJvMkZENGVrTEtIbnRBQjdFdW1DRE96Qy1BdW93cjF2OVo0OFlLeXZvYVVzSUJzWGNQLVh5bUNLMlJxM3ljeDEzcEttUlNlOVJGTmphdzdBWUUxRVpCNjZmQjU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T19:17:23.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "피망 슬롯 현금 : 전문가들의 조언",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEU3RFJYUGprcjcwcTYtTzFodklUaVVaT2cwLU5rRFc5NjI1OVJ0SEFwNFhZVkF1QXliWEE3UEpHQWM2UUVSa0NnNV9jdE05WXRVMk5qVjJOQUpoLW5BOHdnX054NkZiQXFCTWh4WEZGenZZbXVhdGNVUFJnQ2VnSm9nUkRXck56OC1j?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T19:16:37.000Z",
+      "q": "반도체 기판",
       "related": [],
       "weight": 1
     },
@@ -4255,6 +6967,17 @@
     {
       "topic": "listing",
       "date": "2026-10-08",
+      "title": "가로 화면과 세로 화면, 홀란드 토토 사이트 이용 환경",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObjE4c3RjQXVESHh5TDllbGdaTnAtTE1uVVZILUIwSnFReGg3a3pXRGtrV2JkSWN1RDdpTlJoOVlBTDJZd0hyU2NJT055OU0yMjhHS0dnbEtQWm9rc1RpWEtQYTRYalhSUGdybWZmbzJEeFdsdWRUOHBZeGhJUkw2Zm55VFgzZXBTYmxsWGhJeVZDNTBNVUczTW9penNCdDB5Uy15TE84eDdEUnlTNC1KTkJxOVFWUV9vSUtqaU9yUUJ5VnN3SmdsLUZuS0Q1OFBoMXlha1dicXJaY0o2Qm9oSA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T18:11:19.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-08",
       "title": "한국거래소, 상장폐지 절차 유예... 시총 미달 59개사 ‘일단 멈춤’",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oUWlsSzdPb01LZ1lXVzUyUjJMUFdWVkpkNld4M1VrQ3lUc00xN1NPYUJ3Q2VxYkg1SUYwME9ray1mZXJOdjBINS1ZbDUtNVY1WXVhbXdrVUdpZ193ZV9Cb0hnRTR5TEpKZzc3ZnVn0gFyQVVfeXFMT3Itel9uQmtXVnhPQUhWSmU5UmlURHEtZ20xeEU0X3R2bjc5Tmpyb1JBSGJZVnAyUDJXN0RycXdhZS11Rjh6blgzYjdJclc4WkZ0SnU5S2YtZEQxemRjeEdiSTZ3NExMOHh4Wkw1RDN3LTB3?oc=5",
       "source": "테크데일리",
@@ -4280,6 +7003,17 @@
       "weight": 4
     },
     {
+      "topic": "listing",
+      "date": "2026-10-08",
+      "title": "레트로 미니 게임기 - 에 대한 심층 분석",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmJ6R2ZMSTAyY1N6U2txcHVGSjB2WmUwaXZzcGhBUExsUFdSTWt0V2c2M21iUFV3RXpmVkdpM3FVMEVBSm1HakZraWpCUk5HT05jLU9oS2d0cnBkWkRxelJLV19GOThZOHc3WXJVV1pJbjBUTkNYT1c1bG01R1BFcEpyV2VzY3dFT2hOb2hrLUxFUm5vQWg3Nzc1NVhfZG9fUFQteGVJSWJ4ZjcxRENodWpta0RsV0lqcjRCeEJTazZWOVdjTTYxQy1wS1pYM0xVNU9jZ3FvWEs?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T17:58:07.000Z",
+      "q": "쪼개기 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-08",
       "title": "eg 카지노 모바일에서 사운드가 안 들릴 때",
@@ -4287,6 +7021,28 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T17:39:15.000Z",
       "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "핏보스 카지노 먹튀 연구원를 위한 비판적 사고 해결책",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHhrZDdoZlhNSzFTM08tOV9WVk54NkFrTTAyWXVBUFNhZTVDanNaZFMtczc1aFdiUFBPazh0SWFHYjVtbHNhXzBmaGM2YnpfaDVURmZjLXFNSnA1UU8zRVhKZ20wUlhJbXdRcVRzTDBvaFFzbFQ5RmFyN1F0WTZYcjMtS0Z5NTdtVHBsR2czOHktMm80ZXcyRzBkd3AwU1ZXbEp6MU51TDJfYkR6MEx1YW0zdndwOUswTDlYY3VRNDJhcGtVVXhlSTZmUXN6Y2pkWTlvay1feWFGeWhoQmZHaUFGaGU2S1BETmRncHl0Ml83Ul9OODQ5eWF3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T17:38:22.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "가상 크레딧 체험이 제공되나요? 카톡 룰렛 돌리기 이용 정보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxZ3NXaklkM3RjWnlDN1h4bHZ5ZzRPMTZyd2QzUTRRYkhrYW1nc185OEJjZm1peFpSSndPbnd6R0JHV3VqcXdsOEdPdkJtM1lKSG9WVDZFclZXTTJCejF2M1Jn?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T17:30:44.000Z",
+      "q": "기판 수주",
       "related": [],
       "weight": 1
     },
@@ -4408,6 +7164,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T16:38:55.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "인벤터 슬롯 메이트 지원 기기 정보 읽기",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5scEdRYmxhNUlKN05YR3JxRk9Oc3gtNGJMQ0pUV0xUVXRNMWRnRmVhQVNmVFMxb1JnTmp5Y1h0ZEtaTTAtUEh0UU40di1lR0RQX1QycGVIUWRoQ3FuN3c0aEJsM29oQU94bFVaN2ZiUDJDeHl4b0Rn?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T16:31:00.000Z",
+      "q": "대덕전자",
       "related": [],
       "weight": 1
     },
@@ -4558,6 +7325,17 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-08",
+      "title": "SNS로 알게 된 여고생 협박해 성관계 요구한 10대 입건",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WVGotWVRSeHM2YjZ6OGQ1emdjbFhxclU0M0RiWFdpeGJYOU5zTXZkRzMtS3ZpZWhycFVWamNJUGlDLW5peHIxaWMwam9oU0hQbTd5ZndCWQ?oc=5",
+      "source": "디시인사이드",
+      "published": "2026-10-07T15:23:43.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "pcb",
@@ -4862,6 +7640,17 @@
       "weight": 4
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "삼성전기 투자분석 2026. 10. 07",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2LThtem1NMWtOS3BURU9LekRSb1NHdkJLYlBEX3dwQ19tZkFnTDR1MFVzSDVfanhhU3dHbERfQldSeXlONFBDYnlWMU1qUW0zOXJLRTE2R29SbzNMLWhORWhPZW4xTnZ4dWRZTmpsX3BxS2s?oc=5",
+      "source": "주달",
+      "published": "2026-10-07T14:07:27.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-10-07",
       "title": "마작 현물 뜻 전체 화면 지원 여부와 사용법",
@@ -4983,6 +7772,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "인디언포커 인원 - 업계 전문가들의 조언",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2VhVTA2MzBQd2psOXNLeFZ3TW93ZjZVZWJfYnk2V3pvOTFhelpNZlJSN1VTV0pqWERYQlBoelFQR0VjMERxVVpsbnl3Mmc4dzN1VDBGX3dPcHZ3Y3djZXJDSGVLTGJYMWZYM3l0T2JCMThNSzR1cHpoYWptZWVuRlpKMGxsUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T13:33:04.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-07",
       "title": "포커 카드게임 릴 수와 행 수를 읽는 법",
@@ -5066,6 +7866,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T12:51:24.000Z",
       "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "처음 보는 분께 설명하는 무료 베팅 보너스 우간다 게임 한 편",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYjR1RHdsWURqd2ktMElNa05qb1J5XzVUdnQ3TnQwVE9nWGJyY0FvRmZ1N1NvQkpZNEpkUHZ4MHJiMTBpSHhMWU1zanZ0UUV5RWt0MkRfQ1pnZE5kU1RvZGdJR3ZaZmN5YzFVLVUtT2FNYjUwbVE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T12:49:07.000Z",
+      "q": "삼성전기 기판",
       "related": [],
       "weight": 1
     },
@@ -5671,6 +8482,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T10:30:36.000Z",
       "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "피엔티, 美·인도서 배터리 생산 통합 솔루션 공개",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvYWh1ZVhoUy1SZzg4eWsxRnJXNkhyMEkyZ2tBaGpNb0dOUkZKY3RVUUlCOHF4a1l5dmRpU3pFNXB1YjRUT0hFd01wcFpZTkFWdWpUN09tSDRwcEF1QzlvaWtpb0tlZw?oc=5",
+      "source": "디일렉",
+      "published": "2026-10-07T10:29:02.000Z",
+      "q": "유리기판",
       "related": [],
       "weight": 1
     },
@@ -6803,6 +9625,17 @@
     {
       "topic": "pcb",
       "date": "2026-10-07",
+      "title": "기본 규칙에서 보너스 규칙으로 넘어가는 피망 뉴베가스 : 슬롯, 바카라, 블랙잭",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMVpOYVNVblhmaUk5bWpxLW1NdGZfeDhSV3ZoZEVoWjZoc2tLd2ZuU3JJeGIxcHJyY2xFWk5JV3dhSmdaRGdYTXY4VU1NRmFtWUZ1RnNsNU8yenhGOGItZFVlaDAzU2gzbmp6UFgwbHJCcklIeTJMVGdfclJsdm5fNnlJTWVYMFR6aE5weTNOVXB1Y291OHFLSUx3SGFvNkJKYzFGdmFiNHR2ZTludHFrSVY3ei1ucGlFeFFybEx1TlVJcHo3Ty11b0t0ZzB6WkgyNUpYZVd4ZDQ3TXpNeV9UMWhkdjh6QjNKTGxFXw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T07:53:17.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
       "title": "티엘비 | SoCAMM 다음은 MR-DIMM, 메모리모듈 고도화의 수혜",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcldaNmdQdENNTnlaQURSd25hZVVWcjcxMUZUR0JxNDJsaW1nZVAxYVFHcFlzSmt0TnpEaW1VSy0tYzZ2SDhmUk1zRWZJUnNnWTdVeEZMVGh1bUtoN2NaSWVoT0Z2aVdlWlVldUp3OVVkaDdlRkk0dzFkSm5nVERqWXJ1V1JUNUVz?oc=5",
       "source": "네이버 프리미엄콘텐츠",
@@ -6986,6 +9819,17 @@
         }
       ],
       "weight": 3
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "짧은 시간에 읽는 테마 소개, 슬롯 안테나 특징",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oNmh4Wjd5dG5neWp2dFRJNGNPdFZESHJFOUhqcjBydXZoTnJDOUxZVkVmOWVVR2tjOGMxbXNqTFpfYi05Zi1pRkRkOHBEWmQtZWpFRUxYc3Y5QUJaQ1kyNmpOUGhIN0V0bUttVWxZZ1BtREQtNFY0?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T07:33:41.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "pcb",
@@ -7442,6 +10286,23 @@
     {
       "topic": "listing",
       "date": "2026-10-07",
+      "title": "거래소, 시총 미달 상장폐지 절차 유예…관리종목 지정은 유지",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12WmdyZGNyY1FFYjVScTJyeU01R2NBMHFmYks3Y2hlQzZkdldVWDVNQTVlVUtmN2JpSldjSzlkcFFEdkVoTzNjM2NKM3JvQm9uT295ckdQT3B0dw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-07T06:53:41.000Z",
+      "q": "상장 철회",
+      "related": [
+        {
+          "title": "거래소, 시총 미달시 관리종목 지정은 유지…후속 상폐절차 유예",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDhtQ2swREZNa3Rjd3pVN1pTSjg3aXlCMXRXOFpDb21nSWY2bW9GMDZBeS1jVUZNSjdtR1VQblBfc3YzS0RlcEFLTnZqUWUzeGhZZGlFV0h2ZFFCM2VOUGMzakNIVEIzd3p1Vlk0WGtrYndFTUFxNmlER01IUFFIZzBB?oc=5",
+          "source": "아시아경제"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-10-07",
       "title": "시총 기준 미달 상폐에 법원 급제동…8개사 후속 절차 유예 : 금융",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NQzdqdUdnMjhkMkQ5YzhocU5FX0YzWjZlMUVVRE05anB1d3RyOHN3TjRGd2NCdXJZbkg3bWpQT0lyT3VJY3ZEMkRoQQ?oc=5",
       "source": "재경일보",
@@ -7622,6 +10483,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "테마부터 조작까지 이어지는 넷마블 슬롯 상세 탐색",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0teDFGWmhNOE9RcEkwRkZVWk5qcU5vZ3BMRGwxbEFuWm4yNzBOS1VGaWx5azFUVTMyV3VsZWxEbmFONDI1YkJYWXktSUJfTzdxUDJPcjFFbEJ2LXR4ZUNjYUdXa1RaMFBoNGYyN2IzbWFwX3A2?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T06:29:09.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-10-07",
       "title": "투모로로보틱스, 로봇 조작 파운데이션 모델 공개",
@@ -7676,6 +10548,17 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "휴대폰에서 팝업이 겹칠 때 보는 블랙잭 덱 수 화면 안내",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMEVleDBRaW1wUjAyQVFacVhNeGNNZy1BMkcxXzY1UWZTdnNVdGx5dnVtVGkyNU9nQWE5bmV3eW9GU1lscFdHemZKMjRmNU1DZ2wtdnRGZ3p4Y1JGLUdVOW0xRzdpNDFGNS1MeEdYcGtLelBwMm9SOHlZeGNlLVNoVTVpX2xsUmdaU1RFZ0VRU2NpaFF3UG5xX2JCRkZ5c1RGYUczOThtR2V0by1TMHpUTU1HLVIydk9PMklmNmxJeEtmWmxVb05XWGF2TG1ndDZXT1JNbjkyU0p5am1nbUhFbkZYcXkxOEJ1NGpUTDIxZTc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-07T06:23:25.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "physical",
@@ -8522,6 +11405,17 @@
     {
       "topic": "pcb",
       "date": "2026-10-07",
+      "title": "[오늘 이 종목] 엔비디아 파트너 · 피지컬 AI 기대…MDS테크 '주목'",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6S2VOM3ZmZlp2MThCdng2ZThUalVTYVZ1b3ROV1doVlVrbVk2ZUNJMDUwZlpDZThnZUhfVi1zU0NFamlqaVIzckp3WTFZSFZuUkJaTV9wYWc2Y3dyZTFySlZST3k?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-10-07T04:07:19.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
       "title": "태성, 국내 FC-BGA 장비 68억9000만원 공급",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TVFZ0V1Z1X244ZUI2eHVEbVk0TkZuZTFJNWFodks3cU9FZzN3el9ORFRUeUNLMUhiSWwyRjU0NVBMV3o1VF9LNFg3Y29EVjVTeGpocEFsR1NlX1RWaGE5Nm1zZ2pSUQ?oc=5",
       "source": "비건뉴스",
@@ -8753,6 +11647,17 @@
       "source": "Calgary Roughnecks",
       "published": "2026-10-07T02:35:37.000Z",
       "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-10-07",
+      "title": "코스닥, 박스권 뚫고 900선 회복…반도체 소부장이 견인",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CaXVsSUdjMl8xNUVvVUdLa3BXMUZsS2dsYUNjcDZWSURzdExWNnZRc0QyaE5vWnZlOVdJRUxDQ2oyS25kdEYzN3ZhRHlyRngzRG5DRU5n?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-07T02:29:37.000Z",
+      "q": "반도체 기판 증설",
       "related": [],
       "weight": 1
     },
