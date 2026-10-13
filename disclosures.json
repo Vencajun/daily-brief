@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-12T18:47:06.720Z",
+  "updated": "2026-10-13T02:46:51.987Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "LS",
+      "report": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-10-13",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800056",
+      "id": "20261013800056-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
