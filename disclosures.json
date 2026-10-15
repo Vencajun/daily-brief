@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-14T14:25:08.979Z",
+  "updated": "2026-10-15T00:12:12.283Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "한화플러스제6호기업인수목적",
+      "report": "효력발생안내( 2026.9.17. 제출 증권신고서(지분증권) )",
+      "date": "2026-10-15",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917100022",
+      "id": "20260917100022-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "아이엠기업인수목적1호",
+      "report": "효력발생안내( 2026.9.17. 제출 증권신고서(지분증권) )",
+      "date": "2026-10-15",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917100010",
+      "id": "20260917100010-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
@@ -260,186 +280,6 @@
       "market": "기타",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000149",
       "id": "20261012000149-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "빅텐츠",
-      "report": "주권매매거래정지              (상장적격성 실질심사 대상 (사유발생))",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900935",
-      "id": "20261008900935-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "에쎈테크",
-      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900880",
-      "id": "20261008900880-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "베노티앤알",
-      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900765",
-      "id": "20261008900765-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "좋은사람들",
-      "report": "주권매매거래정지해제              (감자 주권 변경상장 등)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900613",
-      "id": "20261008900613-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "이오플로우",
-      "report": "주권매매거래정지기간변경              (개선기간 부여)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900461",
-      "id": "20261008900461-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "엔켐",
-      "report": "[기재정정]회사합병결정(종속회사의주요경영사항)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900217",
-      "id": "20261008900217-listing"
-    },
-    {
-      "topic": "pcb",
-      "reason": "감시 기업, 타법인주식",
-      "corp": "SKC",
-      "report": "[기재정정]타법인주식및출자증권취득결정(종속회사의주요경영사항)",
-      "date": "2026-10-08",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800888",
-      "id": "20261008800888-pcb"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "다비오",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000705",
-      "id": "20261008000705-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "엔키화이트햇",
-      "report": "증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000660",
-      "id": "20261008000660-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "영광와이케이엠씨",
-      "report": "증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000649",
-      "id": "20261008000649-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "영광",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000623",
-      "id": "20261008000623-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "인텔리빅스",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000310",
-      "id": "20261008000310-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "인텔리빅스",
-      "report": "[첨부정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000306",
-      "id": "20261008000306-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "이렘",
-      "report": "[발행조건확정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000305",
-      "id": "20261008000305-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "아이엠기업인수목적1호",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000225",
-      "id": "20261008000225-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "아이엠기업인수목적1호",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000158",
-      "id": "20261008000158-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "이렘",
-      "report": "효력발생안내( 2026.9.23. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-08",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260923100011",
-      "id": "20260923100011-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "디티에스",
-      "report": "효력발생안내( 2026.9.11. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-08",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260911100002",
-      "id": "20260911100002-listing"
     }
   ]
 }
