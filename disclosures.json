@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-20T00:49:50.675Z",
+  "updated": "2026-10-20T14:11:56.839Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "하나32호스팩",
+      "report": "주권매매거래정지              (상장폐지 사유발생)",
+      "date": "2026-10-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900775",
+      "id": "20261020900775-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "DGI",
+      "report": "주권매매거래정지해제              (상장유지 결정)",
+      "date": "2026-10-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900753",
+      "id": "20261020900753-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "에코볼트",
+      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
+      "date": "2026-10-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900700",
+      "id": "20261020900700-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "자비스",
+      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+      "date": "2026-10-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900564",
+      "id": "20261020900564-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "HD현대",
+      "report": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-10-20",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800232",
+      "id": "20261020800232-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에이엔에이치스트럭쳐",
+      "report": "증권신고서(지분증권)",
+      "date": "2026-10-20",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000375",
+      "id": "20261020000375-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "인텔리빅스",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-20",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000360",
+      "id": "20261020000360-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "이에스티",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-10-20",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000144",
+      "id": "20261020000144-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
