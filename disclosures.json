@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:11:56.839Z",
+  "updated": "2026-10-21T00:15:01.559Z",
   "items": [
     {
       "topic": "listing",
@@ -610,76 +610,6 @@
       "market": "기타",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917100010",
       "id": "20260917100010-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "제이엠아이",
-      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
-      "date": "2026-10-14",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900630",
-      "id": "20261014900630-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "대성창투",
-      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
-      "date": "2026-10-14",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900520",
-      "id": "20261014900520-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "넥사다이내믹스",
-      "report": "주권매매거래정지              (단일판매공급계약)",
-      "date": "2026-10-14",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900327",
-      "id": "20261014900327-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "래블업",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-14",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000436",
-      "id": "20261014000436-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "주식의포괄적교환",
-      "corp": "네오오토",
-      "report": "[기재정정]증권신고서(주식의포괄적교환ㆍ이전)",
-      "date": "2026-10-14",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000358",
-      "id": "20261014000358-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "에스케이증권제14호기업인수목적",
-      "report": "[발행조건확정]증권신고서(지분증권)",
-      "date": "2026-10-14",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000196",
-      "id": "20261014000196-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "인텔리빅스",
-      "report": "효력발생안내( 2026.9.16. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-14",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916100012",
-      "id": "20260916100012-listing"
     }
   ]
 }
