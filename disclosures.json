@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-21T14:24:51.960Z",
+  "updated": "2026-10-22T00:20:12.001Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "IBKS제25호스팩",
+      "report": "[기재정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-22",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000442",
+      "id": "20261021000442-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "넥스아이",
+      "report": "효력발생안내( 2026.9.28. 제출 증권신고서(지분증권) )",
+      "date": "2026-10-22",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928100043",
+      "id": "20260928100043-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
@@ -550,206 +570,6 @@
       "market": "코스닥",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929100018",
       "id": "20260929100018-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "에스아이리소스",
-      "report": "주권매매거래정지기간변경              (상장적격성 실질심사 대상 결정)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900800",
-      "id": "20261015900800-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "소프트센",
-      "report": "주권매매거래정지              (소프트센 1우선주 상장폐지 사유발생)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900767",
-      "id": "20261015900767-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "우진엔텍",
-      "report": "주권매매거래정지해제              (상장적격성 실질심사 대상 제외 결정)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900690",
-      "id": "20261015900690-listing"
-    },
-    {
-      "topic": "physical",
-      "reason": "감시 기업, 단일판매",
-      "corp": "현대무벡스",
-      "report": "[기재정정]단일판매ㆍ공급계약체결",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900637",
-      "id": "20261015900637-physical"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "모아데이타",
-      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900469",
-      "id": "20261015900469-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "진시스템",
-      "report": "회사합병결정(종속회사의주요경영사항)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900323",
-      "id": "20261015900323-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "케어랩스",
-      "report": "회사합병결정(종속회사의주요경영사항)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015900284",
-      "id": "20261015900284-listing"
-    },
-    {
-      "topic": "pcb",
-      "reason": "감시 기업, 타법인주식",
-      "corp": "코리아써키트",
-      "report": "타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항)",
-      "date": "2026-10-15",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800613",
-      "id": "20261015800613-pcb"
-    },
-    {
-      "topic": "pcb",
-      "reason": "감시 기업, 타법인주식",
-      "corp": "코리아써키트",
-      "report": "타법인주식및출자증권처분결정(자율공시)",
-      "date": "2026-10-15",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800601",
-      "id": "20261015800601-pcb"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "아이에이",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000431",
-      "id": "20261015000431-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "바로팜",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-15",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000345",
-      "id": "20261015000345-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "엠비디",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-15",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000329",
-      "id": "20261015000329-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "뷰노",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000309",
-      "id": "20261015000309-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "경농",
-      "report": "주요사항보고서(회사합병결정)",
-      "date": "2026-10-15",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000254",
-      "id": "20261015000254-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "진시스템",
-      "report": "주요사항보고서(회사합병결정)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000167",
-      "id": "20261015000167-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "IBKS제25호스팩",
-      "report": "[기재정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000139",
-      "id": "20261015000139-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "바비톡",
-      "report": "회사합병결정",
-      "date": "2026-10-15",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000138",
-      "id": "20261015000138-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "케어랩스",
-      "report": "주요사항보고서(회사합병결정)",
-      "date": "2026-10-15",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000118",
-      "id": "20261015000118-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "한화플러스제6호기업인수목적",
-      "report": "효력발생안내( 2026.9.17. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-15",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917100022",
-      "id": "20260917100022-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "아이엠기업인수목적1호",
-      "report": "효력발생안내( 2026.9.17. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-15",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917100010",
-      "id": "20260917100010-listing"
     }
   ]
 }
