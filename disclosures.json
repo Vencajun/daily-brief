@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-25T13:38:07.599Z",
+  "updated": "2026-10-25T23:41:16.968Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "제논",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-10-26",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000001",
+      "id": "20261026000001-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "주식의포괄적교환",
+      "corp": "네오오토",
+      "report": "효력발생안내( 2026.10.14. 제출 증권신고서(주식의포괄적교환ㆍ이전) )",
+      "date": "2026-10-26",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014100006",
+      "id": "20261014100006-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
@@ -590,216 +610,6 @@
       "market": "기타",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000144",
       "id": "20261020000144-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "케이씨티",
-      "report": "주권매매거래정지              (상장적격성 실질심사 대상 (사유발생))",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900664",
-      "id": "20261019900664-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "파이온엑스",
-      "report": "주권매매거래정지기간변경              (파산신청)",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900622",
-      "id": "20261019900622-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "DH오토리드",
-      "report": "회사합병결정(종속회사의주요경영사항)",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900493",
-      "id": "20261019900493-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "옴니시스템",
-      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900447",
-      "id": "20261019900447-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "비나텍",
-      "report": "주권매매거래정지              (단일판매공급계약)",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900330",
-      "id": "20261019900330-listing"
-    },
-    {
-      "topic": "pcb",
-      "reason": "감시 기업, 단일판매",
-      "corp": "삼성전기",
-      "report": "단일판매ㆍ공급계약체결",
-      "date": "2026-10-19",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800610",
-      "id": "20261019800610-pcb"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "현대위아",
-      "report": "매매거래정지및정지해제(중요내용공시)",
-      "date": "2026-10-19",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800141",
-      "id": "20261019800141-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "감시 기업, 단일판매",
-      "corp": "LS",
-      "report": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
-      "date": "2026-10-19",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800111",
-      "id": "20261019800111-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "에스에프씨",
-      "report": "증권신고서(지분증권)",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000368",
-      "id": "20261019000368-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "마뗑킴",
-      "report": "회사합병결정",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000351",
-      "id": "20261019000351-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "하고하우스",
-      "report": "회사합병결정",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000346",
-      "id": "20261019000346-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "씨아이에스케미칼",
-      "report": "증권신고서(지분증권)",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000343",
-      "id": "20261019000343-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "우성",
-      "report": "[기재정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-19",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000317",
-      "id": "20261019000317-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "DH오토넥스",
-      "report": "주요사항보고서(회사합병결정)",
-      "date": "2026-10-19",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000292",
-      "id": "20261019000292-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "크리에이츠",
-      "report": "[발행조건확정]증권신고서(지분증권)",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000283",
-      "id": "20261019000283-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "대원",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-19",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000206",
-      "id": "20261019000206-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "한화플러스제6호기업인수목적",
-      "report": "[발행조건확정]증권신고서(지분증권)",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000182",
-      "id": "20261019000182-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "하나에어로다이내믹스",
-      "report": "효력발생안내( 2026.9.21. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921100013",
-      "id": "20260921100013-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "래블업",
-      "report": "효력발생안내( 2026.9.21. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921100012",
-      "id": "20260921100012-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "영광",
-      "report": "효력발생안내( 2026.9.21. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921100011",
-      "id": "20260921100011-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "이에스티",
-      "report": "효력발생안내( 2026.9.21. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-19",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260921100009",
-      "id": "20260921100009-listing"
     }
   ]
 }
