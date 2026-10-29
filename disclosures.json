@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-29T01:25:40.634Z",
+  "updated": "2026-10-29T15:57:51.809Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "KT지니뮤직",
+      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+      "date": "2026-10-29",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029900576",
+      "id": "20261029900576-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "SCL사이언스",
+      "report": "주요사항보고서(회사합병결정)",
+      "date": "2026-10-29",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000639",
+      "id": "20261029000639-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "콜마비앤에이치",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-29",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000586",
+      "id": "20261029000586-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "콜마비앤에이치",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-29",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000532",
+      "id": "20261029000532-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "옵토닉스",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-29",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000504",
+      "id": "20261029000504-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "상지건설",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-29",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000422",
+      "id": "20261029000422-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "신영해피투모로우제12호기업인수목적",
+      "report": "[첨부정정]증권신고서(지분증권)",
+      "date": "2026-10-29",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000239",
+      "id": "20261029000239-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "회사분할결정",
+      "corp": "유니투스",
+      "report": "회사분할결정",
+      "date": "2026-10-29",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000157",
+      "id": "20261029000157-listing"
+    },
     {
       "topic": "listing",
       "reason": "합병결정",
@@ -610,186 +690,6 @@
       "market": "코스닥",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014100006",
       "id": "20261014100006-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "퀀텀레일",
-      "report": "주권매매거래정지              (자본감소)",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023901015",
-      "id": "20261023901015-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "바른손이앤에이",
-      "report": "주권매매거래정지기간변경",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023901010",
-      "id": "20261023901010-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "에스엘에스바이오",
-      "report": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900923",
-      "id": "20261023900923-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "아이스크림에듀",
-      "report": "주권매매거래정지기간변경",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900841",
-      "id": "20261023900841-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "티케이지애강",
-      "report": "주권매매거래정지기간변경",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900835",
-      "id": "20261023900835-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "뉴인텍",
-      "report": "주권매매거래정지기간변경",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900812",
-      "id": "20261023900812-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "형지글로벌",
-      "report": "주권매매거래정지기간변경",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900796",
-      "id": "20261023900796-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "제논",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-23",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000486",
-      "id": "20261023000486-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "아센디오",
-      "report": "주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000356",
-      "id": "20261023000356-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "한솔아이원스",
-      "report": "증권신고서(지분증권)",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000337",
-      "id": "20261023000337-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "동원파츠",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-10-23",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000331",
-      "id": "20261023000331-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "피스피스스튜디오",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000237",
-      "id": "20261023000237-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "피스피스스튜디오",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000122",
-      "id": "20261023000122-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "주성코퍼레이션",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000121",
-      "id": "20261023000121-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "주성코퍼레이션",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000115",
-      "id": "20261023000115-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "우성",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000112",
-      "id": "20261023000112-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "우성",
-      "report": "[기재정정]주요사항보고서(회사합병결정)",
-      "date": "2026-10-23",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000513",
-      "id": "20261022000513-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "옵토닉스",
-      "report": "효력발생안내( 2026.9.29. 제출 증권신고서(지분증권) )",
-      "date": "2026-10-23",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929100019",
-      "id": "20260929100019-listing"
     }
   ]
 }
