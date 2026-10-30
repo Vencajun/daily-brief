@@ -1,6 +1,226 @@
 {
-  "updated": "2026-10-30T01:26:55.216Z",
+  "updated": "2026-10-30T15:44:13.403Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "키움제10호스팩",
+      "report": "주권매매거래정지              (SPAC 합병(예비심사청구대상))",
+      "date": "2026-10-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030901414",
+      "id": "20261030901414-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "엑셈",
+      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+      "date": "2026-10-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900815",
+      "id": "20261030900815-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)(자회사의 주요경영사항)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801293",
+      "id": "20261030801293-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표",
+      "report": "주요사항보고서(회사합병결정)(자회사의 주요경영사항)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801011",
+      "id": "20261030801011-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "샘표식품",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800929",
+      "id": "20261030800929-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "샘표",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800926",
+      "id": "20261030800926-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "한국철강",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800696",
+      "id": "20261030800696-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "KISCO홀딩스",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800692",
+      "id": "20261030800692-listing"
+    },
+    {
+      "topic": "pcb",
+      "reason": "감시 기업, 단일판매",
+      "corp": "삼성전기",
+      "report": "단일판매ㆍ공급계약체결",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800604",
+      "id": "20261030800604-pcb"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "키움제10호스팩",
+      "report": "주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000754",
+      "id": "20261030000754-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000700",
+      "id": "20261030000700-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표식품",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000695",
+      "id": "20261030000695-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "다비오",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000682",
+      "id": "20261030000682-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "영광와이케이엠씨",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000616",
+      "id": "20261030000616-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 자기주식",
+      "corp": "SK",
+      "report": "주요사항보고서(자기주식처분결정)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000587",
+      "id": "20261030000587-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표",
+      "report": "주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000485",
+      "id": "20261030000485-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "샘표식품",
+      "report": "주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000482",
+      "id": "20261030000482-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "넥스아이",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000467",
+      "id": "20261030000467-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "바로팜",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000396",
+      "id": "20261030000396-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "한화플러스제5호스팩",
+      "report": "[기재정정]주요사항보고서(회사합병결정)",
+      "date": "2026-10-30",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000346",
+      "id": "20261030000346-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에이엘로봇",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000140",
+      "id": "20261030000140-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "동원파츠",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-10-30",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000113",
+      "id": "20261030000113-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
