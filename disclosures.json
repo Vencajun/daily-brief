@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-01T15:53:26.850Z",
+  "updated": "2026-11-02T01:08:21.082Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "영광와이케이엠씨",
+      "report": "효력발생안내( 2026.10.8. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-02",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008100023",
+      "id": "20261008100023-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
