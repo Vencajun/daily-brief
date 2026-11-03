@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-02T19:19:10.126Z",
+  "updated": "2026-11-03T03:10:56.936Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에이엔에이치스트럭쳐",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-03",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000106",
+      "id": "20261103000106-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에이엘로봇",
+      "report": "효력발생안내( 2026.10.12. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-03",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012100006",
+      "id": "20261012100006-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
