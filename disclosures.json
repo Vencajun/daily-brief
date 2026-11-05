@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-04T16:57:28.128Z",
+  "updated": "2026-11-05T01:54:43.922Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "우회상장",
+      "corp": "피노",
+      "report": "주권매매거래정지              (우회상장여부 및 요건충족확인)",
+      "date": "2026-11-05",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900005",
+      "id": "20261105900005-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
