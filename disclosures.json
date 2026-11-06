@@ -1,6 +1,86 @@
 {
-  "updated": "2026-11-06T01:55:58.008Z",
+  "updated": "2026-11-06T16:39:43.390Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "하이드로리튬",
+      "report": "주권매매거래정지",
+      "date": "2026-11-06",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106901004",
+      "id": "20261106901004-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 유상증자",
+      "corp": "LS",
+      "report": "유상증자또는주식관련사채등의발행결과(자율공시)(자회사의 주요경영사항)",
+      "date": "2026-11-06",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800944",
+      "id": "20261106800944-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "고려제강",
+      "report": "매매거래정지및정지해제(중요내용공시)",
+      "date": "2026-11-06",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800562",
+      "id": "20261106800562-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "우리투자제1호기업인수목적",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-06",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000449",
+      "id": "20261106000449-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "큐리언트",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-06",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000409",
+      "id": "20261106000409-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "IBKS제24호스팩",
+      "report": "[첨부정정]주요사항보고서(회사합병결정)",
+      "date": "2026-11-06",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000338",
+      "id": "20261106000338-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "한솔아이원스",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-06",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000195",
+      "id": "20261106000195-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "회사분할결정",
+      "corp": "스튜디오프리즘",
+      "report": "회사분할결정",
+      "date": "2026-11-06",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000117",
+      "id": "20261106000117-listing"
+    },
     {
       "topic": "listing",
       "reason": "증권신고서(지분증권)",
