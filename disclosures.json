@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:58:31.027Z",
+  "updated": "2026-11-08T15:51:46.502Z",
   "items": [
     {
       "topic": "listing",
@@ -490,46 +490,6 @@
       "market": "기타",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012100006",
       "id": "20261012100006-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "젠큐릭스",
-      "report": "주권매매거래정지기간변경              (상장적격성 실질심사 대상 결정)",
-      "date": "2026-11-02",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900880",
-      "id": "20261102900880-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "한국유니온제약",
-      "report": "주권매매거래정지기간변경              (투자자 보호)",
-      "date": "2026-11-02",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900614",
-      "id": "20261102900614-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "SCL사이언스",
-      "report": "[첨부정정]주요사항보고서(회사합병결정)",
-      "date": "2026-11-02",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000071",
-      "id": "20261102000071-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "영광와이케이엠씨",
-      "report": "효력발생안내( 2026.10.8. 제출 증권신고서(지분증권) )",
-      "date": "2026-11-02",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008100023",
-      "id": "20261008100023-listing"
     }
   ]
 }
