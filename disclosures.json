@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-08T15:51:46.502Z",
+  "updated": "2026-11-09T01:19:13.404Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "한솔아이원스",
+      "report": "효력발생안내( 2026.10.23. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023100005",
+      "id": "20261023100005-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "제이앤티지",
+      "report": "효력발생안내( 2026.10.16. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016100015",
+      "id": "20261016100015-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "씨앤엠",
+      "report": "효력발생안내( 2026.10.16. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016100012",
+      "id": "20261016100012-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
