@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-09T01:19:13.404Z",
+  "updated": "2026-11-09T19:38:31.635Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "스코넥",
+      "report": "주권매매거래정지기간변경              (상장폐지 사유 발생)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900801",
+      "id": "20261109900801-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "아이티센피엔에스",
+      "report": "회사합병결정(종속회사의주요경영사항)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900676",
+      "id": "20261109900676-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "대성창투",
+      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900577",
+      "id": "20261109900577-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "제이엠아이",
+      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900527",
+      "id": "20261109900527-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "TS트릴리온",
+      "report": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900447",
+      "id": "20261109900447-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "회사분할결정",
+      "corp": "DL",
+      "report": "회사분할결정(종속회사의주요경영사항)",
+      "date": "2026-11-09",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800728",
+      "id": "20261109800728-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "이렘",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-09",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000389",
+      "id": "20261109000389-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "합병결정",
+      "corp": "레시피그룹",
+      "report": "회사합병결정",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000190",
+      "id": "20261109000190-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "하나에어로다이내믹스",
+      "report": "[발행조건확정]증권신고서(지분증권)",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000163",
+      "id": "20261109000163-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "이노보테라퓨틱스",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000160",
+      "id": "20261109000160-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "하나에어로다이내믹스",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-09",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000048",
+      "id": "20261109000048-listing"
+    },
     {
       "topic": "listing",
       "reason": "증권신고서(지분증권)",
@@ -380,146 +490,6 @@
       "market": "기타",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000099",
       "id": "20261104000099-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "비케이홀딩스",
-      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900693",
-      "id": "20261103900693-listing"
-    },
-    {
-      "topic": "pcb",
-      "reason": "감시 기업, 신규시설투자",
-      "corp": "심텍",
-      "report": "신규시설투자등",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900663",
-      "id": "20261103900663-pcb"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "파라택시스이더리움",
-      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900435",
-      "id": "20261103900435-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "E8",
-      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900413",
-      "id": "20261103900413-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "매매거래정지",
-      "corp": "유니슨",
-      "report": "주권매매거래정지해제              (액면병합 주권 변경상장)",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900406",
-      "id": "20261103900406-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "회사분할결정",
-      "corp": "SBS",
-      "report": "회사분할결정(종속회사의주요경영사항)",
-      "date": "2026-11-03",
-      "market": "코스피",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800471",
-      "id": "20261103800471-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "휴림에이텍",
-      "report": "정정신고서제출요구( 2026.10.21. 제출 증권신고서(지분증권) )",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103100041",
-      "id": "20261103100041-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "씨앤엠",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000363",
-      "id": "20261103000363-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "엔키화이트햇",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000358",
-      "id": "20261103000358-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "키움제10호스팩",
-      "report": "[기재정정]주요사항보고서(회사합병결정)",
-      "date": "2026-11-03",
-      "market": "코스닥",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000313",
-      "id": "20261103000313-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "영광와이케이엠씨",
-      "report": "[발행조건확정]증권신고서(지분증권)",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000312",
-      "id": "20261103000312-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "합병결정",
-      "corp": "플래닛147",
-      "report": "회사합병결정",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000233",
-      "id": "20261103000233-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "에이엔에이치스트럭쳐",
-      "report": "[기재정정]증권신고서(지분증권)",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000106",
-      "id": "20261103000106-listing"
-    },
-    {
-      "topic": "listing",
-      "reason": "증권신고서(지분증권)",
-      "corp": "에이엘로봇",
-      "report": "효력발생안내( 2026.10.12. 제출 증권신고서(지분증권) )",
-      "date": "2026-11-03",
-      "market": "기타",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012100006",
-      "id": "20261012100006-listing"
     }
   ]
 }
