@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-09T19:38:31.635Z",
+  "updated": "2026-11-10T03:54:01.671Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에스에프씨",
+      "report": "효력발생안내( 2026.10.19. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-10",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019100069",
+      "id": "20261019100069-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
