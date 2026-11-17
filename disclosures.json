@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-16T19:25:50.726Z",
+  "updated": "2026-11-17T04:16:31.964Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "우리투자제1호기업인수목적",
+      "report": "효력발생안내( 2026.10.26. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-17",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026100005",
+      "id": "20261026100005-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
