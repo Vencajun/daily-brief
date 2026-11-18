@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-17T18:19:34.128Z",
+  "updated": "2026-11-18T03:15:30.522Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "아델",
+      "report": "효력발생안내( 2026.10.27. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-18",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028100001",
+      "id": "20261028100001-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
