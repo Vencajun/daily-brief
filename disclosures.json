@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-18T17:53:38.086Z",
+  "updated": "2026-11-19T02:53:22.625Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "이렘",
+      "report": "효력발생안내( 2026.11.9. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-19",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109100021",
+      "id": "20261109100021-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "신영해피투모로우제12호기업인수목적",
+      "report": "효력발생안내( 2026.10.28. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-19",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028100078",
+      "id": "20261028100078-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
