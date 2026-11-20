@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-20T02:45:36.211Z",
+  "updated": "2026-11-20T17:39:15.023Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "빅텐츠",
+      "report": "주권매매거래정지기간변경              (상장적격성 실질심사 대상 결정)",
+      "date": "2026-11-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900902",
+      "id": "20261120900902-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "캐리",
+      "report": "주권매매거래정지기간변경              (상장폐지 사유 발생)",
+      "date": "2026-11-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900894",
+      "id": "20261120900894-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "듀오백",
+      "report": "주권매매거래정지기간변경              (개선기간 부여)",
+      "date": "2026-11-20",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900832",
+      "id": "20261120900832-listing"
+    },
     {
       "topic": "physical",
       "reason": "감시 기업, 단일판매",
@@ -10,6 +40,16 @@
       "market": "코스닥",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120",
       "id": "20261120900120-physical"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "피지티",
+      "report": "증권신고서(지분증권)",
+      "date": "2026-11-20",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000538",
+      "id": "20261120000538-listing"
     },
     {
       "topic": "listing",
