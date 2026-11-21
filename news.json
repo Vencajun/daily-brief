@@ -1,6 +1,508 @@
 {
-  "updated": "2026-11-20T17:39:09.913Z",
+  "updated": "2026-11-21T02:55:23.571Z",
   "items": [
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZQlp1X3JqUnI0OTRLQ3M1Ql9PaWJUbXQzZl9pWkx4MFliMk9FZUZyb09PRi1mYkhacVpXeHFQemhlZ1dOd3h2SlV2aVl5YmtyQnJNS0ZyTG1TdWRVaENoZXRxenM0TGM?oc=5",
+      "source": "인공지능신문",
+      "published": "2026-11-21T02:24:19.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "다스코리아, 협동로봇·AMR·3D 비전 연계해 제조 자동화 지원",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52M3pUa2NuN0R2aGpoMEVxdTNFdWpRWktNYmJhT0RlUHltLUswcXNUaUJESDNUU254Q1lOSzBDbkI1cHhX?oc=5",
+      "source": "산업일보",
+      "published": "2026-11-21T02:20:20.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "이수페타시스 11월 3주차 주가 하락세 전환",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSVQwbWZrNTB4MW53bi1HcEZtNFVBZ3J5ekFxXzdvcGlZTFY2NldxeVk1ZF9Kem9ySmJ6VmtfU0dmQzlwVDljOXlFMy1zX3Z5Uml3ZEpNT1hMR0pDTzVqanhLRzhMWUNsWFQ1MEE2RTVVdw?oc=5",
+      "source": "중앙이코노미뉴스",
+      "published": "2026-11-21T02:07:10.000Z",
+      "q": "이수페타시스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "미래 피지컬 AI 인재 한자리에…청소년 114명, 로봇 실력 겨룬다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MQ0pISHpmMHd1ZnJ6T0p2Y2ZRQ3JPeEtXcVBibGJBbGkwMnVOQ0E0RjR4TUtKbW9xOFZ4WHpPV3RMeG9ZMkI0dkJIMVlzalVTSDk3Skh3?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-11-21T02:00:02.000Z",
+      "q": "피지컬 AI",
+      "related": [
+        {
+          "title": "미래 피지컬 AI 인재 찾는다…청소년 로보틱스 챌린지",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTeHA0azlnUGNFUjZTZkQ3b0puUjBXZXhOa2NUaGFzWk84aHlWS2o0YnZvb3E4cGwxZXM2NF85bEpmTnBFS3JUMnhhbUJWUGN1UWpxUUM0eUVMbjZ3RW00alNsYVRsQQ?oc=5",
+          "source": "뉴스1"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "3482억원 `국산 피지컬 AI` 연구개발 윤곽…IITP “현장 작동 여부가 관건”",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pR0dsNGJHWUxlT0hOX0cxaGRYNXpraHZKd3J3SG5uRXdUUXZPVUlscXZpZXM5OUtUbmpvQnE1M0x5aldwWjFsNzF1dTRTUVdyeWVJaWVUbTJoeWthWVFGaFNoVV8?oc=5",
+      "source": "디지털데일리",
+      "published": "2026-11-21T02:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "전처 닮은 3억짜리 ‘애인 로봇’을 샀다…그 집서 벌어진 섬뜩한 일",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UVkMxTUFDQ1EwOFlsaFpRNEhOSHhNaTcxVWJpSVlxemR1b1VqQzVYVmszNGVseFBlYjZtMHQ3YWNSVGU2TERsblMwdExaNktRVlM2NzRYaEVlMFlYOHBPVW5R?oc=5",
+      "source": "미주중앙일보",
+      "published": "2026-11-21T02:00:00.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "이수페타시스, 수주잔고 7849억원…고부가 PCB가 이익 키운다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BMlp1N3IyeFlRbl84dzZPdGRqWmIzTm5heU56em0wTkR0THhFMnlzbm42YnRTdDdVZUNNU2hrZk5nRFZNR0VwWmdhMlV1ZmxWOC1iQnVaQ1JsSGJvZFA3cXAxVkdqTzY1alRVQzcteGZEcEHSAXdBVV95cUxNRHBWYTlmNjdMQ2R6dUhpY1p6cGtpU3VoLW9iR08tSnZvbGZyUjFmdDc1Z2FOdmpzbld0M2ZiZjRnRlBFZGxpY3kwOWxDV2l3aVpXWC1TVGk5QTFCRjE2Q1BNQllPYlFDX0pFUl9pSHJfYlJWTlNfdw?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-11-21T01:23:54.000Z",
+      "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "3D 세포배양 기업 엠비디, 24일 코스닥 상장",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4c2FwRVNLNkV2dXhjS25ad1VIN1pGek9zNnZaTDVhcnFiYURSRTJNX19lNnZqelpiQXA1dzBkd1czcmNweXZrQTNUYk5zRlZtUGJpRzUzTjlmeGducVlSaE1DcFdwYk13SXNrbnRvYmU?oc=5",
+      "source": "코리아리포트",
+      "published": "2026-11-21T01:19:58.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "금융硏 \"반도체 부가가치 '코로나 호황' 10배인데...고용유발 미미\"",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZ1hlZHZnRDZsV0ItUlI5bzBtNjdHRjdaWEJiVzJkazZoTWxvdEYtbnRNVXNVT2xnRklqMXQ4WkZDLVVSZUo3clhFcGEwMUU4UGMxcU5DdjBSTFJyX3RZVEJHdTZOUG9iOEkyVTRVTVhKUjdj?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-11-21T01:15:00.000Z",
+      "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[VC's Pick]사람 손 대신해주는 똘똘한 '의료 AI·로봇' 기술에 뭉칫돈",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSW50U1V5cUJqSklEOGxadUVjTGoyS2FTOGV6cEttb3JrX3hfcThaNnlQeEwyR1FaWFVITFowVTEyRHlxQVgtQ3R1Tjk2QmQtX0ZsVTZyMkdLTFBHbFhWMUtIVTFIMGhyVW43bTJ3UHZYTDk2V0FrS2wybkFjdHJfUw?oc=5",
+      "source": "이데일리",
+      "published": "2026-11-21T01:04:03.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "\"저PBR 기업, 상폐가 최대주주에 유리하다고?\"…오해와 진실[주末머니]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lTm10NHQxbDUxbzMwN3pPNDBfd2VPTTQ3SXV4V2ZadVVIMXVLeHR3N2xUQmg2d2NDSHFsRUpQNWxsRTdFd2dGUlF2THVHX2lJTndOTnpwdmxEVFVHQjdyamFn?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-21T01:01:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "서울시립대·한국피지컬AI협회, 도시 분야 피지컬 AI 공동 연구 추진",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UWWItejJzWUpaS0dCWGN3ck56TDMxZF9Iemh2dzhCTWh5VERqWkQwNWVlV3pJaUVWWFJWTldCMjNfcVZBWFp3eXBCMTEzTXNZaFE5MmFR?oc=5",
+      "source": "중앙일보",
+      "published": "2026-11-21T01:00:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[이번주투자] 메디인테크‧익스톨…로봇‧소재가 다 했다",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVRklKVVZDZWFfOXJxZ3I2dWtncVdRci1OZWZVdUpoNmtpdm1hRVc4WDFSZHRCNWNjRWFhczRqU01PMEhpZGFZYkRKYVhjVWlBWFlZbkE0bw?oc=5",
+      "source": "스타트업레시피",
+      "published": "2026-11-21T01:00:00.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "피지티, 증권신고서 제출...최대 280억원 공모 추진",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CN1dwbmhOYU9xNmYxdjJCZ0MxLVRMRmpqZnN0MEpmZHVpaWY3bEdDaEh3SUVndEZEUzV4VW9Wek1RRFlsbjhjWW1zR2NKYXg4RnVJdzNTaThTNHBXLTNvWDFLaW1ST3QyaWc?oc=5",
+      "source": "월요신문",
+      "published": "2026-11-21T00:56:57.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "LG디스플레이, 3조 규모 파주 10.5세대 OLED 투자 철회",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1QkJrd254R1EyM1BWSlVlbG5wRUVBanpEazRCXzNXaU40a2ZGNWZiUTA5R3hROWJGLTBxOF9McVFUelowMHVWcV9NUUp0MDFFSTdGbXduWGYzMzI4Ykl1V1M2bkhnejFsc0NGZUxn?oc=5",
+      "source": "알파경제",
+      "published": "2026-11-21T00:47:29.000Z",
+      "q": "유리기판",
+      "related": [
+        {
+          "title": "[한눈에 보는 Weekly 기업 소식] LG디스플레이, 3조원 규모 파주 10.5세대 WOLED 투자 철회",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ieWFrV3l3dWhLcWFZa3N5ZFZTei1VYy1wNkRmX1YyT2psVDlYU2E2Q3VHLUxXN2ZNY0lKUnlPdFI5cG0zcTBLeUkya3FEWFlkVFF6bkR3WXRISEl2c29RU0lTdVBiRHlE0gFsQVVfeXFMTmR2MzVIc29mWjBWSlpEbU1IV3lxQl9HZ2E3U1VPb003TWNzX3FLUGRHLUFXSkRuZ0kxZldNdzZpUmVlNzJ1R0dwZzQyNktzQllKMXFDMm4yZktDWDZSeDFoazRuNHlaRDEyQXkw?oc=5",
+          "source": "KIPOST"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWjg3UlYzdFNuQWlxd2VDWC1YWGtKSmxaQW9lemNsZFdLd0ttX19lWUVWanhRMXpwVWF6NlNVd1pXRUMwNlI3SFlKYS0xaG4xOTlZWWlR?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-11-21T00:11:05.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "[IPO챗] 내주 엠비디 코스닥 입성…4개사 수요예측",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aYmx0WWN0enlEVEdXNGR1YkhPYmtNSjZXWXBoa0dzV21WTVAxaHB0R2dKazFQQnVYV1lwcWw0MlBveVhGeURPcXJKeW9hWGNRWl8tQkd3VFlCaGNnTzU1bdIBYEFVX3lxTE1aYmx0WWN0enlEVEdXNGR1YkhPYmtNSjZXWXBoa0dzV21WTVAxaHB0R2dKazFQQnVYV1lwcWw0MlBveVhGeURPcXJKeW9hWGNRWl8tQkd3VFlCaGNnTzU1bQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-21T00:00:04.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "엠비디 코스닥 입성⋯ANH스트럭쳐·이노보테라퓨틱스 수요예측 [주간 IPO]",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uZVdKSjMtTk9jYkRPOXRoOWxoN01EcDRxN2dPeU55ZmdVMjF1U2FxN2FnT3h4UzJiTVd5ZksxT0lheFBYcjVYdkpPZTZrOFE2M1dKeXRjV3ZrbEhDTVZqdEdDYUx6VTYySGJ0ckVB?oc=5",
+      "source": "이투데이",
+      "published": "2026-11-21T00:00:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[기자수첩] 조선소 파고든 로봇, 현장은 여전히 사람",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OUmVzNlhZXzRjekR1dmJKQmM1RkNEM2FTbXR4dlZaVTF4cXFRb21MZU5nMkt3NkJ2WGpkWW9mYm5OUFdyNHJUOUZqTVo0U2lHaVd6a1dieG5EUHlyc1E2cWxBUjlYVUtCcHc?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-11-21T00:00:00.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "코스피, 20일 장 초반 3.58% 하락…다시 5000선 아래로",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QRTBBLVk3NTlIZ1ZyUXlvanVmbXlZVGR1dTFnY2EtYTJHSTFIZW1FMUxPdmhfM0hkakxjVXE3Mi1aWTQxa3gwMWFTbVA?oc=5",
+      "source": "한국IT산업뉴스",
+      "published": "2026-11-20T23:32:45.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "\"돈 싸들고 줄 서더니\"…4개월 만에 75% 증발 '줄도산 공포' [차이나 워치]",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTd1ZCekNNb25VbG9LVUotQnM3Y0g4MHZJSDVqRTVyLUNkRTdIR0gxNTFnb1lHd1ZwOG1RZ2pONnVFdzJsNEIxRktQRGt5eTNZa2xWWHo1Slk3QQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-20T23:01:01.000Z",
+      "q": "휴머노이드 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[영상] 반도체 공장에 휴머노이드 '아틀라스' 뜬다…스팟은 이미 9만 번 점검",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRDQwM0FlMC1DaG5mR01waU4weWt5U0l0cHRIY0NsRVpINjdJV1FVeUtxakNCZFctMWFrNFRUc2JXZTVSNVpQLUNvODNMY2F1c3NUWVlSckV6QlBIbldxTA?oc=5",
+      "source": "더구루",
+      "published": "2026-11-20T23:00:00.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "병원에 들어온 AI 로봇…의료진 업무 줄이고 환자 돌본다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MS291a2pDZ2ZKZVNkRU9Dak50Vm16TGUxU29ENl9PV0c1c2pJdW5feUxwdUd6SDNUSkxMemMzNWk4ajVLeXNHWXN5UGZIVjhOQzB1cUpJMnF4STRDVF9HOFM4d1NLVGtWMFJtdw?oc=5",
+      "source": "나눔경제뉴스",
+      "published": "2026-11-20T22:45:01.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[주간 코스닥 기관] 레인보우로보틱스 집중 매수…심텍·주성엔지니어링은 팔았다",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yblh6R1FjdU81MTBzZlFLVThEVzJUelFMZEQwTnlVVVA5RTJMcDBZQ2cteFBqTVpWTG9pR0stSzFpVE9HSEw1ekVHQTA2WHRTNnViTzk4TzB2SU9EMDA2M1F0cHo5aFVvcDNHVHRoelNWYUZDUFBz0gF3QVVfeXFMT3JuWHpHUWN1TzUxMHNmUUtVOERXMlR6UUxkRDBOeVVVUDlFMkxwMFlDZy14UGpNWlZMb2lHSy1LMWlUT0dITDV6RUdBMDZYdFM2dWJPOThPMHZJT0QwMDYzUXRwejloVW9wM0dUdGh6U1ZhRkNQUHM?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-11-20T22:40:41.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "\"앤트로픽 '메가 IPO' 조정은 매수 기회…삼전닉스 팔 때 아니다\" |",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DSlh5Zm1ScnNOekRWMm5ScE5KdWF4bXdGY2JOQjlXR2VZVzBrbjZWUEEycWI5VmVOa050SjBrbk9QS0J3R09RdnRYUGlWMWVueENJc09laWdkSW4xSEJXYVR0VFVmNUN2N25LdXRFWExDcl9o?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-11-20T22:38:14.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "이수페타시스, 호실적에도 주가 '반토막'···생산수율 개선 주목",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGTEFqYVNKV0tyaWMtVzhTc3VRUXlLMXc0NUNvOGhod2N5TXlMem9KekRxcFRsWWdWSDNBOTV3cEUtZjl4MktvcmFnS2o3U1VOVDE3d3ozUzdrM2J3RnpBdjRFRjhBUlhWUWc?oc=5",
+      "source": "뉴스웨이",
+      "published": "2026-11-20T22:37:38.000Z",
+      "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "아워 넥스트 에너지, 투자자료서 2027년 매출 6020만 달러 제시…스팩 자금은 셀 공장 확장에",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMTRFQVlEWW8xcWNuRVJIS1RoLWkyMXlqUVBwTlN6UTZvS19LSUpMY3djNVItX0w3SWx1cWtIMERpcUVvcVE3TXAxdzZwQzBBckFzODdVOTBUVmxrTUN0WHZuZUFXQmsxVVdoVEs4Y2pTcEU?oc=5",
+      "source": "데이터투자",
+      "published": "2026-11-20T22:31:08.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "글로벌전자협회 \"전세계 회로 기판 쇼티지 위기 직면\" 경고",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdEl4Uk9zSHZxWE10Rldxb1ZhZk9SSkZocF9mcXFIOXM0VUxaVkQzQ2J2XzVlY2FGTW9BV0RLU0hvRWJyM1lqS0lGdG9JTFJyQ2JQRzMtaEVvWDhEd1E?oc=5",
+      "source": "더구루",
+      "published": "2026-11-20T22:30:41.000Z",
+      "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "코스닥, 좀비기업 내보내야 산다…상장사 63% 퇴출 찬성",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNa0JSRmVrV0tVN3puaEhzbVlpbkxHcDljV0VfRHZVZ3FFR3VKTHRUT0tsZjB5bWs2SG5hTFFCWmNIbkZJWE5hT3Q0alBnUF9zUTR5cTJHaHF3NlY2YUVPVEk0aWFwb1cxZ3RORWlzYS1fN2RLSDdsMzMxYW9kZlBFLWJXVkxnQjFDcVI2c3BvV204V3I4N0taTm96WExsczQyV2VudGJTS3JiTXNGVXN5WTN0aHpkZjZCaU9QMktLNmJrM0lXTmlaMTExRXhOWGVMRWFJZDBudkdLekU4SXp4M2xiQU9SUFhjSzZILXpnMUV5NFV2UzV0U3BTMy1zV2pkbXhvUXpiLWZOVDdFWnFaQTJiaHZxNEl6ZVdYd2hCQUkxZw?oc=5",
+      "source": "데일리안",
+      "published": "2026-11-20T22:30:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "앤트로픽 상장 이틀째 급락‥나스닥 5.3%↓",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-11-20T22:28:35.000Z",
+      "q": "코스닥 상장",
+      "related": [
+        {
+          "title": "[관심주] 앤트로픽 상장 훈풍도 못 막았다… AMD 中 제재 의혹에 이오테크닉스·원익IPS 등 줄줄이 급락",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95M1kxNjRXNnBTYmprclU3WFBRYzlENG9xZm5kUFBLMXVLZEljaFhMUW5MU0g1c1NLMElaZV9TUkVsMTJjckhDN2JDR2ZFaTkwZ1IxbHROamNiMThsT081eDJyMm54d2lV?oc=5",
+          "source": "CBC뉴스"
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "YYForce의 휴머노이드 로봇 및 VLA 훈련 과정, 공영방송인 미디어콥 ‘미팅 AI’ 프로그램에서 집중 조명",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93TVNranRscE9GWjFRWGVqZ2V4akkxeGQ5XzNVTXNJNnc5YzdleFo2ODVINm1fSWM3QjJ5WlgtN21tVGlodldBT3dqR0Q5N056YXZPdGE4a2Nyc09PNU1aYTBNMDNlQW_SAWdBVV95cUxPd01Ta2p0bHBPRloxUVhlamdleGpJMXhkOV8zVU1zSTZ3OWM3ZXhaNjg1SDZtX0ljN0IyeVpYLTdtbVRpaHZXQU93akdEOTdOemF2T3RhOGtjcnNPTzVNWmEwTTAzZUFv?oc=5",
+      "source": "국민기자뉴스",
+      "published": "2026-11-20T22:10:29.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "[마켓人] IT 접목해 주주운동 뒷받침하는 이상목 컨두잇 대표",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QVmIxRTZtZ3h2VFAwTG9RdDhtd1ZUc2VZenU4MGU0T2NRbUxQY0tGX19JNG56aEtWX0pHaFpSZUE0M3VVRlh5cERzNDVsM0FHVzJrWWdKZGdWbUxfT3JiZdIBYEFVX3lxTE9QVmIxRTZtZ3h2VFAwTG9RdDhtd1ZUc2VZenU4MGU0T2NRbUxQY0tGX19JNG56aEtWX0pHaFpSZUE0M3VVRlh5cERzNDVsM0FHVzJrWWdKZGdWbUxfT3JiZQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-20T22:00:09.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "쿠쿠 구본학號 20년, '렌탈·수출' 쌍끌이…연매출 2조 클럽 목전",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tYjNRNWlHZGpjZVhyNlRXMXFzRkV4QzRkTjdDcDh4RTBKN0RPejFRd0FQVlFZUXhKM0x3anJIb3RaeURkd1R4andwUFVFY0U1aGZYbE9IeFhQN0EwVFRmbjlDMWM5dw?oc=5",
+      "source": "더구루",
+      "published": "2026-11-20T22:00:00.000Z",
+      "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "내시경 시장 '日 50년 독점' 깬다… 338억원 뭉칫돈 몰린 K-의료로봇 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03c2NJbk1PVENOYmFiT2NjcDNMOFZCWkhMbnNaS2dkMEI0M0oxZVJGX0xhbU1FN0g0R3ZIZ3p5aDdLaVJMS2MwWjF0R1R0aXlCVkI3ZlZCVE1pRVg2UXVnXzUyWlI2R3RYY2FpSUhUWdIBb0FVX3lxTE03c2NJbk1PVENOYmFiT2NjcDNMOFZCWkhMbnNaS2dkMEI0M0oxZVJGX0xhbU1FN0g0R3ZIZ3p5aDdLaVJMS2MwWjF0R1R0aXlCVkI3ZlZCVE1pRVg2UXVnXzUyWlI2R3RYY2FpSUhUWQ?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-20T22:00:00.000Z",
+      "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "롯데바이오, 1공장 준공하자마자 상장 공식화… 3조원 증설 시동",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02RkFra0MtOWRKLVhrVm5wSlVucUdPS3FBWGNrRktPUEhKTFNWeXM3OWdOcW1BUUFIcnJTaG10ZDJURml5WUxRV3RIZkQ3Y2VRNVdIdUJGOWFHbkkzNnc?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-11-20T21:50:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "UTZ 브랜즈, 인터스낵 합병·비공개 전환 완료… NYSE 상장폐지 절차 착수",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGYS04MHItLWZsMlpIa0xSYXpEaW5Yck5iOEFmeThCeXVGQUF4aWxhS2JMTE9xVXFHUkZwQlFIa24ycU1kcll1R2M2ejd4alprRzJSMVhadzhOSFRFankwZjlPcTFXb0NFN3FKb19nQWlXbGs?oc=5",
+      "source": "데이터투자",
+      "published": "2026-11-20T21:15:32.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "대어 사라진 IPO 시장…새내기주도 90% 공모가 하회",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZWFEWEdkVklvQ2xIbjRRYUNBdXh6SEFoTS1jeTJKQ3BMcVJKRnRfZ0xuSVIwMW5CQ2pmUnFLNkF5N1dib0owLXJRdHZzT0R0cU1OdDNCUER2bGNOS0pr?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-11-20T21:00:30.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "로봇으로 광산 점검·음식 배달…인텔·엔비디아·퀄컴 ‘현장 AI’ 경쟁",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jang1YWlsaVBfdng2VEE1ekR6TmNpUk0xUGZ4eldoMUpWYlV5ZzNFa2t0RVRaczRrb3YyZGMxZUpWNmhsREtNc2FWOGJWdEJrUkU3RTJ3NTZKOUs0ZTJv?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-11-20T21:00:30.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "\"앤트로픽 공모주 잡았다\"…우리자산운용, IPO 투자 성과",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeGE2TUdPM0lOb201d0RxOHF5bHJGR181UnUwUFV5NFdPTFhSMUtpZE0wNWZ5VGxmSzJqbXBrb3lnOFc5MkNJUlBGN016YjFabkhnQ3l2anJoRmJaVkl3SXF3VXBFeERuTW1KVFc3aFBCdl9lOVF5NXI0YWVLZHNpdl9Uc2dhc3pJeHdOWmJSV3hfZEN1aGpULWNJc2JaSnlaQVFuc1Brb1BzTDVMYk83UkN6QWlwUzBkTUQ5Tkt3THdmUHh1LWZ6Sms2MGNZR2JSU3I0LWZxMXY0Vno5QWl1T3QxSExCSlQtdGhlWEVmSVEyVC1PNm0xZEtfRjVpQVlLZzdtTW1Nd09BMkdDYmdqODV5b19sanZoQmhhdnhjS1FHcGs?oc=5",
+      "source": "데일리안",
+      "published": "2026-11-20T21:00:00.000Z",
+      "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "AI 악재 다시 시작되자 소부장주 더 빠졌다…中 수혜주만 방긋[김근희의 증시랩업] - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92RkNkY3NlY3BfRHpDSHdBUDFGWERXWWtNaEh1UkpsWENodVlMclBGZFhKaUktVHl4cFl0V1k3cDFxdWZTeGc0YzNEWEozWnl3QlB4Zk1ScHAwWUY5cFJUbEpsdGdkVFpzeGNPZUxRWFFDY2VzVVZuOWJNc9IBe0FVX3lxTE92RkNkY3NlY3BfRHpDSHdBUDFGWERXWWtNaEh1UkpsWENodVlMclBGZFhKaUktVHl4cFl0V1k3cDFxdWZTeGc0YzNEWEozWnl3QlB4Zk1ScHAwWUY5cFJUbEpsdGdkVFpzeGNPZUxRWFFDY2VzVVZuOWJNcw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-20T21:00:00.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "中, 신생 레드칩 기업 해외 상장 제한…홍콩 IPO 타격 우려",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeXBPYUJCb2xwOXgxUzRGdldFZ013cUZlNndKdFU1OUVVOU1LUmI3cFdKamNVM0F2UFd3Q05JRFd3QlZrdGxOSlNILXFPTml3YldjYkdaVGl6a2lXUWpFNmZPVFI0UnAtdTNoOVBhQW9WZ1hzbHhva0RDRlJqNmNzdFRFMGktakhHQ3NTMDRudENwN3hDRW43MFBQNjdEdmFUc3Yxd3VvenJOUWpFeDhSTEVLSzkxbi1GVXMwWWdwNS03aDEzNmpQbVRaMXdtazg0ZUY0cFlYd29CSlJ2YjZRZHRMdTRjY2hxdnp5WHZMc3pZVTJmNkJmNDZGZGZaRVU0empGYTNHYXUzempzTDM4a1pYbldzVXYyRThyNGhNWFBUT2JGSVBULVI4RnU2a1NuMEI3VUxLV1h6d3lHMV80QkxxcENjbnRybXc1VEVMLVAwZGl2eVBoNHQ4VERTZw?oc=5",
+      "source": "publika.id",
+      "published": "2026-11-20T18:38:00.000Z",
+      "q": "휴머노이드 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "국기연, '2026 국방 피지컬 AI 포럼' 개최",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWXpsaU50MnlvQzA1N0l5X0VLMHNwaFlkME5MUDdkaXpfSERYLWcwUHFRYnA3U3NHdnV3dVYwRkxCZXVJQ0hXNDczNnRMTVNTTDV0TUxIQndBZTNFWGtHRXZiSzhndEt0WWNTZWVybG9WZw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-11-20T18:20:25.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-21",
+      "title": "박스라잇, 나스닥서 상장폐지 통지 수령…청문회 신청해 조치 유예 추진",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WOWl4eHFzQ2Q0Z1U2cVI2ZmVlb19VWi0tODhuUWlRZmJ6WXVFcVVTN0VxZHZNOFhrZ2FlZXJJMGdSMG5sdkVxaUJHeG40a3BpaGhfU3FTREhyTUQ3NE0wR1VoY012UUxBMC1oSG9PR1laNTQ?oc=5",
+      "source": "데이터투자",
+      "published": "2026-11-20T18:19:17.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-21",
+      "title": "대덕전자, LTA 선수금 914억원…FC-BGA 증설 속도",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOQTJObGVZVFJNR2RLdUotOTJaWHV2ZXlqTWdaNDZ5WVg5ZzlwYzVTaGx5b2d2QnR1clk2ek95LUNkSDZOSHd5TlVpTXBxRmJMZGh3VUZubVRZV3pYRnFZS1BNZzJRZnNqUm11X3NER2lIdENkQ0xRTGVLNTBGSTVmMjJ3UmY4NmlNellYZTNoS0JQV1JkNm8yT1VwRTVhNXNVeW55NkVFMXJhSE1oM2N4bmlLNUp1eHhCOGhldkFocEYzV2VkMFFrVGxKend5RXhPWm40M3F4MnZiajRiTUo5aDNZVUV2LUVzZUY3dUtCRUtkSzhod1lGMF9TZGdfQUR1elQyWWNYVUU1MjRjTkJLRXlmQW56QjVvZW5iSTdXdWZLYnNzMTFkTm1MaEJzNUtrN3BlN0xGREVXXzRQNGlZTlFzVlVrWnduMk42czhHWFR6cnhBdEZMYmhKS05NWjFoR0xvN2NzNXotU3lRb0V1QWVnMmZGTFptdXpMV090UXBvZmMwZGlpR3JQOU01dkttV29IQ19ibWhXbS03SWlDZ3VHM2xtMy1vTlNuNVN1SndGVlMwTEotcG5rajRPa09WV0E5SW9nWnlLdFJIRmlmNFpzcklzZHJUTGN5dXFuS0dxVkk5SUtyeHVxbFl3Zw?oc=5",
+      "source": "publika.id",
+      "published": "2026-11-20T18:06:00.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
     {
       "topic": "physical",
       "date": "2026-11-21",
@@ -64,6 +566,28 @@
       "source": "CBC뉴스",
       "published": "2026-11-20T15:50:00.000Z",
       "q": "이수페타시스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "보스턴다이내믹스 100% 품은 현대차, '아틀라스' 美 공장 투입",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wX0tjQkQyWnpJYWN1TU5xeUNLWDE3bmUxNnVCUHFrc0hyWnl4SmJzOU5OejFVd1p2WFllM3NxUzR2OEgzVUp6R3psS0Nib1ZtbjNEUHF1d3kxb1JaQ19YdEw5SHF5Smh4R19R?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-11-20T15:25:00.000Z",
+      "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-21",
+      "title": "[2026년 산업 로봇 매출 톱10…FANUC·ABB·야스카와 3강 체제] 현대 구매자들은 시각 인식과 실시간 판단, 즉석 조정이 가능한 지능형 시스템을 요구한다. 로봇 매출 기준 상위 10개",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE53am5PUTQ2aXFzMGF3d05FUjE4OEktRGc1ZFFDR0xUbDNxS0dSa2NBLTkxZHoybkVPb0VUNEd3OHo?oc=5",
+      "source": "AI넷",
+      "published": "2026-11-20T15:18:35.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -197,6 +721,28 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "연기금 돈만 넣으면 되나…코스닥 상장사 절반 “우리도 분석 좀”",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TVVaaEpQZU1RbjJWa3liTXZVaUhKOVpaVXd1U0ttZjA0UThackw1M3ZBeWZoZ0tCTlJNc0dxQUNjMFl1akdXUVJ4LTBjNFd4aG9mZkZkeTNfSlJSRjhTMHVhOA?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-20T12:27:48.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "“코스닥 살리려다 양극화 키울라”…상장사 44%의 경고",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NSTY5NUZTTEhlV01ESzNtY0RaYTh5cWk0RHZpNTJucTRZYUpRUHRyM2wtWjBHc3VOaFpXY3pFQ0dUVFBVbHlQcHlJd0pfMmFWU09RNDJsNlMtUWkyUmNBTDZ1Yw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-20T12:27:48.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "다시 5천선 내준 코스피…앤트로픽도 못 막은 AI 불안",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6YnJibklzV0hlMm1xbzRNR1MwaGRGWlg1WEJBSS1Ncy1iemRCVGxXXzV5bmxjeFQ5dkk1MU96Zk9GZFRQd3NvdU5pV3A0cEVSN2pKeGVEYTdiNVZFVE5LOXlXODRWZw?oc=5",
       "source": "KBS 뉴스",
@@ -219,6 +765,17 @@
       "source": "연합뉴스TV",
       "published": "2026-11-20T12:16:00.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "안산 공장에 '1톤 로봇' 첫 투입…HD현대로보틱스 협약",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pMTJ3RDdUYjJma051cFlCM19idUQwSWxBSjJkRnRkZG1xeXI3WXBaTWNrNU5PZER3TFloMmVxMXYyRlpxaDYzS1hVa3N0NUpYenVxMjVCSy1FNTI4aEdpWUFQWlY1UQ?oc=5",
+      "source": "경기연합신문",
+      "published": "2026-11-20T12:15:09.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -297,11 +854,44 @@
     {
       "topic": "physical",
       "date": "2026-11-20",
+      "title": "로크웰 오토메이션, 자율 물류 로봇 제품군 확대 추진",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uRXZMVTlfMWFuMExDdlpRbmZXMlhzQ211MGYydC1ETkxqNXV2VkRhcmtPRGdSU2s2YlVEVkRGalNvQzN0STBRakZkREJNOVBKaWpicUM4YWxjYTlRUnhUcTd1Yw?oc=5",
+      "source": "국토일보",
+      "published": "2026-11-20T11:05:22.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "\"공공시설 청소도 로봇이\"…라이노스, 한국산업인력공단서 실증",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cm8tc0JhRTE0aERvMG1TcDhPeE05YmxZeC1HbU5zbEkwQkV1SGQ5VDlKdG9VYUItRENwMXZFT1NTeUxPaVJ2U0t0UWY1bEMzblpjNGplbUtSTThEQk1Xc2JVbVE2ZlFrc2VuMg?oc=5",
+      "source": "유니콘팩토리",
+      "published": "2026-11-20T11:00:13.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
       "title": "\"공공시설 청소도 로봇이\"…라이노스, 한국산업인력공단서 실증 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DbTFmS3k3RGhVbjFhREhpQVhWbENkQlBFNmtQaDVlaVl4bUxmWVoyRnhSbkJPYjR6SHRRS1lmQm9Rb3dMYUYtWmpPQ0psNFZDaHZxSnF2RlZUOVVWcVdNYjBCQkZjTjJjUmJxSVhXb9IBb0FVX3lxTE9DbTFmS3k3RGhVbjFhREhpQVhWbENkQlBFNmtQaDVlaVl4bUxmWVoyRnhSbkJPYjR6SHRRS1lmQm9Rb3dMYUYtWmpPQ0psNFZDaHZxSnF2RlZUOVVWcVdNYjBCQkZjTjJjUmJxSVhXbw?oc=5",
       "source": "머니투데이",
       "published": "2026-11-20T11:00:00.000Z",
       "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "하나에어로, 하나에어로다이내믹스 상장 첫날 주가 흐름과 수급 복기, 보호예수 잔여물량",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmtZZkV1MnctOHdEZ1N1NC1iMGpJZEJzVmh5cGR5QzVkUl9HWHg0SDlBa0FyRFJSNVdpWVg3VUxMcF91YTBaWWY0MFJjVGdsVGRIVDl2czU1TWF6eTVjRzlPa3pyRnppWjZBRjJaYUVubkRoTnlSYTRvS1dRT0ZDM2JJOA?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-20T10:59:00.000Z",
+      "q": "상장 철회",
       "related": [],
       "weight": 1
     },
@@ -460,6 +1050,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformation and AI adoption",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yd0RzOFpsSUZXZG9ZOExJUXg3bzF5dU5RY1Y4c2R1M3hVNjFzQlJXdFhXZmd3c0NuZVpXdWpRMGJQazFlUFhVbzQwdFF6QkdzcFJ6eFZlRVBNd0RXczZtM2JBY3BUZXZz0gFsQVVfeXFMTm5ncFVSTlhKam9RVjhzSmRZcjVPR05GTGM2dk81NzE5U2dkS29YR3pPYmNWNzhFVjBtSWRMVXFoWDkyQndXTXpzRE4zV0Q3UDdNalNndVRfWmctSDlocUtFcXZmTjJkR3VwT1Y0?oc=5",
+      "source": "KIPOST",
+      "published": "2026-11-20T09:30:00.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-11-20",
       "title": "앤스로픽 상장도 못 깬 ‘AI 거품론’…코스피는 ‘검은 금요일’",
@@ -500,6 +1101,17 @@
       "source": "Mezha.net",
       "published": "2026-11-20T09:05:00.000Z",
       "q": "PCB 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "“상속세 줄이려 상장하는 나라”…‘주가누르기 방지법’ 놓고 격론",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zS2NYLXVwV2s4anRDdkIzVGF3WTRGOFF2X2w0UU1KdWdFTWYtNzZ4SkF4bVFCdGkwOWRTVzFzenNSX0FTVDJfOVIySnh4TDRsMHItaHp5Q19Ha19rS2M2VE95VQ?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-20T09:04:15.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -565,6 +1177,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "China's climate practices take center stage at COP31: cross-sector collaboration between meteorology and energy offers a Chinese approach to global climate adaptation",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XT0h1LUVwRkNUQXhSOWpNREVRbnQ4SDZxa3hBRlFfWElMc2RjWF9SRW5yYXFPNU1SQ2ctek96M2RIcWJNMDl0ZkRYMWlNS3lmRDFtNWNyVXhnSGFuZVBfYmJqeFR0WjNM0gFsQVVfeXFMT3RGWXppRmRfRzB6anB0WXpSMFNOQmF1ZGhaUk1NTkRvTFRfY2VpM2tDeUwxTzlJeFRZUzZia0JzQ0c3WlYtRm1NTmthY1l6TkdpQUJlMG5jaTh4Q2xHU3llT3dGaEI1V28weWNq?oc=5",
+      "source": "KIPOST",
+      "published": "2026-11-20T08:50:00.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-11-20",
       "title": "결국 고꾸라진 코스피 … “바닥이 어디?”보다 중요한 질문은",
@@ -611,6 +1234,17 @@
       "source": "투데이 군산",
       "published": "2026-11-20T08:42:40.000Z",
       "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "'검은 금요일' 코스피 5.2% 급락, 5천선 붕괴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHMU1tNk1MVHNGbmZvYUlEM052TjNGX2dsREY1R2pYZEdybnZuSnd5UjgwZXZGNGNQVjQ5TjZRLXJzZEl5MVRmWnZUNTFCS1RfMTFxcl9INmZiTDBIV0s4TXVlc3pqRW5fVEt6Y3dubVQ?oc=5",
+      "source": "코리아리포트",
+      "published": "2026-11-20T08:41:10.000Z",
+      "q": "코스닥 상장",
       "related": [],
       "weight": 1
     },
@@ -896,6 +1530,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "부품 빅2, 홀로서기 온도차…삼성전기 ‘다변화’ 이노텍 ‘원툴’ 한계",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12aDZ6RC1XZ1I0TUVlOGU3d2dqRjF5a2doUVROVVZ3MWV5S1Jrb0tXbTM2TnE2MHBxTnFSNmxRV0FNNGt5ZEczR3Rjbll5aF91andJVFNVYXBhQTRiRXNmYlREZ2VYeVFj0gFrQVVfeXFMT1JleEY2WWI3WXd0OGhMMzdOMEUxSWFhS2xhcDU0Wi00anhvb0NUZjJ1LTJ3OWRWQWFNdExRUFRjN1FvU3VMcHBtY3JNM3FmN0pHMXp5ZFp1eFg4ZWVBdGIwcjJ4dXFtb2NXUTQ?oc=5",
+      "source": "SR타임스",
+      "published": "2026-11-20T08:10:04.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "APEC 무대에 휴머노이드 로봇을 세운 선전",
@@ -959,6 +1604,17 @@
       "source": "머니투데이",
       "published": "2026-11-20T08:02:02.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "본에이아이, 107억 규모 피지컬 AI 국책사업 참여…산불 감지 드론 실증",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvczBVcGhwUnEyQm16RWR5b0tXaGJsN0RadkFKUGYtdXNtQ0Q1MGM2OUVpNjhtTDczVmV6UndFekhtSXM4dDMxdEE1TGpFdTVieTl4dE1HZ1A1elNQS2RORDRhRy1hUnJhR0llUw?oc=5",
+      "source": "유니콘팩토리",
+      "published": "2026-11-20T08:00:10.000Z",
+      "q": "피지컬 AI",
       "related": [],
       "weight": 1
     },
@@ -1129,6 +1785,17 @@
       "weight": 3
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "현대차, KT 부천 AIDC에 엔비디아 GPU 넣는다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MEpqTjVCOW85QW4zRVQ1XzIwbjhSSXdfa01zSVdiYmx1X2wxQ05VU3A5S0RIeGNQUU1ialNjdXA4ZnVhVlowamNMNWxnN3VGTWM0dmRxbEJkOU9jNVlrdDNJXzZLS0x6?oc=5",
+      "source": "KIPOST",
+      "published": "2026-11-20T07:45:55.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "中 휴머노이드 로봇 151대 '칼군무'…또 기네스 신기록",
@@ -1144,6 +1811,17 @@
         }
       ],
       "weight": 2
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "코스피 5.21% 급락해 4869.96…외국인·기관 2조원 넘게 순매도",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwbzVzRlVGZnNHcnZNN1lmclZ3Sm1vZTc2a0xIT2ZWRHBZUzQyQ0pyWXcwTFFGZGxUMi1SdWhIQnRGZUMzOTR6aVBNYlQ1MFJFZjZuWHdsZDJnUjVPS2tRajVkMngwUWs4QjlHNw?oc=5",
+      "source": "굿모닝경제",
+      "published": "2026-11-20T07:44:27.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "listing",
@@ -1197,6 +1875,17 @@
       "source": "연합뉴스",
       "published": "2026-11-20T07:35:20.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "우리운용 \"미국 단기채 공모주 펀드에 앤트로픽 IPO 물량 배정\"",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuelFmdkV6UnpWRHlyUm5vdVVRUDVmM0J5Z3hubjdfbGI1WWlBdXZjNkJuams1djNvbFFpcEMyMkRadnlRdjREWmpIRkE3aDcwNEE?oc=5",
+      "source": "노컷뉴스",
+      "published": "2026-11-20T07:34:47.000Z",
+      "q": "IPO 공모주",
       "related": [],
       "weight": 1
     },
@@ -1263,6 +1952,17 @@
       "source": "신아일보",
       "published": "2026-11-20T07:27:11.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "미국발 삭풍에 하락 마감...코스피·코스닥 5%대↓",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSVo0THpSQmtTZW5PYUlZb0lwYldQZE9OMHpHVHNkb2llMi14eXNVMVBidHd2LWgyM2tMY1FUR1NaTWlscTMxd2lpX25JNE4zVWpSVkJ6UVZVODc1RFE?oc=5",
+      "source": "YTN",
+      "published": "2026-11-20T07:27:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -1545,6 +2245,17 @@
       "source": "매일경제 마켓",
       "published": "2026-11-20T06:51:38.000Z",
       "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "[마감분석] 이수페타시스 16%대 급락 6만9600원 마감 : 기업주식정보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QcGFKOV93OTJVM0tSdkVKbnRDSE4wamNiZGJhMnA0eU1zUHZaWnU4NFlTN29CNlpVUFBvYlhCRWdlSGVjU1ZpZzZfdw?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-20T06:49:10.000Z",
+      "q": "이수페타시스",
       "related": [],
       "weight": 1
     },
@@ -2369,6 +3080,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "\"주식 계좌 열기 겁난다\" 韓증시 4% 와르르...개미 '눈물의 물타기' - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VGt4eTkwVEhHVzVmcnlKWTEwLUUyYnVpbDduWjB6TFpTel9wMFRNdG85NElKWVd2aXd5MVVyQmVUbndmMjBzOVpnZXE5QzVzVXN1MHN2NTdPazl5WDRLT2UtTkxwUEJx0gFuQVVfeXFMTmhkaGtCUTlJMHIyQ09XWjRqNnE0WVlQMjNqWmh0bmhLcTY0UVVKa1Rick9BaUxNaE9zZWNaZlJUMkF3czJKRzdRN19xV0JnNElxSldEd3VQaDhGV1lIdlRxY0FjdzhkMFZWS3NJeWc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-20T04:39:49.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "요꼬가와, LNG Canada 2단계 자동화 계약 수주…생산능력 두 배 확대",
@@ -2380,6 +3102,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "\"기자간담회까지 열었는데\"…아델, 기관 외면에 코스닥 상장 철회",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUh2cWx5S3paU2N6ZzU5aTFlRmJwOUdjNm1FMml2a3VfaW92MzQzZG9DOFpYYW0yM2dYaW5taGl1X3JJcGtGandGY21fQ3g0Ti1DdjZBeGo5QdIBVEFVX3lxTE5sbVI3b2x3UmZpZmdmZzBfeW1KTTYybmpocktoUmdLTkR6eU1YbEZ5Y2pia0xnZGpGbXU4TW9pYTFLamk5T3AyclJ2QWVfUDlyMFVoWQ?oc=5",
+      "source": "더팩트",
+      "published": "2026-11-20T04:34:10.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "요꼬가와, 브라질 Samarco 광산 제어시스템 교체 계약 수주",
@@ -2387,6 +3120,17 @@
       "source": "헬로티",
       "published": "2026-11-20T04:33:11.000Z",
       "q": "산업용 로봇 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "[이슈체크] 코스피 4800대로 '곤두박질'…개인 손실 563조, “주식 계좌 열기 겁난다”",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTUtCOTJBVEMzb2JYM1BFTDZYLVdTNDJqSU1fc3hiMG9PazhiaXlHeVpPeWc4R0VOZk5fb0F3cUxQelFXSmdJYzRiZkVqaGpzaWlj0gFYQVVfeXFMTkNuQzdpM1lJODUzR0MwZ1lpemppa1hHOFJQNVhNaUtNUUl4Z3lQT3U3VjJKbEJjR3BJOFlocGNJY096b0kzWTkyblRiRURQTE9Vek5MWEM0UA?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-11-20T04:28:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -2409,6 +3153,28 @@
       "source": "대한데일리",
       "published": "2026-11-20T04:22:56.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "삼성은 AI 칩 부품 분야에서 엔비디아와의 협력을 확대합니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEQwRnRfSnFlTjRxUWNxTk9lbzJtYVo4TkxTMDE2YTktcUl4LWx4cEJjdTBCQ3hJRldhelZHM3VRT0tjNDl3amdWOC01dlBwY1RnNUJrSXo0RlhDQjFkZDZUU1BNVFpJS0xUSW5NWDFWNHBuS1hRd3B5cHpRTVFiRW5mMFJPQzdh?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-20T04:03:40.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "[경제읽기] 앤트로픽 상장 흥행에도 투심 불안…코스피 하락",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0ckU2alBhRlphN3Ryckh6clpQcmRNU3NIX2doT01NdHE1REZ1OHVwalZtR3FCQmxVV1F0aElXMkJJaGdnLXFkNFI1ekFFNWZxZDFtallYaDNOMFViMFZaRmh5UTRuc00?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-11-20T04:01:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -2446,6 +3212,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "대웅제약 ‘아이엔테라퓨틱스’ 매각설…펙수클루 쌍둥이약 ‘벨록스캡’은?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hWVkxTDczSWhMd0Nxa18wRTJCd1BTNTdSU0NEbWhXX05RUTF2bGdETGNqdmNFdkQwaFhmM29LWVA5MVpnUDNLczB5Nmt6TWd3WlhXOXpHYmdMbGlJNnVfa1ZiVDQySWxVa0VLWWpnUjLSAXRBVV95cUxPaVRGdWpHRThfcmpUTVBqRW1uVVNraEFITDdaTXdlekRSM0VSeFBIWlVDU3RKY2F4dFJaZDJkU0JOeDRQd0RoNy1sOVVzUU9kQW53Uk4tTi1zVHBOVlZvSlh3cnVCZHROYUx5dlNpb3NQZmxpVQ?oc=5",
+      "source": "주간한국",
+      "published": "2026-11-20T04:00:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "본타, 중국 이전 및 관련 공시와 관련해 NVIDIA에 기록 제출 요구",
@@ -2457,6 +3234,28 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "Amazon Bedrock 및 Amazon Neptune을 이용한 미래에셋증권의 상품지식 온톨로지 및 상품AI검색 서비스구축기 ( 혁신금융서비스 )",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1VNeVB2WHNYbXBlNWNJS1lxcHd2c1NwM2Q3V0Zqc0pvUHF3c3dRaGRjVWlHTXJ0aEpZbVl4OVFYczFPazlhbUlUbjF1LXp2NjFOWDVIbjhkQUxmSl9MS2R3a1lUMkFYMnFnVHV5UF9tRU1UOFhjcnQyQmJ3NE1rR25ocTdKSGM?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-11-20T03:47:52.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "제약기업으로 출발한 더테크놀로지, 네트워크 장비 사업으로 새로운 길 찾기",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIWkJOeXRnVUFRVXVjTmR5a3VHRVYxM3BzNmpyVXBqT2Z4NHBmSnN2U0NBYVJjOHZoUUxrSGlHbUwybEdLRGtFNkVhbDVhWnFoZFNVREpKQU5QdVNOcGFrMGczcFBoMUlzZVJXYjh5RQ?oc=5",
+      "source": "프리스탁뉴스",
+      "published": "2026-11-20T03:31:53.000Z",
+      "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "한림대성심병원, 병원 맞춤형 휴머노이드 로봇 개발 속도",
@@ -2464,6 +3263,17 @@
       "source": "청년의사",
       "published": "2026-11-20T03:15:33.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "\"시총 낮다고 코스닥 퇴출?\" 벤처업계, 상장폐지 기준 손질 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BNzF4YVAxdV84dGVudmFKeWpBdUdGQWVfOXlFTXNUbFBnc2Z1Y2R3UTZxaW11MUJ2cjhvODFPcEtlSkpQbGFpWlZoeFNfX01FeVlzOVJvalpaZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-20T03:12:09.000Z",
+      "q": "상장폐지 요건",
       "related": [],
       "weight": 1
     },
@@ -2556,6 +3366,45 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "미국발 삭풍에 증시 약세...한때 4,900 내준 코스피",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wYWlLbXJqSUMzX285aHIwUVVqQWd5bGNqMENBaWRxZGpHWkt3YU9JZzNqczJRVHRYZWktU1ZNS3piUDFnSlB2V0k1VHNnb3ZfT3pQZm9vbzlxY3lsX0E?oc=5",
+      "source": "YTN",
+      "published": "2026-11-20T02:53:00.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "[IB토마토]코스닥 IR 의무 확대…소외기업 분석 공백 메울까",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oLW80OTM3SE4yYzVncVJ4VFlrY21BVTV6QVNLekluSkRlOGloa2NRRGJSaGE2NTM2eDMySWVRQ0l6eUs5T2dWVEQybWlyNVVod2FHT1ZaTndoTXpFcS1JRw?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-11-20T02:47:08.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "한림대성심병원, 병원 맞춤형 휴머노이드 로봇 기초 테스트…병동 주행·물품 전달 점검",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByc3d0eFJpekF2dFdDaEp6UlpfUVRzMnpWbzIzMUtKSVhVek82cDdiOE80cnhwZnpNaEtqUVVOa0tpbWQ5VnlPMUZpYUNZVzZvc0UyeDh2TFRWY3NEY3Vfc1JkS2xfSmlnVGfSAW5BVV95cUxNR0dBNkF1dGdjM1pTaWg1cDhkVHdFNHhJUXh1UDd2Mnl2MU5TVFVNblFZRm9mTDRZdXd0c014MnI1a253Uk9yYU5VX1NXaWNZTVlFXzkyMGVWS0tDV0VXX2hhSk10Z2RBMWd4Zml3dw?oc=5",
+      "source": "더임팩트",
+      "published": "2026-11-20T02:45:06.000Z",
+      "q": "휴머노이드 로봇",
+      "related": [
+        {
+          "title": "한림대성심병원, 모의 병동서 휴머노이드 로봇 주행·물품 전달 시험",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HX0diODJuWkg0eDNyT29WYmhjam9qTE93ZDlsdlRhQlJWUWVpQ2hKckJlSTVmUFlYLUlHVEJRTlpTc092YWhlbVpNalJxVExhNl9VejRRbno?oc=5",
+          "source": "안티에이징뉴스"
+        }
+      ],
+      "weight": 2
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-20",
       "title": "LG디스플레이, 7년 전 공시한 파주 OLED 3조 투자 백지화",
@@ -2574,6 +3423,17 @@
       "source": "시사의창",
       "published": "2026-11-20T02:44:44.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "앤트로픽 상장에도 외국인 '팔자'…코스피 5000선 다시 후퇴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93Q3pGeldSdUZtMDlJUXc0MUFfaFFpM1Jib2pzOHFuYzZKMW5NZWVKNEd3R2s3ZENCb2ZFOWhYTkM4b0w5R1Exd1J4dWprSDh4UFRKOFBXS24wYzd0ejVFRUVTa0YzM2RJV2c4c3Vfdw?oc=5",
+      "source": "뉴스퀘스트",
+      "published": "2026-11-20T02:38:59.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -2613,6 +3473,17 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "앤트로픽·AMD發 악재 겹친 코스피…4%대 급락 지속",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbUY2X2VYTWxlTjd6anJWSnlfa0IyNWpHNU8xVHAzdkZDNXFvVzg0TzJkSkpyS1ZCQnNQdXA3RDhLTjMwcWdiSy13c19GdUhYamVSVG4zOU0yWERrUUZrb0xZVzdjc284a3hsTWJrVDk?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-11-20T02:30:00.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "'치매 치료제 기대주' 아델 상장 철회…바이오 한파에 몸값 못 받아",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iTV9KNmMzbGhJOEVMUWtBV3pLT1lOYWZRRGhHU0lyZEdRY1pmR1QyMnV4c0dWbWJpVkNhMkZtV29wcXMtMnpqcmVmV2thNlNhbjFJREhBbDhLNTNwR1ctLQ?oc=5",
       "source": "아시아경제",
@@ -2640,6 +3511,17 @@
       "source": "뉴시스",
       "published": "2026-11-20T02:28:21.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "코스피 4%대 급락에 4900선 위협…삼성전자·SK하이닉스 6%대 추락",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y0cteXowYi16VkZxTjc4MWRLMlVXUWgycFFVNXJOOE9wRG4yMkcwbEpMdktpQzdpR0c3NWhld3RQODl4OFczbU9xQ3BPanpDZmNJeEpqMzlLWWRhZHFwY2psSVltQ1Q1Y0tKbld1WQ?oc=5",
+      "source": "진일보 | 전남일보",
+      "published": "2026-11-20T02:26:24.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -2804,6 +3686,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "아델도 코스닥 IPO 철회…공모주 잔혹사 이어진다 [시그널]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMk1YS0paMFhjTWpReDhjSlAyYWZMU0RyRWZnaVpuZDNnQ0VCR0lpcVZSUDlWYnloV2xuampoRF90RmRmTkJTcTZ1dlpSVHItT2fSAVNBVV95cUxNTE9tTkRKT0Y2a1c0OVNaN3UwU21PeTdvVDZCRE1wSWhEUkdtVnAtTGdoUm1wVjFUVkNSRWduRjByU3dseWxzSlZmOEIwcTU1bXY2bw?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-20T02:10:15.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "장수 한우산업에 피지컬 AI 접목 추진…축산 실증센터 구축 가능성 검토",
@@ -2849,6 +3742,17 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJZDVmU1oyMm1WVEtZSWs1Zl96X045OEJLVE1yc2E4QzZXbkc2d2RPQ2FMbXdDTGR4cDVQS1pCMGdGY001dDE2aXZFd0RjQjNiWVlob3BtZnFCM1d4TGZuU9IBYEFVX3lxTFBJZDVmU1oyMm1WVEtZSWs1Zl96X045OEJLVE1yc2E4QzZXbkc2d2RPQ2FMbXdDTGR4cDVQS1pCMGdGY001dDE2aXZFd0RjQjNiWVlob3BtZnFCM1d4TGZuUw?oc=5",
       "source": "연합뉴스",
       "published": "2026-11-20T02:06:23.000Z",
+      "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "현대지에프홀딩스, 코스피200 신규 편입…다음달 11일부터 지수 반영 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WYnFHQzhlSVhBR3VlNktadDBtNC1SUDNtQkoyV1FRa3d2dTZKVWRkd0ZoNjk1WWZEbmxma1hKRGlPSGJYNWtZOHhMcXBEU1Vfb3JZdzdHOWJQdmRHdWNMMldCM0VKWDkxTzgyRmhrY9IBb0FVX3lxTE5WYnFHQzhlSVhBR3VlNktadDBtNC1SUDNtQkoyV1FRa3d2dTZKVWRkd0ZoNjk1WWZEbmxma1hKRGlPSGJYNWtZOHhMcXBEU1Vfb3JZdzdHOWJQdmRHdWNMMldCM0VKWDkxTzgyRmhrYw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-20T02:05:50.000Z",
       "q": "자회사 상장",
       "related": [],
       "weight": 1
@@ -3033,10 +3937,32 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "코스피, 앤트로픽 상장 뒤 美 AI주 급락에 4%대 하락…외국인 전기·전자 집중 매도",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XUmUwV1FCby1TZlJobi05MWk5T2dsXzNDWUZPWmpnRWhMWWduSXk5MFhOOWQydHp4WnVTemFSUnoyNE9WOW9KOXowQUVrVlpxLVpndXllOFgwTTZxOVU2Q1QzYnZ1cUZ4TjZtNEJn?oc=5",
+      "source": "알파경제",
+      "published": "2026-11-20T01:53:28.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "앤쓰로픽 IPO, 암호화폐 거래소별 배분액 차이…비트겟 vs 바이낸스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVnlLVGV0QlBBZFZzRmlWLWJpd3djMW5BeEhCME1CNmxPZmx4ZnFGTzNHSHVUYllQUVFBYmNFZEtoSXJmNndxUWdtZFJnd0xaU1pIVFZJVUFuUjEzZTYyS2FmS3B1MUhXaHpMV3Zn?oc=5",
       "source": "민심뉴스",
       "published": "2026-11-20T01:52:00.000Z",
+      "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "앤트로픽 IPO, 일본은 공모가에 샀는데 한국은?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdzRUSEdMcFFBOGJtS1RvVlU0ZHpiNFBNWndVeHY3dkltRUlZNk5EbVp2Y0thX3BzR0tRWGdNOTlwVElIR0hVcmFkZ2V4bm0wVFlIei1PSFJWZC16R3JhWEJrVzZINVJxSUpDbNIBcEFVX3lxTE0xSE5tLW9MSjZBWmdOcHMzblFrdlZDU05YVVp5YnF4QWtWTzVyMk5WcVRLekVmSloxeUFnRVMzb1JkNXhNV2ZmQXFuYWlaaWVidzJhV01sa2FuaEFpcmpkNUVGVUFoRTJlQUhjUF83R04?oc=5",
+      "source": "엠에스투데이",
+      "published": "2026-11-20T01:51:31.000Z",
       "q": "IPO 공모주",
       "related": [],
       "weight": 1
@@ -3245,6 +4171,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "인터엑스 공모주 : 연 15% 할인율 위에 선 평가액 15,648원과 9,123원의 Pre-IPO 단가",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2U5VmRQWUJnRWdpZnlCQTh2djJ1ZVVXN3BudDlyNng0dmFIY3JYQXhUcmxXc21kODdwRHB6anhrVU8ySVdVYW5Kam9YLWVtaHRxRktTbGJQWGlEd2h0N2xPaWVxaDF4dTFOQm1KUEl1OVpwMFZDdExwYU5BSVJSanRkWExya0QtaDFSTm4wRQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-20T01:33:00.000Z",
+      "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "LG이노텍, 내년도 ‘반도체 기판·피지컬 AI’ 역점…조지태 부사장 승진",
@@ -3307,6 +4244,28 @@
       "source": "아시아경제",
       "published": "2026-11-20T01:24:30.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "코스피, 美기술주 급락에 4% 하락…또 5,000선 하회",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKOGNWbFI0aS1qcFBJdktyVDUxdGpvZk5zVGJkMkJlZ2Z2VVAtcWo2d3haQ2VTZmxIeU9FUjNMT0N5dzVXb2pkOFZuenAydXhyRDFwQVJmNXd5LWgzbWVYelZDQmIwZms?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-11-20T01:24:00.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "[특징주] 이수페타시스, 장중 13%대 하락하며 7만1000원대 거래 : 기업주식정보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94bXJnX1JzTTh2NDd6Nnl2dy00YUt2cGpBeVFyaVRqOWVkN1hRbzYyejI5WFQ2b2NaZ2R5UEtJODdTVWUwT29zTjNQYw?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-20T01:23:33.000Z",
+      "q": "이수페타시스",
       "related": [],
       "weight": 1
     },
@@ -3439,6 +4398,17 @@
       "source": "부산일보",
       "published": "2026-11-20T01:10:10.000Z",
       "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "자동화 수주 49% 급증…포스코DX, \"내년 본격 반등\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SjhhZVREc3N0N21haXBsMjdmSDJyck80VDVNS2xWU0c5dkVXX0JvbmxDR2NoVUhLbnJIWndxQkNjeXp2YXBEd2VjV3dBM2tNamtn?oc=5",
+      "source": "경제타임스",
+      "published": "2026-11-20T01:06:37.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -3606,6 +4576,17 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "앤트로픽 상장도 못 막은 AI주 급락…코스피 5000선 붕괴",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vbmVJZ2ZnTnlrV0hva05MSTlEdlRLcDNMcHc1cHprSGkzTVlHb0wzcjQ2ZFR4bUVoTFZmekNJb3lzZGtCVENjamdCaTZPMDZ1M3hMYWNJT1d1NGdGeGsxU2E4QW1PMjFQLW04N9IBcEFVX3lxTFBWSExveXRCd1ZOZmRaWGhXNjZGa0tMRFdnZDFiakoxZFVMRnpqRlBtUEpvaGhRbGtMd2pSelowaXdqLUtXS1QwRHZVcGtfNlAxUERVYlVPcTZrVHdKNWpWSlFRMFN4eDlaV2xfR2NtT3E?oc=5",
+      "source": "엠에스투데이",
+      "published": "2026-11-20T00:55:27.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "美 스타트업 암페라, 스팩 합병으로 나스닥 입성…AI 전력난 정조준",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VazJrQTdTaXMybmxFWHpTQXB1SnpaVmRxNTBOSzN5aURoajB5LTNrcTFITVN5eUkzbnZ6YWlWNjRoRnA0NkJaaXBrbjlwY29yVG9hT2pzMjZvZ25IOEdSRWxIdw?oc=5",
       "source": "더구루",
@@ -3716,6 +4697,17 @@
       "source": "한국의약통신",
       "published": "2026-11-20T00:52:41.000Z",
       "q": "휴머노이드",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "앤트로픽 나스닥 성공적 데뷔에도 뉴욕증시와 코스피는 '찬물'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UTlBN2RmVWlYd3hESU5XaU1VS29xU3FQM1lqUTRpVEE1Mm1OdjRQd0w5LUJlcHVVN2dJWFFWVGZXLXpTVUgwTjQ5SlhGdVY3bWZ4bktybWp5ZFQzeUtiVDhyLTRmV01JZUE?oc=5",
+      "source": "금융소비자뉴스",
+      "published": "2026-11-20T00:52:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -3874,6 +4866,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "솔리다임 3분기 순익 11.5조 돌파…美 나스닥 상장 조달액 넘었다",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZMDd6QUVJMXNOZU8zandNaHNKZE9sNU1JTEZTYlEtN09sNGpOb3VmWmNBa0t4VENVSXdITEVCMXNDUFhCUS1taDhMSG5DYTZSdWdZUlF4WlhJeUFaU2NueDJ2YlRrRVBFM2VF?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-11-20T00:44:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "로봇이 좁은 복도 달리고, 환자복 건네고 … 한림대 성심병원, 병원맞춤형 휴머노이드 로봇 기초 구동 테스트",
@@ -3906,6 +4909,17 @@
       "date": "2026-11-20",
       "title": "코스피 5000선 또 반납...美 앤트로픽 상장 후 기술주 '썰물' - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92M2c4SW1maktwV2pHTnhrNjJiZmlMRlVzX1ZCRmVpZC1OZWxNOEg2VWdQdTVraXRudkg0STBQRWQtY0owTE5CMWxiT2ttWU52ZXV4Y0V2bzVJd0phTDdmVFJnblJvdW5fbENtd2dn0gFuQVVfeXFMT3YzZzhJbWZqS3BXakdOeGs2MmJmaUxGVXNfVkJGZWlkLU5lbE04SDZVZ1B1NWtpdG52SDRJMFBFZC1jSjBMTkIxbGJPa21ZTnZldXhjRXZvNUl3SmFMN2ZUUmduUm91bl9sQ213Z2c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-20T00:40:44.000Z",
+      "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "코스피 5000선 붕괴...기술주 자금 블랙홀 '앤트로픽' 영향 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTy11N09abDViVmtZeDBuNWwxMS1tbnhRVVVnSHZ1N2NnbDZidGI4Wl8xTi1xZ3dGNmVPUHNUblplRWZLcVg4d3VBVHV0dE92V3ZiVzY2SFh0QTdmdUN5c1dSbVo4TUUz0gFuQVVfeXFMT3YzZzhJbWZqS3BXakdOeGs2MmJmaUxGVXNfVkJGZWlkLU5lbE04SDZVZ1B1NWtpdG52SDRJMFBFZC1jSjBMTkIxbGJPa21ZTnZldXhjRXZvNUl3SmFMN2ZUUmduUm91bl9sQ213Z2c?oc=5",
       "source": "머니투데이",
       "published": "2026-11-20T00:40:44.000Z",
       "q": "코스피 상장",
@@ -3970,6 +4984,17 @@
     {
       "topic": "pcb",
       "date": "2026-11-20",
+      "title": "엔비디아, 공급망 파트너와 협력 확대해 AI 인프라 구축 지원",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEQUhTd2FmUktsNVdaZFNoS2RGc3R1Z0J1aVM4QmI0dVlYQ09WZDRVSmNSM01UNUp6SFV4N2lDbnFabjZYUF9WYWhOVGlrU2UxUDVVVXd1Q2tJZ0dVS2ZqRGtOZDFNX2FkWl84?oc=5",
+      "source": "미디어픽",
+      "published": "2026-11-20T00:35:42.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
       "title": "메리츠증권 “이수페타시스, ASIC 시장 확대 수혜 지속”…목표가는 하향",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BbTMxbXg1TlRpMnZtSTdobzJRU056cDdJVzF1MFA0dF9lUlN2RzByWDFFVHhhNHZ5U0tpaU43NkkxNl8xVWpXRVZHN0JVQkFUaVZTWTdZbmhubmc0cGdpeTl2OA?oc=5",
       "source": "에너지경제신문",
@@ -3986,6 +5011,17 @@
       "source": "한겨레",
       "published": "2026-11-20T00:31:00.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "[특징주] 삼성전기 주가, 7%대↓... 美 반도체 급락에 '흔들'",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41N29XWEJ4UlZJcXM3WDVlVWZsQjZnZWhKblR0UTJwUXlsZjZJVTgwUDJVY3EwVTRjN2FzZzFWVWFpN2lPa1ZZai05TnhQZXp3OHczcWVzeXFvd29TZXVTb1BPV1ZQYmNhS3c?oc=5",
+      "source": "금강일보",
+      "published": "2026-11-20T00:30:09.000Z",
+      "q": "삼성전기 기판",
       "related": [],
       "weight": 1
     },
@@ -4018,6 +5054,28 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "앤트로픽 상장에도 美 증시 급락하자…코스피 3%대 하락세",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHdrdGpMR1VMN0ZMVUtHbGN4ajk2bXl3YkliZ05obnpCVHlvSUZQbE5yTExROVppQU53WW5lV2RPT0VNcTVKWFJWQ3VqNjBzUU9hVV9PZTNLenBZMVRrRjE4bklIeER0VUxOZHYyUGhiVUxBcjNhNWlBQWVsZUdJYUxNT0ltX3JS0gGcAUFVX3lxTE9TWXRzelNDZjNvZ29yQUxORHNaLWhCWGxyeUZBeDBTZEZMR1k4Yzg0aTVUZWhiS1BDc0FhZTVwcHdmSzlFdHBFU0ZiMGRxbEN1ZjV4Tk1LLTM1TmllSjg4NXl5X3hHUDVlUDdxNGt5Vk8yS1ZHYkUzeDlRTTE4MHhrYUZ2YVgyeU5YQnF0T054RzF5ZzFjWG41Z2hYWQ?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-20T00:28:00.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "제닉스로보틱스 주가, 급등세... 이유는",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fcGhWUVZaVUtQSzhlbF85dFczcjdPbDB0eUdsdWhrdkZaLTRDUGxOcC1vb0dsaG5sUzVUeG9fQ180WVk4Um9CQTY5aEJoekd6MjdISGNWVlJnY2dTempPdGdqQ3RpUVRGMHc?oc=5",
+      "source": "금강일보",
+      "published": "2026-11-20T00:27:43.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-20",
       "title": "기판업종 눈높이 낮아졌다…이수페타시스 목표가 하향",
@@ -4025,6 +5083,17 @@
       "source": "파이낸셜뉴스",
       "published": "2026-11-20T00:27:34.000Z",
       "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "동두천시상공회, 중국 AI 스마트 제조·미래산업 벤치마킹 국외연수 시행",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WN0RNdjZTSjNpWlNqZG51dHhqWi16V2lIa2dUS1lEMWlBODlZbTdlOFk2ckwzaXl3ZzlfMENOVGx2Z29LSExhNzZYWXpJZHdkUjdWcDIyRXdFeDlQX3pKbVFYV0ZNS2M?oc=5",
+      "source": "코리아방송",
+      "published": "2026-11-20T00:26:54.000Z",
+      "q": "협동로봇",
       "related": [],
       "weight": 1
     },
@@ -4120,6 +5189,17 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "하나에어로, 코스닥 상장 첫날 70%대 급등",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qLVhJamM2Szk4N0doMVdtVjVEbkJjb2xOTXU5T2w3WjY4cGRQTFEybGMxZzVfcGJfLU5FY2JnTnZtMGl1UVpRLVhwYV9UeUdrM2k0ZHNOODhKOXlwb05McdIBeEFVX3lxTE41UUdPZ1hvb0JqanF6NGJrQmZULXZtNG5IUHFrN0ZPMFBNOW1yTXNIR2d4ZE9FVmM0UE0xcENtYjR3dHVDQ0t1TWMxZFlhaFgyZ04wYW9GeDFmRjFaTTMzNUdoU3lyLWgycU1GREFOdTJqSWRjWmNMcg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-20T00:17:51.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "하나에어로, 코스닥 데뷔 첫 날 84%대 강세 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93UFlGbWZnRkNlb1RseW5RQlBpYkd5d1lGNkNWNjlhSEpsNFhOVWZnUnR6M1QxcFRiajZ4ZG1rSVNTTjBoQkY0bkQ0SGctQURBc1JrMmJMZkpqdkVPcTg1T2VWZGFTbzE2Z09nS3hiYURwQzZXT3fSAXtBVV95cUxNZWFnNThLc1ZZQnQ4YlUxbGNlSF9qUU5HajM4bXd4TGxiTzN1dEFmN0ZWWFFFSkFrQlp3aEVkWTVDeV84RFBuenZuNjQ4NGNSOTBEUnZJQ24yTm5rOTJiQV9UUlFSdWZmYU94bUk5eXAxekZ4SzlKUVNBS2s?oc=5",
       "source": "머니투데이",
@@ -4147,6 +5227,17 @@
       "source": "증권일보",
       "published": "2026-11-20T00:15:00.000Z",
       "q": "로봇 액추에이터",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "5억달러 이상…엔비디아, 확산형 AI 인셉션 인수 협상",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EVlh1dkJIYmdkaEZRQl9JRUhoRHI4SHExakVtOHNGcEVyRlNxbE5wSzVWWFRWUGdmcV8tUzF4eFJST3Mwd1RjV2pZdTduUTNm0gFWQVVfeXFMT2cwd0tmWjFvX1FyVU5VTFl6WGVlamZaRHppVi1HUEVsQzNZYWotYmRzbXpUODh1MjNmRDNJX1Iwam4wam02WVZrYzJ2Tzg2V24wSHhIMWc?oc=5",
+      "source": "토큰포스트",
+      "published": "2026-11-20T00:12:31.000Z",
+      "q": "엔비디아 로봇",
       "related": [],
       "weight": 1
     },
@@ -4203,6 +5294,17 @@
     {
       "topic": "physical",
       "date": "2026-11-20",
+      "title": "계명문화대학교, 중국 상하이서 ‘피지컬 AI’ 시대 대응 직업교육 혁신 모색",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05LWF0dTFXU3dwMWwxcEV6eEJRcjl6YnAtTjN0SkV2bXRpejZHTnllSEY4TGl3SWFKNTFmTG1rT3VkNzJIQ1FUdmFfS1JsSTBTb3pCUmx3SVdTUHZLLWNPTV9vdw?oc=5",
+      "source": "시사뉴스",
+      "published": "2026-11-20T00:09:11.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
       "title": "[속보] 로보티즈, 프랑스 폴렌 로보틱스와 39억7812만원 규모 공급계약…지난해 매출액의 10.22%",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NTEQyUGdJcWdzcFZ0eDZBWHp1YUVvZEppNTdzQ3FMamkyR3AwQUNXZkdRRmJ6U19nSGV6dE1nUFhCTEs4VzNCXy1KU3ZOVFBaMThGQkxpclhiNVo1ZFAzcG1YSDNfTXNn?oc=5",
       "source": "CBC뉴스",
@@ -4230,6 +5332,17 @@
       "source": "뉴스1",
       "published": "2026-11-20T00:03:41.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "\"韓, 선수금만 무려 1조\" 경황없는 엔비도 '제발' [여의도 Pick!]",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45b2R3Y0M5QlJRUHdNMU1zTW8wQmlqYVpYaFRlTE1hT0NNZ1FQOFBldDh0eGZVcVV3T0paSDZqYU9oT0QwdUhzSVR4RWpwN2s3aDRJMUYteHlUMjQyajlF?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-11-20T00:00:55.000Z",
+      "q": "삼성전기 기판",
       "related": [],
       "weight": 1
     },
@@ -4274,6 +5387,17 @@
       "source": "CEO저널",
       "published": "2026-11-19T23:56:59.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "코스닥 첫 관문 뚫은 2차전지주 ‘피지티’ 상장일은?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWEZ1S1A1ZENDdmMzMU1LSkxCeG9Ld3I4VUhsQXBPMGZTc29KeWRoQVg2bEsyM1NvVzJoUjdyQU42djY0cVlnMXdMZC1ObVhSMmZZejJPR2xrOFhPMk1VNWlPMnRFcnZDRVNPUg?oc=5",
+      "source": "뉴스웰",
+      "published": "2026-11-19T23:50:52.000Z",
+      "q": "상장예비심사",
       "related": [],
       "weight": 1
     },
@@ -4493,6 +5617,28 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "\"美, 엔트로픽 공모주 싹쓸이\"…기관투자자 600곳 이상 '빈손'",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOektFNERaelNEMnlIVUVuUmc4OFdZRU5XenduaktuTnY1WktfaFNpZ0JUVHo5andZMzNya2FQcDNNUnBiODBWaktYWkxzT19LTHlNcUVsdVZDUHJtbFRtbGhydThRbTVPTXd3X1ZFbU1aU3BpX2FGTGZUVk5BVjhTREJmVl8zSGw0SElfOHZOVjZ2UmhyUHZiQ0RBYjJza0ljRzZ2Wlh1cHg2bEhJYkxqVS1mRl9nWHpmN2YyNXpTVTJwS1QybE9hemdMdTdWWU0xbzF0Si1LVnRndjdqZHJCTlUxMkwwOEpqZTc0XzNscDZFY1Vka3lXTXB3SGF2SlNJX3ZveW5rcDFoa2hObVh1M2RSLU1CSkN3Z2JhSnByVWtXRTFsQXFrS2JSV2piUQ?oc=5",
+      "source": "데일리안",
+      "published": "2026-11-19T23:25:00.000Z",
+      "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "포스코DX, 자동화 수주 회복…2027년 영업익 72% 증가 전망-신한",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3loMVIyQmxVVEhpOV9HWmtDZTA4QWNwTkN2X1F5TEllLVRPdU5ZVVJQMVpndVJBLXJWdFIzNjhSODNiUU1YTWlzZkd4cjljdHlTX0RKc2Z5dUUtRVRtR2pwenloWjVzYkE3T1lpakU0RXhVdkVhOF9lTmxfYXRENw?oc=5",
+      "source": "이데일리",
+      "published": "2026-11-19T23:23:33.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "[더벨]HT로보틱스, 구미전자정보기술원·서울대와 피지컬 AI 실증 맞손 - 머니투데이",
@@ -4539,6 +5685,17 @@
       "source": "뉴스퀘스트",
       "published": "2026-11-19T23:15:02.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "[증시전망대] 앤트로픽 상장 훈풍도 못 살린 뉴욕 증시…코스피, ‘역대급 과매도’ 시험대",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByc1NxUG8xeHdzN2ZsQVhJbFdiUzE3dTlVcDFPZUE0dWozM3lHb3pFeGVHTktkeklUUHZpcVFvUUtGUllGR0UyWnQwUGFmd1ZsQkh0MzlxSnRWQ1RLN21YalpKUnVkVC1XdGRhT9IBb0FVX3lxTE0yaWVENkNYdC1Rem5Ga1loMkV4d0FPSkNUaGgzeU9JZlk1bThwMnVqakpkXzFxNERCUkNEb2k4LW80NkN2bFJDWS1xU3pib1pQcnJ2QUxCTHFIVGtFRnFWZVEwUlBoNzh4VG1pbDlxZw?oc=5",
+      "source": "뉴스로드",
+      "published": "2026-11-19T23:14:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -4627,6 +5784,17 @@
       "source": "뉴스웰",
       "published": "2026-11-19T23:00:00.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "고령화*구인난 중소 조선업, AI*로봇 자동화로 돌파구",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ycG9odVBHZlRtYlFaeHZXWFhrUlMxVG01Y2xLWlNnNnNhX3lpT0VyRENmZkJIdzVhbFlxb05WTGpzekJLVWhNa0xFbkJFQWN3UFZxUw?oc=5",
+      "source": "부산경남대표방송 KNN 뉴스",
+      "published": "2026-11-19T23:00:00.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -4732,6 +5900,17 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "[오스코텍 분쟁 2막] 특위·외부평가로 주주 설득…인수재원 확보 '포석'",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqeEZqQVRMSVc1OUllMUpGbldlX1B1cEgydlJVX2RNWHBOQk1ib25VR0ItVjBiejlJREIybnV3UjBXa3ZVcTlOUFBWS2dvQ1E?oc=5",
+      "source": "딜사이트",
+      "published": "2026-11-19T22:10:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "[마켓 프리뷰] 코스피 등락 끝 상승…앤트로픽 상장 이후 수급 촉각",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JTDdKcnpKTldsd1NlMVpSRnhHWElDYWFkc3NLUnI3ejVPTW1KMXhsdHU1MXpYODF4aG9Db2otRUtDbW53akluYm9Ia2l2NEZPb3lZ0gFYQVVfeXFMTVdFbDA1c3gxOTBDb0YxTjFrRi0zRHRPeUtTZ29CTDRpVlA0bHZDODZGZjZCVVBKWE1lalVUMWZQUGx5UTVsN2lDQ3JDTjFqRHZJSXQ1Q0IyZA?oc=5",
       "source": "SBS Biz",
@@ -4809,11 +5988,44 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "[오스코텍 분쟁 2막] 오너 2세·GK에셋 연합…이사회 주도권 '쟁탈전'",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NWJxU3JDN193WmVCaTdXV0ZvckVhYlZEN3l0QWUzSEhWT05pMXlCSzQ0Q3ZfR25kQ3RyRTZONDAtZW4xLWJsU1R2cnhuYU0?oc=5",
+      "source": "딜사이트",
+      "published": "2026-11-19T22:00:00.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "앤트로픽 상장에 백만장자 수천명 탄생",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42bHFWY01URWlFbEpKMncxOHJuVHhXcVNYNVYxM2hvdzQ0Rno5NHkza3o4UzZfa2xXRVlSbWNqQnpjTGhjQUMtc1RGdlZmU0U?oc=5",
       "source": "애틀랜타 중앙일보",
       "published": "2026-11-19T21:59:10.000Z",
       "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "[인사이드 스토리]반도체공장 '견습생' 된 아틀라스의 남다른 무게감",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xdmxyQnBiSHpPLVE0bHNnOE1OdGpZcXJLeFlONzVOMnV4X1lmNlBLRTBVZUNzdlVpalB6R2VFZFlZMFYtX1NlRU1WS1Vqa3pMZWRvS1FEMGdMUlU4WlNqNEhGRW1oQ0dKNEhoaQ?oc=5",
+      "source": "비즈워치",
+      "published": "2026-11-19T21:50:02.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "“싸다고 덥석 샀다간”…저PBR 주식에 숨은 함정",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03QlA0LXlQNlltRUxXNUtxV2l3NmlCdm4zNDZhejhxOU9iWElEQmJOYjdLdjFtS3VJazdKY19SZVBCY2Y1Qnc3S2RlcHNrcVpCLS1kakZMSW9TVmFsSnNVQ2h3?oc=5",
+      "source": "이코노미스트",
+      "published": "2026-11-19T21:28:33.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -4825,6 +6037,17 @@
       "source": "이데일리",
       "published": "2026-11-19T21:27:30.000Z",
       "q": "IPO 공모주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "앤트로픽, 상장 첫날 공모가보다 17% 상승…시초가 매수자는 13% 손실",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SSXJmUFBjSGkyeHdCeS1rQXhLYzM2SjlTdkdTemdDRnNONWZRaFpyUDNack41Q1IzSkdEYWQyTkY0V0tiM3owbE1lb3FISlVSM0xscVRfckk1QjB2Rmx6QlVpRWxqd1NQTXRqRE1RZFE?oc=5",
+      "source": "비즈중앙",
+      "published": "2026-11-19T21:13:09.000Z",
+      "q": "자회사 상장",
       "related": [],
       "weight": 1
     },
@@ -4869,6 +6092,28 @@
       "source": "히트뉴스",
       "published": "2026-11-19T21:01:00.000Z",
       "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-20",
+      "title": "스펙 낮춘 엔비디아…'루빈 병목'이 바꾼 AI 반도체 권력 [AI 칩인사이드]",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5icU1IdmFsYTlodVhQRGNBUGNoX3M3aTZLZGxOckJ1MGhvMV95UnFaWmMya01nWHJ1TmZrM0xQWGszYTZoUloxd2lGSE42VWpRZHRCMUlCVGFEalhhcmtj?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-11-19T21:00:30.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "사람의 손짓을 배우는 로봇 [정원훈의 AI 트렌드]",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzbHNDZVRQNEpuTXd6c2sxdHJpSkh0ckM3cllBejc4d2hhajlobEwzRnRoeXdEUzY5cGNjTlhtTW9vUGNRQnJ3SnE2QlNleGZiSGRkTTNsbnNyb0NpZ09LbjlRcEdvZE85TTRmc0s4WlDSAXRBVV95cUxQMEhEM2FyVlBCU2FPMVpVcWY4elBuVlZDOUxoMUEtX2RTQjZCSHNXWk9HelozeS1Zbk9vbHRBN01wWmJNUVp1N2pMNmVsOEIyRm1DZU5qLUx4Y1NEZXBpWEZWN2pwWDhHRVZmaDdnbVZuTk5CTg?oc=5",
+      "source": "IT조선",
+      "published": "2026-11-19T21:00:05.000Z",
+      "q": "엔비디아 로봇",
       "related": [],
       "weight": 1
     },
@@ -4961,6 +6206,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-20",
+      "title": "[美증시 특징주] 앤트로픽 상장에도 반도체 '주르륵'…AMD 중국 우회수출 의혹 쇼크",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FRnFpT2NVNDFGSjZHbEZFRThCRTFxeGVrRU9xbnY5UzFGZUNXc0pLQ1FXdldRVGJ5bXh4bzhXTDRCSmpKVHpNN1RfN0JucWRydjBQNGRqZknSAVhBVV95cUxPRUZxaU9jVTQxRko2R2xGRUU4QkUxcXhla0VPcW52OVMxRmVDV3NKS0NRV3ZXUVRieW14eG84V0w0QkpqSlR6TTdUXzdCbnFkcnYwUDRkamZJ?oc=5",
+      "source": "미디어펜",
+      "published": "2026-11-19T20:06:15.000Z",
+      "q": "우회상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-20",
       "title": "AIDC 냉각 수주 3조·로봇 부품 양산 채비…LG전자, 미래사업 속도전",
@@ -4979,6 +6235,17 @@
       "source": "와우테일",
       "published": "2026-11-19T19:10:56.000Z",
       "q": "로봇 파운데이션 모델",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "엔비디아가 찍은 K로봇 두산로보틱스, ‘피지컬 AI’ 타고 전고점 넘을까",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tMlBIbGtMWHcwcWtLRHp6dlh0ck1xOWZ5NWItVTlGczY4SXFEaHJIMXRlZW5kUnpLX08wQ0ctN2JtYmcxNkIzcXdfeV9VbWU1XzJEb3lrSWNCRVJzeWxsUkYyMA?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-19T17:57:20.000Z",
+      "q": "피지컬 AI",
       "related": [],
       "weight": 1
     },
@@ -5049,6 +6316,17 @@
       "source": "지디넷코리아",
       "published": "2026-11-19T17:06:33.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-20",
+      "title": "50년 제조업 내공 구미시, ‘휴머노이드’ 타고 중국 뚫는다",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52dDVJX2k0OUNZVHJxMVVQU25mdkJSS2lZS3lXNHc3aVZ5bk5NTXlyRjhBbU00d0k4eG42OVB6Y1JlR05jLWxfNDEyS21YUU0zQTJjNzVOcGZXS2F4dGpVOUFXaw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-19T17:00:38.000Z",
+      "q": "휴머노이드",
       "related": [],
       "weight": 1
     },
@@ -5138,6 +6416,17 @@
     {
       "topic": "listing",
       "date": "2026-11-20",
+      "title": "소노인터내셔널, IPO 첫 관문 넘을까…연내 상장예심 통과 주목",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94RGxyMTRMX1JSelVQNmFlMVZ6LUJ1M0piOWZpcUJRY0dGMmhYUlJqOUZyMW5BUUtlRmpTTkFyVDQ0OVExbk5tdWxCWHNUVUhIek1mWGZXWTdoMzVHS29oV005Yw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-19T15:19:21.000Z",
+      "q": "상장예비심사",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-20",
       "title": "럭스퍼 홀딩스, 윈처치 캐피털 피인수 완료…NYSE 상장폐지·비상장사 전환",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RWkEzQjVDNzNYakNuN2VKOUV0V3lVaGU2UVVKX0Q0ZC14b19IRS1aVENCTzJYQkEzYk1ucHpXVFYyVF9pRDJ6TzVPQkxKeUpyb09qV3Q0ZV8tOHZuT1EzMEtPc2pJOW1oeEpRbVpfWnFPT1U?oc=5",
       "source": "데이터투자",
@@ -5219,6 +6508,28 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "삼성전자, 갤럭시에 ‘감정 기록’ 도입…건강관리 범위 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04czRpNFc2NU9KTkFoZE10bkdLS1NmQXZuclpLTTdEUmY1YUYtcmhtUnlPWndHTlVZSzZHaHMyNXZEYmhnaWl0TkNiVThjb3lIcTJ6djl2RDZfeC1lakZLSUVEY2o?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-19T13:54:33.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "삼성전자, AI 서버 메모리 증설 유연성 높인다…소캠2 제시",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVFRaVmFDaG9hdk82LWltc3k3SnhOTTkxLU1qNXhZalJBWDVVeWxJNGRNTU55dXk3WWZULWhuVExGRkJUUFB0Tmk4M3NXcFp4WXBIRzk1VmUxWk5vbW9oTm1uQno?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-19T13:54:26.000Z",
+      "q": "대덕전자",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
@@ -5226,6 +6537,17 @@
       "source": "인공지능신문",
       "published": "2026-11-19T13:48:18.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "네이버-두나무 합병 눈앞…'독과점 우려 해소' 관건",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtM2h1a3VaTHZ6b183dlV1OTJOOGs1Q2FfSDNJSlA4QzRha2RYU2xsaDJTaDZzdUhVRU5SM2J2SlkybjNxejZhb2FzdXdhQnNrMHhMYXJzaTM2OTZIUVRTNGtpYWpWRjBPellUdmd1WQ?oc=5",
+      "source": "시사포커스",
+      "published": "2026-11-19T13:41:49.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -5331,6 +6653,17 @@
       "source": "뉴스퀘스트",
       "published": "2026-11-19T12:37:20.000Z",
       "q": "공모주 수요예측",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "Musk: Huang 대체하기 어려울 것, SpaceX-Tesla 합병은 아직 미정",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZUdxSWRscHFwdVVVOHdQV3NxZ1BlOGpOa0h3c21VRGVVcnpUcDZFX085TFA3VTJaSEQ4QXU2SXNTZXlIdzF4bTZibGMxUExXb1JBNEQ2NmVMeTFnZjN5ZllGd2VXTlBuQlhDdEhmX19VUGllYTd5RmdEVUdjUXdWTzFuTmFmdWsxNlhCQ3dESlZnaHZBTHhQcjdHNXItMWk4T1VucnM5M1pOeTBMWTJiaW5IeXlsM09QUmdZTmExUm5IMGd6cDZVc2dIc0ZXLU9jUTJmLTFteWZIdl9iNmdiZXM2UGlDSV9EZy14NG5UdkhNSnBVODE1ODhXVjB3Vmc4ZU92QnRsbU43Z2ZZVGp6cVFDZ1JsRXBSN3VOaW5SYkFIMFM1T3JtRW5QMkJvX25WRFE?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-11-19T12:00:00.000Z",
+      "q": "엔비디아 로봇",
       "related": [],
       "weight": 1
     },
@@ -5628,6 +6961,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "[이태희의 JOB채(106)] LG 구광모의 정중동(靜中動) 행보, 새로운 서막 '피지컬AI 기업' 겨냥해",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRkxYZWM4YndnRWV2QWVvbGJsd1IwYkVOWkFJd0pnMHYwWFBPLU1aak9LOTNoTFdCa3JjQ1daWUlPZXBjUW5tZjJ4R2U2Xy1wVWFQVmFPWUhsTGs?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-11-19T09:47:00.000Z",
+      "q": "엔비디아 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-11-19",
       "title": "한양디지텍, 싱가포르 종속회사 HANYANG DGT 주식 319억4640만원어치 취득",
@@ -5646,6 +6990,17 @@
       "source": "시사저널",
       "published": "2026-11-19T09:40:57.000Z",
       "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "경북도, 내년 식품기업 39곳 스마트공장 구축 지원",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XakhnUUFBVklWTTUtbFhBZlNibnBHcy04V296bEdPMlRJM3lCVERBdmU2bGRielloLVVHc01ONFBDUDIzNXNYZkx5LUgtcEdfZWNMTWVsa21jakpfWEduWVkzMk5KS0RZaWlPYl82TQ?oc=5",
+      "source": "경북일보",
+      "published": "2026-11-19T09:39:15.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -5679,6 +7034,17 @@
       "source": "자본시장뉴스",
       "published": "2026-11-19T09:36:34.000Z",
       "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "[창간 40주년 특집] 인력난 대체 ‘8대 스마트건설 기술’ 각광···모듈러·탈현장공법 확산",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ONzF6TkpkVU8tTFBMbExLSXlRYmZET0tZdDRDWGo3WmxzcHliTUhHVDdndGZrdGxUZmZEYlNpMkszWnlfRjk4VGVKS0tOdHhSZUlmOVU4bk1zSl9nMkdIVkw1amNhX3lyYVFzatIBbEFVX3lxTE9ONzF6TkpkVU8tTFBMbExLSXlRYmZET0tZdDRDWGo3WmxzcHliTUhHVDdndGZrdGxUZmZEYlNpMkszWnlfRjk4VGVKS0tOdHhSZUlmOVU4bk1zSl9nMkdIVkw1amNhX3lyYVFzag?oc=5",
+      "source": "대한전문건설신문",
+      "published": "2026-11-19T09:33:39.000Z",
+      "q": "로봇 자동화 공장",
       "related": [],
       "weight": 1
     },
@@ -5809,6 +7175,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "'젠슨황 없는' 엔비디아 첫 실적 신기록…4분기 전망도 예상상회 > 시애틀 뉴스/핫이슈",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWVFmYlFGajVIQlV1dFlCV0lmY3VJdlUzM05kaUZQcXZhWHllYmVxV3lJSnlyWG1Nc2I1QlIwbDMwbHdmMDNIUkJjMXNVTThmM29vd2loSW01d1gxR2h0aUhzUFRrRmg3VVlnb0c3d2g?oc=5",
+      "source": "SeattleN",
+      "published": "2026-11-19T09:14:26.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "삼성 ‘현장 실증’ vs LG ‘AI 동맹’…휴머노이드 격돌",
@@ -5820,6 +7197,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "[HIT알공] HLB, HLB생과 흡수합병…유틸렉스 권병세 회장 복귀",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVTVHSlRzVkhBWHV3OUIwb015TmhVeTdreDJiektaMkFsQnVyRk1lODNrMW9lUFIwUDhveU8tQ1J3WWwzTTUtT0Y4c1h0dElpYVdUYm5XRDJ5Z0NXWk00TkVPVUVwVVNBMjdj?oc=5",
+      "source": "히트뉴스",
+      "published": "2026-11-19T09:06:35.000Z",
+      "q": "물적분할 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-19",
       "title": "[글로벌 핫스톡] 화정신재, 中 AI칩 소재 국산화 수혜",
@@ -5827,6 +7215,17 @@
       "source": "서울경제",
       "published": "2026-11-19T09:05:52.000Z",
       "q": "동박적층판 CCL",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "LG전자, 1000억원 규모 자사주 전량 소각…내년 추가 환원",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43RWt6dXRBN1k1VTR2S0ZDMm1PVmJvcHRlNUd0Yko0aS1FcENJWEtHN3Y0R1NjQnZfWV9ScXlUS2JaaDA1REo1MFZ0NDdGbTdGMXRwaERScERMaEdzaEFvYTA0a2M?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-19T09:05:08.000Z",
+      "q": "대덕전자",
       "related": [],
       "weight": 1
     },
@@ -5958,6 +7357,17 @@
       "weight": 1
     },
     {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "경남도, 중소형 조선소 생산기술혁신(DX)센터 준공…스마트 조선 전환 본격화",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aRERVaXdMYkNjY2ZGVGNtQ2RvQkNKdnBrQ2s0TW9zUVUtUmRlX2RvZjFrNnNCMTdjUW96MjBPVkVaeTBEZk51LVpnU0ZpdzlzMExDcUVfbWxHTVZvNjZJ?oc=5",
+      "source": "누리일보",
+      "published": "2026-11-19T08:51:10.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "listing",
       "date": "2026-11-19",
       "title": "앤트로픽 상장 앞둔 코스피, 거래대금 연중 최저치",
@@ -6082,6 +7492,17 @@
         }
       ],
       "weight": 3
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "HD현대로보틱스, 1톤급 초대형 로봇 첫 공급… 건설기계 엔진 공정 투입",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TeHRQdjhzQkNMY2ZZVGlYa2R5dGVqNlNyMXNOUzVpVHdpbHp2Uy03dlUwQllNaVdURlRQeFVXT0xVOVZFMUZ0WHVNazVONWpBMzkyUDA3V2hFN0g3T2ZnNk9HblpKWkVPMDBVbjRRcw?oc=5",
+      "source": "비즈트리뷴",
+      "published": "2026-11-19T08:45:33.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
     },
     {
       "topic": "listing",
@@ -6213,6 +7634,28 @@
       "source": "이투데이",
       "published": "2026-11-19T08:30:00.000Z",
       "q": "코스피 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "로봇 배치해 피지컬 AI 학습…印 휴민랩스, 4700만달러 투자유치",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Mmg5aV96SzRGcEUtWmViN2JtakJBajhHUG9mRXpNVlJPTkJFbFpHX1NFNkVFODJSY1lHdlFHMDh0b3BpUFdZNy0zRGFibkp2QkFyUFQzUTU0SFJPcnJ1MHdHcDV6dDhGUVUzdw?oc=5",
+      "source": "유니콘팩토리",
+      "published": "2026-11-19T08:30:00.000Z",
+      "q": "피지컬 AI",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "[IPO] 솔리스, 내년 1월 상장…\"유럽 이차전지 시장 진출 추진\"",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GejVmRGNQeU9qQzNDcC13ZEtHRjBlZWZZa2xZM0NVNjhXSHRmbFUtWlJLeGR0Ty16TXZNTlNnSDFFUDlscFNpRDJib3ctblUtaVJKVldXTGN4VUFPSnRXUkVndmFwdUE0S2VB?oc=5",
+      "source": "한스경제",
+      "published": "2026-11-19T08:29:56.000Z",
+      "q": "스팩 상장",
       "related": [],
       "weight": 1
     },
@@ -6608,6 +8051,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "합병 공정가치·의무공개매수·상장폐지 요건…M&A 제도 개선 과제 한자리서 논의",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfN3VtUEx1MDQxVlpSbmNuWmN4TUVlYkJjeEppUGVWTGV2NkE2QTVISlFBZ2s1WjdhYzJwWEw2ZUx1TGFvQWRyRE8tR1Y0WjNvYVhEWQ?oc=5",
+      "source": ":: 위즈경제 ::",
+      "published": "2026-11-19T08:00:00.000Z",
+      "q": "상장폐지 요건",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "벨기에 인텔리프로브, 270만 유로 투자 유치…휴머노이드에 생체 신호 측정 기술 적용",
@@ -6855,6 +8309,17 @@
       "weight": 2
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "삼성전기, AI 서버용 부품 공급 확대…내년 분기 영업익 1조원 전망",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XM054T1BOblVDZVdhQ0UxQlBmSUdwVlRQRVZ0ejNsTUZMZVFiSTNhbFI5UkVlSmdiTjFjbTVlUTBoYnlkaHFhUDR5RlRtNHVjU3J1ZDF5czVQTlBzOHZ5V3BYNldjdklyMmxlb2xidUY?oc=5",
+      "source": "비즈트리뷴",
+      "published": "2026-11-19T07:48:15.000Z",
+      "q": "FC-BGA",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "레인보우로보틱스 주가, 11월 19일 애프터마켓 425,500원 4.55% 상승",
@@ -6906,6 +8371,17 @@
       "source": "디일렉",
       "published": "2026-11-19T07:43:01.000Z",
       "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "코스피,美앤트로픽 상장 기대에 1.4% 오른 5,100선",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94NUR3MmNWZ0lwb2M3dnJQdDJidFZUQ3JRSkx5UGpLS3MxLVdiVjcxNTNEbGxtNlBweVl3MlVFQ0pDb2g4UVFHTTNiRVQyZGdRRm5FcVdTVkZHYUQ1TG9iamotYUhHX1N2WVVLd2pB?oc=5",
+      "source": "서울이코노미뉴스",
+      "published": "2026-11-19T07:43:00.000Z",
+      "q": "코스피 상장",
       "related": [],
       "weight": 1
     },
@@ -7280,6 +8756,17 @@
       "weight": 2
     },
     {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "2028년 완성차 로봇 경쟁 본격화...GM ’도입’ 늘리고, 현대차 ’양산’ 나선다 By EBN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMWhHVDJlNFhISnFuZXhvNlgxTldSMTVvSzdvQTNTR05vN2F3MmZnenh6OGRLeDk1ekhCV2h6bEpUUVRweENEeElQcFFmNEw4eEJrYnI4N0ZBdlN2VHF5bFdHRlJEbGNYbTBlTEwyckg?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-11-19T07:23:00.000Z",
+      "q": "로봇 자동화 공장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-19",
       "title": "LG이노텍, 임원 9명 승진·선임…\"R&D 인재 전진 배치\"",
@@ -7440,6 +8927,17 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "나렌드라 모디 인도 총리, IIT 마드라스에서 뇌 100여 개 3D 지도 사업 출범",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRV2ExMlZZSC16TnNsMTFiTmM1RUdIWlVfSC1YdEpINWgxbGJ1UEl4MmFPcllSNWZsRGVOVE04TmJNQWhIN3Nab0VCQk9PYmd3dy03SkZnTUF5aTB0ZmpoT0tHWjlQR09R0gFsQVVfeXFMUFVYOWdrelEzSm04c3BURk9XU2c1NGFYTHBKOHdtZlRzbUxtYWVXUGhleWl3WDlNMC10NTRqd3JfQVhUVzV4dE9HTE9RbVlZSmNlbTVvS1NHOWoxVVBQTDg2clJIYTFiWG8xRTVi?oc=5",
+      "source": "KIPOST",
+      "published": "2026-11-19T07:07:00.000Z",
+      "q": "유리기판",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "2028년 완성차 로봇 경쟁 본격화...GM '도입' 늘리고, 현대차 '양산' 나선다",
@@ -7469,6 +8967,28 @@
       "source": "잡포스트",
       "published": "2026-11-19T07:04:10.000Z",
       "q": "상장 철회",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "로봇 전문가 100여명 구미에서 미래 전략 논의",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6T3hIUEhuYlZUSUlsYkNtTDg3VEY1OHpjdE51Q0ZlTzA5cGdJVHZYdVlVWE8tUUxnbk5YMERjakg2bmRiRC1SS010a1VRM3dLbmc?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-11-19T07:02:04.000Z",
+      "q": "레인보우로보틱스",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
+      "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6QVV6SjVlT3B1bk5Zb05IMjVmNlhQNUhHMlgyRVkyQUt3MlJfSDBiN0lYVk9hRWVwRDlkcnBoZ09aR2VHX1hkVFNRVTBMeTVZZTZqaVI3d0xaOGZZdlZXMklseEhHaThtYlE?oc=5",
+      "source": "AI타임스",
+      "published": "2026-11-19T07:00:22.000Z",
+      "q": "엔비디아 로봇",
       "related": [],
       "weight": 1
     },
@@ -7612,6 +9132,17 @@
       "source": "핀포인트뉴스",
       "published": "2026-11-19T06:43:46.000Z",
       "q": "반도체 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "LG화학 반도체 후공정 핵심 소재 '정조준'…日 후루카와전기, 한국서 특허 소송",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4SGs5azM2aERpak5FZ3dmVlFyN3RKcTNDS25SdXNqcGxadVMxb1Y2R2ZlS2RBd2lpNmxydG5PYlQ4SzlKR3J5LTczbXVKVXktUy1aT2x5NF9xeDh3RDh3aEZOOA?oc=5",
+      "source": "더구루",
+      "published": "2026-11-19T06:40:04.000Z",
+      "q": "동박적층판 CCL",
       "related": [],
       "weight": 1
     },
@@ -7832,6 +9363,17 @@
       "weight": 2
     },
     {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "[집중분석] 李, 왜 '적대적 M&A' 꺼냈나…주가 넘어 지배구조 겨냥",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZ0hibUplMjlkS1lyVTU3MmNYX0pDLS1QS3VieWlfU0lhRjVkYVFmWVVzejhTNlRvdEpVMUkxNHd5cEVXb3lkTG00S2ViN2ZQX2RuWW13TkNhRlNlQXMxQ3praWVMbWlVa3lZ0gFvQVVfeXFMTU1udlpyLTktTDlCcEd2c1VrRFNnWWY1cF96TDJSTmJLUUNmNzg0bzRaQVNJaUpVWlp1UDYwUU1xMTNOWnBnMWgtYmRLa2JYMHZacjRPMUZ2Sl9QeFJxUXI2M2JWdEt6cFRMR2ZXSHJj?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-11-19T06:00:06.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-19",
       "title": "실리콘으로 '안 보이던 적외선' 찍는다…저가 단파적외선 센서 개발",
@@ -7850,6 +9392,17 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "2026-11-19T05:53:00.000Z",
       "q": "자회사 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "[포커스] 삼전닉스 빼고 보니…영업익 증가분 절반은 삼성SDI 몫",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UaUZsejdWT19rMzJpZThrSVR2ZDdocDZ6dk90TjFPNFdqQXdpbmVrU2twcTYxNjhEZ1FrR080NXgzNU96dUVjSERfbVRTSmxuQi1qdXJzdWdDMDNTSUdYZnNXbVNzeWlsN1pTZUhTbHNHZHM?oc=5",
+      "source": "오늘경제",
+      "published": "2026-11-19T05:50:33.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
@@ -8224,6 +9777,17 @@
       "weight": 1
     },
     {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "SK, 이사회 중심 경영 고도화...최태원 “주주가치 극대화 관점 소통”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIY3hGVXJuSTdrSEdES1oyZXk5RWJIN3BJQ0VfWUVnVUhXMGs0NmpqTDNkV1A5WEc0ZnhFdWd1T2t1QXZ6NFpyODRjbjMxVUZ1RFdudkpLaVVYcHJ1UU1DTTByWlMySUFUT2VvRXJjSQ?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-11-19T04:51:10.000Z",
+      "q": "중복상장",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "pcb",
       "date": "2026-11-19",
       "title": "AI 반도체 패키징의 차세대 승부처…유리 기판 상용화 속도 붙나",
@@ -8231,6 +9795,17 @@
       "source": "핀포인트뉴스",
       "published": "2026-11-19T04:47:07.000Z",
       "q": "기판 수주",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "솔리스, SK하이닉스 인디애나 수주 발판···북미 반도체 시장 진출",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEellKdHk4NmV6cEdoUFJhMFcxU0pFTlFZQUh1U09KczFGcVp0Z1VYUm5sZnZUVWRHZTNEMzhsOXJSLUJCVFN0TW5RdFd4ZkpfWkswN01BNVhhWC1vWWZYQkRBNktWVnFtN0E?oc=5",
+      "source": "뉴스웨이",
+      "published": "2026-11-19T04:42:10.000Z",
+      "q": "스팩 합병",
       "related": [],
       "weight": 1
     },
@@ -8325,6 +9900,17 @@
     {
       "topic": "physical",
       "date": "2026-11-19",
+      "title": "노동부·폴리텍, 피지컬 AI 테스트베드 4곳 지역 중소기업에 연다",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZlJQamh4TUQ1cVZONElWMzZicXRfdHQxeDNBaU00ekhnaW1rU3doMUF2NlFnRVpwVjdsZ1ZRb1hraDN5Q1FRNXpfQTVBZERYS2pCSWlQNGRpSWhVWTVyV19yaHBnVXdQMEVV?oc=5",
+      "source": "사례뉴스",
+      "published": "2026-11-19T04:16:04.000Z",
+      "q": "협동로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "physical",
+      "date": "2026-11-19",
       "title": "\"한라캐스트, 휴머노이드 로봇 부품 양산 본격 추진\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UQ1pyOEo1LUV0Zkd0NlJabk04QWEtYWI3RGtTdmVxM2NxWkl0VHRkVFkwNEFFN01mYlMwYlhvd2pZRmVMNjhOZ1NwNlB2Y1Q4NnJscGtMdHpFZ2JpOFZqZjZSdnRSZnM0YmpIaQ?oc=5",
       "source": "로봇신문",
@@ -8389,6 +9975,28 @@
       "weight": 1
     },
     {
+      "topic": "pcb",
+      "date": "2026-11-19",
+      "title": "AI 칩 다음은 여기… 엔비디아가 지갑 연 韓 기업의 정체",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkVOVVBQelhGWGtnOUlEcGM0bTgwNzBxNDBQcmF6d2FjY19PNU43UWJvc0RBRHBSNG1JNWZZOVpBbFlZRDJ3SXZOQ1FVUFZGLWFnTndfVzlrU1hJNDRzUkF0Z2JlQXVhNFp5d3U5VHRGVlM2Z3VSTEppakQwN05Ca01QQ1dyQ0NlZG9SNWR5UUZNbzdudml6Zk5Yc2jSAaQBQVVfeXFMUGxObTQ3V1ZEU3c0QnMxWktRVnNJT0RvOHVPdTY2aGUxX05NSkVOckNrQXdHQl9UcExIbWladERwa2RNNVFxTGd2Q0NlWGhBUE1NM01yU0VnNlJWY0JrM296VlVUWDRSTlNacHhSMXZZaDNrNno2RU9Yb2M0RnVWSTBrejRjUUpuWEw1bTVreWRYR1dZNzdkQzV1eUZJYWpxeW9kaVg?oc=5",
+      "source": "리포테라",
+      "published": "2026-11-19T03:48:34.000Z",
+      "q": "삼성전기 기판",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "[현장] 이종필 솔리스 대표 \"美 기반 2027년 역대 최고 매출 자신\"",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUxZanNua0xzenBtMlZ5ckJCeV9ibUwtU0Z5c3JyNy00NzRlZzlVZDJWVGNLUFVhX2JXRUdnVllSc2VvdE1MRWt1VmVZVjBZMmFhazk5dmg2QjgxTDgyRHVVdmNNcUxsdHc?oc=5",
+      "source": "뉴스포스트",
+      "published": "2026-11-19T03:24:21.000Z",
+      "q": "스팩 합병",
+      "related": [],
+      "weight": 1
+    },
+    {
       "topic": "physical",
       "date": "2026-11-19",
       "title": "서울시, 벤처투자 12.6조원 역대 최대...AI·로봇 투자 '활활'",
@@ -8396,6 +10004,28 @@
       "source": "충청뉴스큐",
       "published": "2026-11-19T03:23:55.000Z",
       "q": "로봇 투자 유치",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "“코스닥 상장기업, ‘기관투자자 유입 촉진’ ‘부실기업 신속 퇴출’ 필요에 공감”",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZdlVRakdqQko5XzRBckZ6SFU5YnJuUEdoMXhMYmFnYzNSQXFlYmF2NkVKNnYwank5SE5XQ3ZXMjg3WVp6TVE4azE2eTlNSlkyamRCQ01NckQybExPM0V6WWVLUlh6SW9GbmxJemQwRDZBQWNEaHfSAWZBVV95cUxOY1YwMnh5Sk9ZMWR2djN2RzNqbXRTMEpfWDRvdVo3Q1kzRG9MR21uX3ZKNklVamRZVEZTTGNlM2FJVUFSbnZmcmRMcmpHVl9nTzhxM01ZVy1yQVh6VERIWGV2RnlCS0E?oc=5",
+      "source": "동아일보",
+      "published": "2026-11-19T03:14:15.000Z",
+      "q": "코스닥 상장",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "IBK기업은행 “비상장기업 81% 코스닥 상장 긍정적”…기업 성장 지원 확대",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ra1dpbUpTYTdpUGQ5TDBRS1NhMUZ3d3U4Ry0yTDc4eUdaTkRTV2J4aXYwZmNGWlNQZmw4MGVOSlF4ZXFFMnJPODdlT3JKWUVYREY3bGRKb0Y5UHlYcG4yb01kNGlOaVdZYzZyTS03cUk?oc=5",
+      "source": "리드경제",
+      "published": "2026-11-19T03:13:38.000Z",
+      "q": "코스닥 상장",
       "related": [],
       "weight": 1
     },
@@ -8484,6 +10114,17 @@
       "source": "현대경제신문",
       "published": "2026-11-19T02:56:16.000Z",
       "q": "휴머노이드 로봇",
+      "related": [],
+      "weight": 1
+    },
+    {
+      "topic": "listing",
+      "date": "2026-11-19",
+      "title": "올 코스피 IPO는 1곳뿐… 중복상장 규제에 ‘대어 실종’",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JcGRnZ3U0VENVT2tHN2lNbEQ4UlZ0bGEycDVLbDdpNnktaTBlOHdScTd1N0pqeEtDUHM4SVIyRi02X2NUcFQ5NEQ2OEQzR3h4?oc=5",
+      "source": "문화일보",
+      "published": "2026-11-19T02:56:16.000Z",
+      "q": "중복상장",
       "related": [],
       "weight": 1
     },
