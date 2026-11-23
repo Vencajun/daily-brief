@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-22T16:58:35.191Z",
+  "updated": "2026-11-23T02:04:37.584Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "LS",
+      "report": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-11-23",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800002",
+      "id": "20261123800002-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "감시 기업, 단일판매",
+      "corp": "LS",
+      "report": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+      "date": "2026-11-23",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800001",
+      "id": "20261123800001-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "큐리언트",
+      "report": "효력발생안내( 2026.11.6. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-23",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109100014",
+      "id": "20261109100014-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
