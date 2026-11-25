@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-24T20:02:03.008Z",
+  "updated": "2026-11-25T04:42:55.998Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "액트로",
+      "report": "주권매매거래정지              (무상증자)",
+      "date": "2026-11-25",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900174",
+      "id": "20261125900174-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "현대바이오랜드",
+      "report": "주권매매거래정지              (중요한 영업정지)",
+      "date": "2026-11-25",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900159",
+      "id": "20261125900159-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "엔키화이트햇",
+      "report": "효력발생안내( 2026.11.3. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-25",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103100030",
+      "id": "20261103100030-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "에이엔에이치스트럭쳐",
+      "report": "효력발생안내( 2026.11.3. 제출 증권신고서(지분증권) )",
+      "date": "2026-11-25",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103100002",
+      "id": "20261103100002-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
