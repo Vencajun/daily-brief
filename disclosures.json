@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-25T19:02:30.159Z",
+  "updated": "2026-11-26T03:51:54.288Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "씨씨에스",
+      "report": "주권매매거래정지              (투자자 보호)",
+      "date": "2026-11-26",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900136",
+      "id": "20261126900136-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "주식의포괄적교환",
+      "corp": "네오오토",
+      "report": "효력발생안내( 2026.11.16. 제출 증권신고서(주식의포괄적교환ㆍ이전) )",
+      "date": "2026-11-26",
+      "market": "코스닥",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116100015",
+      "id": "20261116100015-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
