@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-27T03:53:02.171Z",
+  "updated": "2026-11-27T18:45:45.767Z",
   "items": [
+    {
+      "topic": "listing",
+      "reason": "매매거래정지",
+      "corp": "오건에코텍",
+      "report": "주권매매거래정지",
+      "date": "2026-11-27",
+      "market": "코넥스",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127601174",
+      "id": "20261127601174-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "대동",
+      "report": "증권신고서(지분증권)",
+      "date": "2026-11-27",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002035",
+      "id": "20261127002035-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "증권신고서(지분증권)",
+      "corp": "씨아이에스케미칼",
+      "report": "[기재정정]증권신고서(지분증권)",
+      "date": "2026-11-27",
+      "market": "기타",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001324",
+      "id": "20261127001324-listing"
+    },
+    {
+      "topic": "listing",
+      "reason": "주식의포괄적교환",
+      "corp": "KISCO홀딩스",
+      "report": "증권신고서(주식의포괄적교환ㆍ이전)",
+      "date": "2026-11-27",
+      "market": "코스피",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001110",
+      "id": "20261127001110-listing"
+    },
     {
       "topic": "listing",
       "reason": "매매거래정지",
